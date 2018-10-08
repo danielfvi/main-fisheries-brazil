@@ -15,10 +15,22 @@ Brazil has over 7 thousand kilometers of coastline and one of the largest river 
 
 The lack of national fisheries statistics posed a great challange to this study. Several resarchers and fisheries managers consulted during the study pointed out the lack of data to provide basic information on Brazilian fisheries such as how much it produces, how much it consumes or even the number of fishers in the country. In an interview with the most renowed fisheries scientist in the country, F?bio Hazin, he pointed out that there are between 400 thousand and one million fishers in the country. Additionally, he pointed out that data from FAO on Brazilian fisheries is mostly only a copy of the production from the previous year. And this has been going on since 2008, when the last year of national fisheries statistics was recorded. Therefore, we had to be creative to conduct this study. We contacted people from all fisheries sectors to find out what was available. After an extensive search, we gathered six different databases representing the different fisheries sectors and conducted an extensive literature research. We also identified other potential sources of information that we were not able to get in time for this study. 
 
-Because the information gathered are from many different sources, different time periods and regions, we seperated the results of the report by database. In some instances, there are different databases to respond one question. In other instances each database will provide one piece of information to respond the questions posed in this study. After describing  and discussing the results of each source of information, we will have a concluding section to Each database contains a piece of information that in many cases overlap information  were sparce many time speciefic to a region
+Because the information gathered are from many different sources, different time periods and regions, we seperated the results of the report by database. In some instances, there are different databases to respond one question. In other instances each database will provide one piece of information to respond the questions posed in this study. After describing  and discussing the results of each source of information, we will have a concluding section to review information from all databases and provide a critical discussion of the results. The databases used were:
 
-```{r cars}
-summary(cars)
+1) SIGSIF - Data obtained from sanitary inspection services of the ministry of Agriculture, Brazil. This database contains all seafood processed by fishing industries that caries a federal inspection certificate. This certificate is required for indutries to comercialize their product to different states of Brazil and to export and import seafood products. It is a rigorous inspection, where one of the requirements is to report all seafood that enters each company. Thus, this database includes all seafood products by species imported or from domesti production that enters all seafood processing companies with the federal inspection certificate. It includes both aquaculture and wild caught products from both freshwater and the ocean. 
+
+2)CEAGESP - CEAGESP is the largest wholesale open seafood market in Latin America. It is run by a state-owned company where sellers and buyers from all over the country gather to commercialize seafood and seafood products.
+
+3)MDIC - Import and Export data from the Ministry of Development, Industry and Foreign Trade. This database contains all seafood imported and exported in Brazil.
+
+4)State fisheries landings - Fisheries landings data from three states of Brazil were there is continuous data collection and where these data are publicly available. 
+
+
+
+
+
+```{r}
+parana.data <- read.csv("parana.csv")
 ```
 
 ## Including Plots
