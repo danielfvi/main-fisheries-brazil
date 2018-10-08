@@ -1,0 +1,32 @@
+---
+title: "Mostt Important Fisheries - Brazil"
+author: "Daniel Viana"
+date: "October 4, 2018"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Introduction
+
+Brazil has over 7 thousand kilometers of coastline and one of the largest river networks in the world, with only the amazon river covering over 7 million kilometers square of water. Fisheries resources in Brazil are extremely important for income and food securuty of millions of people throughout the country. Despite enourmous social and economic importance, governemnts focus very little attention to the fisheries sector. According to a study conducted by the ministry of environment, 80% of fish stocks are overexploited or fully exploited. In addition, there is no basic fisheries statistics in the cuntry since 2008. This signals the urgency for sustainable management of fisheries in order to guarantee the livelihoods of fishers, improve food security in the country, and conserve marine biodiversity. 
+
+The lack of national fisheries statistics posed a great challange to this study. Several resarchers and fisheries managers consulted during the study pointed out the lack of data to provide basic information on Brazilian fisheries such as how much it produces, how much it consumes or even the number of fishers in the country. In an interview with the most renowed fisheries scientist in the country, F?bio Hazin, he pointed out that there are between 400 thousand and one million fishers in the country. Additionally, he pointed out that data from FAO on Brazilian fisheries is mostly only a copy of the production from the previous year. And this has been going on since 2008, when the last year of national fisheries statistics was recorded. Therefore, we had to be creative to conduct this study. We contacted people from all fisheries sectors to find out what was available. After an extensive search, we gathered six different databases representing the different fisheries sectors and conducted an extensive literature research. We also identified other potential sources of information that we were not able to get in time for this study. 
+
+Because the information gathered are from many different sources, different time periods and regions, we seperated the results of the report by database. In some instances, there are different databases to respond one question. In other instances each database will provide one piece of information to respond the questions posed in this study. After describing  and discussing the results of each source of information, we will have a concluding section to Each database contains a piece of information that in many cases overlap information  were sparce many time speciefic to a region
+
+```{r cars}
+summary(cars)
+```
+
+## Including Plots
+
+You can also embed plots, for example:
+
+```{r pressure, echo=FALSE}
+plot(pressure)
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
