@@ -9,28 +9,195 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## Introduction
+# Introduction
 
-Brazil has over 7 thousand kilometers of coastline and one of the largest river networks in the world, with only the amazon river covering over 7 million kilometers square of water. Fisheries resources in Brazil are extremely important for income and food securuty of millions of people throughout the country. Despite enourmous social and economic importance, governemnts focus very little attention to the fisheries sector. According to a study conducted by the ministry of environment, 80% of fish stocks are overexploited or fully exploited. In addition, there is no basic fisheries statistics in the cuntry since 2008. This signals the urgency for sustainable management of fisheries in order to guarantee the livelihoods of fishers, improve food security in the country, and conserve marine biodiversity. 
+Brazil has over 7 thousand kilometers of coastline and one of the largest river networks in the world, with only the amazon river covering over 7 million kilometers square of water. Fisheries resources in Brazil are extremely important for income and food securuty of millions of people throughout the country. Despite enourmous social and economic importance, governemnts focus very little attention to the fisheries sector. According to a study conducted by the ministry of environment, 80% of fish stocks are overexploited or fully exploited. In addition, there is no basic fisheries statistics in the country since 2008. This signals the urgency for sustainable management of fisheries in order to guarantee the livelihoods of fishers, improve food security in the country, and conserve marine biodiversity. 
 
-The lack of national fisheries statistics posed a great challange to this study. Several resarchers and fisheries managers consulted during the study pointed out the lack of data to provide basic information on Brazilian fisheries such as how much it produces, how much it consumes or even the number of fishers in the country. In an interview with the most renowed fisheries scientist in the country, F?bio Hazin, he pointed out that there are between 400 thousand and one million fishers in the country. Additionally, he pointed out that data from FAO on Brazilian fisheries is mostly only a copy of the production from the previous year. And this has been going on since 2008, when the last year of national fisheries statistics was recorded. Therefore, we had to be creative to conduct this study. We contacted people from all fisheries sectors to find out what was available. After an extensive search, we gathered six different databases representing the different fisheries sectors and conducted an extensive literature research. We also identified other potential sources of information that we were not able to get in time for this study. 
+The lack of national fisheries statistics posed a great challange to this study. Several resarchers and fisheries managers consulted during the study pointed out the lack of data to provide basic information on Brazilian fisheries. Information such as how much the country produces, how much it consumes or even the number of fishers in the country are very sparce. In an interview with the most renowed fisheries scientist in the country, Fabio Hazin, he pointed out that there are between 400 thousand and one million fishers in the country. Additionally, he pointed out that data from FAO on Brazilian fisheries is mostly a copy of the production from the previous year. And this has been going on since 2008, when the last year of national fisheries statistics was recorded, and even then it wasnt very reliable. Therefore, we had to be creative to conduct this study. We contacted people from all fisheries sectors to find out what was available. After an extensive search, we gathered six different databases representing the different fisheries sectors and conducted an extensive literature research. We also identified other potential sources of information that we were not able to obtain in time for this study. 
 
-Because the information gathered are from many different sources, different time periods and regions, we seperated the results of the report by database. In some instances, there are different databases to respond one question. In other instances each database will provide one piece of information to respond the questions posed in this study. After describing  and discussing the results of each source of information, we will have a concluding section to review information from all databases and provide a critical discussion of the results. The databases used were:
+The databases used were:
 
-1) SIGSIF - Data obtained from sanitary inspection services of the ministry of Agriculture, Brazil. This database contains all seafood processed by fishing industries that caries a federal inspection certificate. This certificate is required for indutries to comercialize their product to different states of Brazil and to export and import seafood products. It is a rigorous inspection, where one of the requirements is to report all seafood that enters each company. Thus, this database includes all seafood products by species imported or from domesti production that enters all seafood processing companies with the federal inspection certificate. It includes both aquaculture and wild caught products from both freshwater and the ocean. 
+1) SIGSIF - Data obtained from the sanitary inspection services of the ministry of Agriculture, Brazil. This database contains all seafood processed by fishing industries that caries a federal inspection certificate. This certificate is required for indutries to comercialize their product to different states of Brazil and to export and import seafood products. It is a rigorous inspection, where one of the requirements is to report all seafood that enters each company. Thus, this database includes all seafood products by species imported or from domestic production that enters all seafood processing companies with the federal inspection certificate. It includes both aquaculture and wild caught products from both freshwater and the oceanic species. 
 
-2)CEAGESP - CEAGESP is the largest wholesale open seafood market in Latin America. It is run by a state-owned company where sellers and buyers from all over the country gather to commercialize seafood and seafood products.
+2)CEAGESP - CEAGESP is the largest wholesale open seafood market in Latin America. It is run by a state-owned company where sellers and buyers from all over the country gather to commercialize seafood and seafood products. We obtained information on all the seafood products commercialized in the fair by species and price of comercialization. 
 
 3)MDIC - Import and Export data from the Ministry of Development, Industry and Foreign Trade. This database contains all seafood imported and exported in Brazil.
 
-4)State fisheries landings - Fisheries landings data from three states of Brazil were there is continuous data collection and where these data are publicly available. 
+4)State fisheries landings - Fisheries landings data from three states of Brazil were there is continuous data collection and where these data are publicly available. These states have this publicly available data because of a partnership of Universities with Petrobras. Petrobras is required to collect landings information for insurance purposes and has made it pubicly available for research purposes. 
+
+5)IBGE - Brazilian Institute of Geography and Statistics. This federal institute is responsible for surveying the country to provide basic information on all social aspects of Brazil. We gathered two pieces of information to inform our analysis: household food consumption and income by region of Brazil. 
+
+6)Fishing Permits - Number of registered fishers in the country from the extinct Ministry of Fisheries and Aquaculture (MPA). 
 
 
+#1. Fisheries Context
 
+FAO and SAU data
 
+#2. Fisheries Employment and Income 
+
+## Top Fisheries by Employment
+
+As pointed ot in the introduction, Brazil has no reliable data on the number of fishers in the country. To respond this question we put together several pieces of information from different sources to have an estimate of the importance f fisheries for employment. Data from the IBGE (2013) estaimates that Brazil has about 500 thousand fishers throught the country, with 90% being from the small-scale sector and 10% from the industrial sector (Campos and Chaves 2016). Data from the Ministry of Fisheries and Aquacuture suggests there are many more fishers in the country (Figure 1). According to these data, there were about 900 thousand fishers in 2010 throught the country. According to the MPA, 95% of the registered fishers are from the small-scale sector. However, it is important to note that these are fishing permits emmited by the government, which provides important benefits to those who have them. The most important benefit is the "seguro defeso" or "closure insurance". This benefit garantees a minimum wage salary for fishers during the closure period for reproduction of their main resources. Threfore, depending on the fishery, having the fishing permit will guarantee the person holding this permit from 3-6 months of salary. This caused a huge increase on the number of registered fishers in the country, with manypeople obtaining the license without even being a fisherman or fisherwoman. This caused a big scandal in Brazil in he last few years, with an investigantion from the federal government and prohibition of emmiting new licences in the last three years.  
 
 ```{r}
-parana.data <- read.csv("parana.csv")
+###Number of registered fishers
+rgp.data = read.csv("rgp_MPA.csv")
+
+ggplot(rgp.data, aes(x = year, y = fishers)) + 
+  geom_bar(stat = "identity") + 
+  labs(x="Year", y="Number of Registered Fishers") + 
+  ggtheme_plot()
+
+```
+
+Assuming that the number of fishers are between 500 thousand and 1 million, and that about 90% of them are from the small-scale sector, the most important fisheries for employment in the country are those from the artisanal sector. The artisanal secotr is where we have the least amont of data on the production and species harvested. There is an estimate from the MPA that 50-70% of the catch from the entire country comes from the artisanal sector. Small-scale fisheries in Brazil target hundreds of species and there is no reliable information on the most important species for this sector. Most of the registered fishers in Brazil are from the North and Northeast reagion of Brazil. In these regions, freshwater resources from the Amazon and estuarine fisheries are very important. From the Amazon, the top commercialized fish are: curimatã (Prochilodus nigricans), jaraqui (Semaprochilodus spp.), matrinchã (Brycon amazonicus), pacu (Mylossoma duriventre), tambaqui (Colossoma macropomum) and tucunaré (Cichla monoculus) (data from the secretary of fisheries in the Amazon state). In the estuaries, there are many important resources such as the mangrove crab, shrimp, acoupa weakfish and snook (information gathered though literature review and interviews). Besides these fisheries, the small-scale fishers target all ecosystems and resources, such as pelagic, reefs, demersal and coastal. In the Northeast region, reef fisheries are very important, captring some highly valued species such as snappers, groupers and lobsters. Along the coast, the mullet fishery is very important especially in the south, where a quota system was implemented this year.
+
+Industrial fisheries employ only about 10% of the fishers in the country and is responsible for about 50% of the fisheries production in the country. The industrial sector in Brazil is mainly concentrated in the south of Brazil, especially in Santa Catarina state where the main industrial fisheries port is located. Landings data from Santa Catarina indicate that sardines are the most important species, followed by corvina and skipjack tuna (Table 1). 
+
+```{r}
+#State of Santa Catarina
+sc.data = read.csv("Santa Catarina.csv")
+
+###Graph main species - production
+sc.prod = sc.data %>% 
+  filter(year == "2017") %>%
+  group_by(species) %>%
+  summarize(sum(production_kg)) %>%
+  rename(Species = species, Production = "sum(production_kg)") %>%
+  arrange(desc(Production))%>%
+  transform(Percent = Production/sum(Production)*100)
+
+  kable(sc.prod[1:10,], caption = "Table 1 - Main species caught in Santa Catarina state, Brazil in 2017", booktabs = T) %>%
+  kable_styling(latex_options = c("striped", "hold_position"))
+
+```
+
+Emplyment along the supply chain varies according to the region, fisheries and species comercialized.
+
+According to data published by the Seafood Industry Association (ABIPESCA), the seafood industry employs about 8k direct employments and 30k indirect employment
+
+
+
+ 
+o	What types of employment in fish-related activities does each fishery support? Which activity provides the most employment for each fishery?
+•	Crab fisheries – one of the main resources from the small-scale sector. Live market in capitals and tourism destinations. Crab meat market employs mainly man in the capture and woman in processing of crab meat. Many crab species have the same characteristics. Bivalves are also an important resource for the small-scale sector and like crabs has both capture and processing by fishers and their family. While live crabs and bivalves are consumed mostly locally, crab and bivalve meat can be distributed throughout the country, involving an even greater number of people throughout the supply chain. CITATION/PUBLICATION  
+•	Fish from artisanal sector – Fish resources from the artisanal sector are mostly sold locally but can also have longer supply chains. For example, snooks and snappers are highly valuable in large metropolis such as Rio, Brasilia and Sao Paulo. Therefore, these fish may have long supply chains to reach final consumers, with large number of people employed throughout the supply chain. DATA from CEAGESP.
+•	Fish from industrial fisheries 
+•	Sardines – this fishery employs many people because of the market value of canned fish. Sardines are some of the most commonly consumed fish by the Brazilian population. Therefore, this fishery has a relatively long supply chain involving producers (fishers), processors and distributors.  
+•	Tuna – Like the sardine, this fishery also employs many people along the supply chain. Tunas are commercialized canned, fresh and frozen. It is one of the main resources in Brazil, with a large fishery in the south region
+o	For each fishery, how does employment vary by type of fishing fleet? Which type of fleet is the source of the most employment?
+
+•	Top Fisheries by Income
+o	What are the top fisheries based on total income generated?
+•	Very few information on the supply chain
+•	ABIPESCA
+•	8k direct employments
+•	30k indirect employment
+•	R$ 8 billion revenue
+•	Nielsen
+•	sardine – 1.4b
+•	Tuna -145m
+•	MDIC 
+•	Imports – 1.4 million dollars
+•	Exports – 200k dollars
+o	What are the top fisheries based on per-employee income?
+•	Generally, industrial fisheries have higher per-employee income, although benefits are not distributed equaly. Industrial fishers Thus,  Artisanal fisheries 
+•	Artisanal fisheries 
+o	For each fishery, how does per-employee income vary by the type of fish-related activity? Which type of activity provides the highest per-employee incomes?
+o	For each fishery, how does per-employee income vary by type of fishing fleet? Which type of fleet provides the highest per-employee incomes?
+
+
+#1) SIGSIF
+
+```{r}
+data.sigsif = read.csv("SIGSIF.csv")
+
+
+###Rank main species comercialized 
+domestic.fisheries = data.sigsif %>% 
+  filter(origin == "PRODUTOR" & year == "2017") %>%
+  group_by(species) %>%
+  summarize(sum(quantity)) %>%
+  rename(Species = species, Quantity = "sum(quantity)") %>%
+  arrange(desc(Quantity)) %>%
+  transform(Percent = Quantity/sum(Quantity)*100)  
+
+
+  kable(domestic.fisheries[1:10,], caption = "Table 1 - Main species comercialized by seafood sndustries with SIGSIF certificate in Brazil", booktabs = T) %>%
+  kable_styling(latex_options = c("striped", "hold_position"))
+  
+```
+
+```{r}
+###Rank main species comercialized from domestic fisheries
+domestic.fisheries = data.sigsif %>% 
+  filter(origin == "PRODUTOR" & form == "EXTRATIVO" & year == "2017") %>%
+  group_by(species) %>%
+  summarize(sum(quantity)) %>%
+  rename(Species = species, Quantity = "sum(quantity)") %>%
+  arrange(desc(Quantity)) %>%
+  transform(Percent = Quantity/sum(Quantity)*100)  
+
+
+  kable(domestic.fisheries[1:10,], caption = "Table 1 - Main wild caught species comercialized by Seafood Industries with SIGSIF certificate in Brazil", booktabs = T) %>%
+  kable_styling(latex_options = c("striped", "hold_position"))
+  
+```
+
+```{r}
+###Rank main species comercialized from aquaculture
+domestic.fisheries = data.sigsif %>% 
+  filter(origin == "PRODUTOR" & form == "CULTIVO" & year == "2017") %>%
+  group_by(species) %>%
+  summarize(sum(quantity)) %>%
+  rename(Species = species, Quantity = "sum(quantity)") %>%
+  arrange(desc(Quantity)) %>%
+  transform(Percent = Quantity/sum(Quantity)*100)  
+
+
+  kable(domestic.fisheries[1:10,], caption = "Table 1 - Main wild caught species comercialized by Seafood Industries with SIGSIF certificate in Brazil", booktabs = T) %>%
+  kable_styling(latex_options = c("striped", "hold_position"))
+  
+```
+```{r}
+####graph monthly prodcution
+domestic.fisheries.month = data.sigsif %>% 
+  filter(origin == "PRODUTOR" & form == "EXTRATIVO" & year == "2017") %>%
+  group_by(month) %>%
+  summarize(sum(quantity)) %>%
+  rename(prod = "sum(quantity)") %>% 
+  transform(monthabb = month.abb[month])
+
+ggplot(domestic.fisheries.month, aes(x = reorder(monthabb, month), y = prod)) + 
+  geom_bar(stat = "identity") + 
+  labs(x="Month", y="Production") + 
+  ggtheme_plot()
+```
+####graph prodcution by state - PRODUTOR
+domestic.fisheries.uf = data %>% 
+  filter(TIPO.PROCEDENCIA == "PRODUTOR" & FORMA_OBTENCAO == "EXTRATIVO" & ANO == "2017") %>%
+  group_by(UF) %>%
+  summarize(sum(QUANTIDADE_RECEBIDA)) %>%
+  rename(uf = UF, prod = "sum(QUANTIDADE_RECEBIDA)")
+
+ggplot(domestic.fisheries.uf, aes(x = uf, y = prod)) + 
+  geom_bar(stat = "identity") + 
+  labs(x="State", y="Production") + 
+  ggtheme_plot()
+
+####graph prodcution by state - RECEBIMENTO
+domestic.fisheries.uf.rec = data %>% 
+  filter(TIPO.PROCEDENCIA %in% c("ESTABELECIMENTO INTERNCIONAL", "ESTABELECIMENTO NACIONAL") & FORMA_OBTENCAO == "EXTRATIVO" & ANO == "2017") %>%
+  group_by(UF) %>%
+  summarize(sum(QUANTIDADE_RECEBIDA)) %>%
+  rename(uf = UF, prod = "sum(QUANTIDADE_RECEBIDA)")
+
+ggplot(domestic.fisheries.uf.rec, aes(x = uf, y = prod)) + 
+  geom_bar(stat = "identity") + 
+  labs(x="State", y="Production") + 
+  ggtheme_plot()
+
 ```
 
 ## Including Plots
