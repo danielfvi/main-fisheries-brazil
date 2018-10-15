@@ -11,19 +11,19 @@ knitr::opts_chunk$set(echo = TRUE)
 
 # Introduction
 
-Brazil has over 7 thousand kilometers of coastline and one of the largest river networks in the world, with only the amazon river covering over 7 million kilometers square of water. Fisheries resources in Brazil are extremely important for income and food securuty of millions of people throughout the country. Despite enourmous social and economic importance, governemnts focus very little attention to the fisheries sector. According to a study conducted by the ministry of environment, 80% of fish stocks are overexploited or fully exploited. In addition, there is no basic fisheries statistics in the country since 2008. This signals the urgency for sustainable management of fisheries in order to guarantee the livelihoods of fishers, improve food security in the country, and conserve marine biodiversity. 
+Brazil has over 7 thousand kilometers of coastline and one of the largest river networks in the world, with only the amazon river covering over 7 million kilometers square of water. Fisheries resources in Brazil are extremely important for income and food securuty of millions of people throughout the country. Despite enourmous social and economic importance, many fish stock are overexploited and in risk of colapse. According to a study conducted by the ministry of environment, 80% of fish stocks are overexploited or fully exploited. In addition, there is no basic fisheries statistics in the country since 2008. This signals the urgency for sustainable management of fisheries in order to guarantee the livelihoods of fishers, improve food security in the country, and conserve marine biodiversity. 
 
-The lack of national fisheries statistics posed a great challange to this study. Several resarchers and fisheries managers consulted during the study pointed out the lack of data to provide basic information on Brazilian fisheries. Information such as how much the country produces, how much it consumes or even the number of fishers in the country are very sparce. In an interview with the most renowed fisheries scientist in the country, Fabio Hazin, he pointed out that there are between 400 thousand and one million fishers in the country. Additionally, he pointed out that data from FAO on Brazilian fisheries is mostly a copy of the production from the previous year. And this has been going on since 2008, when the last year of national fisheries statistics was recorded, and even then it wasnt very reliable. Therefore, we had to be creative to conduct this study. We contacted people from all fisheries sectors to find out what was available. After an extensive search, we gathered six different databases representing the different fisheries sectors and conducted an extensive literature research. We also identified other potential sources of information that we were not able to obtain in time for this study. 
+The lack of national fisheries statistics posed a great challange to this study. Several resarchers and fisheries managers consulted during the study pointed out the lack of data to provide basic information on Brazilian fisheries. Information such as how much the country produces, how much it consumes or even the number of fishers in the country are very sparce. In an interview with the most renowed fisheries scientist in the country, Fabio Hazin, he pointed out that there are between 400 thousand and one million fishers in the country. Additionally, he pointed out that data from FAO on Brazilian fisheries is mostly a copy of the production from the previous years. And this has been going on since 2008, when the last year of national fisheries statistics was recorded, and even then it wasnt very reliable. Therefore, we had to be creative to conduct this study. We contacted people from all fisheries sectors to find out what was available. After an extensive search, we gathered six different databases representing the different fisheries sectors and conducted an extensive literature research. We also identified other potential sources of information that we were not able to obtain in time for this study. 
 
 The databases used were:
 
-1) SIGSIF - Data obtained from the sanitary inspection services of the ministry of Agriculture, Brazil. This database contains all seafood processed by fishing industries that caries a federal inspection certificate. This certificate is required for indutries to comercialize their product to different states of Brazil and to export and import seafood products. It is a rigorous inspection, where one of the requirements is to report all seafood that enters each company. Thus, this database includes all seafood products by species imported or from domestic production that enters all seafood processing companies with the federal inspection certificate. It includes both aquaculture and wild caught products from both freshwater and the oceanic species. 
+1) SIGSIF - Data obtained from the sanitary inspection services of the ministry of Agriculture, Brazil. This database contains all seafood processed by fishing industries that caries a federal inspection certificate. This certificate is required for indutries to comercialize their product to different states of Brazil and to export and import seafood products. It is a rigorous inspection program, where one of the requirements is to report all seafood that enters each company. Thus, this database includes all seafood products by species imported or from domestic production that enters all seafood processing companies with the federal inspection certificate. It includes both aquaculture and wild caught products from both freshwater and the oceanic species. 
 
-2)CEAGESP - CEAGESP is the largest wholesale open seafood market in Latin America. It is run by a state-owned company where sellers and buyers from all over the country gather to commercialize seafood and seafood products. We obtained information on all the seafood products commercialized in the fair by species and price of comercialization. 
+2)CEAGESP - CEAGESP is the largest wholesale open seafood market in Latin America. It is run by a state-owned company where sellers and buyers from all over the country gather to commercialize seafood and seafood products. We obtained information on all the seafood products commercialized in the market by species and price of comercialization. 
 
 3)MDIC - Import and Export data from the Ministry of Development, Industry and Foreign Trade. This database contains all seafood imported and exported in Brazil.
 
-4)State fisheries landings - Fisheries landings data from three states of Brazil were there is continuous data collection and where these data are publicly available. These states have this publicly available data because of a partnership of Universities with Petrobras. Petrobras is required to collect landings information for insurance purposes and has made it pubicly available for research purposes. 
+4)State fisheries landings - Fisheries landings data from three states of Brazil were there is continuous data collection and data are publicly available. These three states (Sao Paulo, Parana and Santa Catarina) have a continuos data collection program sponsered by Petrobras in partnership with Universities. Petrobras is required to collect landings information for insurance purposes and has made it pubicly available for research projects. 
 
 5)IBGE - Brazilian Institute of Geography and Statistics. This federal institute is responsible for surveying the country to provide basic information on all social aspects of Brazil. We gathered two pieces of information to inform our analysis: household food consumption and income by region of Brazil. 
 
@@ -38,7 +38,7 @@ FAO and SAU data
 
 ## Top Fisheries by Employment
 
-As pointed ot in the introduction, Brazil has no reliable data on the number of fishers in the country. To respond this question we put together several pieces of information from different sources to have an estimate of the importance f fisheries for employment. Data from the IBGE (2013) estaimates that Brazil has about 500 thousand fishers throught the country, with 90% being from the small-scale sector and 10% from the industrial sector (Campos and Chaves 2016). Data from the Ministry of Fisheries and Aquacuture suggests there are many more fishers in the country (Figure 1). According to these data, there were about 900 thousand fishers in 2010 throught the country. According to the MPA, 95% of the registered fishers are from the small-scale sector. However, it is important to note that these are fishing permits emmited by the government, which provides important benefits to those who have them. The most important benefit is the "seguro defeso" or "closure insurance". This benefit garantees a minimum wage salary for fishers during the closure period for reproduction of their main resources. Threfore, depending on the fishery, having the fishing permit will guarantee the person holding this permit from 3-6 months of salary. This caused a huge increase on the number of registered fishers in the country, with manypeople obtaining the license without even being a fisherman or fisherwoman. This caused a big scandal in Brazil in he last few years, with an investigantion from the federal government and prohibition of emmiting new licences in the last three years.  
+As pointed out in the introduction, Brazil has no reliable data on the number of fishers in the country. To respond this question we put together several pieces of information from different sources to have an estimate of the importance of fisheries for employment. Data from the IBGE (2013) estaimates that Brazil had about 500 thousand fishers throught the country, with 90% being from the small-scale sector and 10% from the industrial sector (Campos and Chaves 2016). Data from the Ministry of Fisheries and Aquacuture suggests there are many more fishers in Brazil (Figure 1). According to these data, there were about 900 thousand registered fishers in 2010 throught the country, with 95% of the registered fishers from the small-scale sector (MPA report, 2013). There is a large discrepancy between these two sources, which reinterates the uncertainty around estimates of the number of fishers in the country. Nonetheless, these numbers highlight the huge importance of the fisheries sector to employment in Brazil. 
 
 ```{r}
 ###Number of registered fishers
@@ -51,9 +51,9 @@ ggplot(rgp.data, aes(x = year, y = fishers)) +
 
 ```
 
-Assuming that the number of fishers are between 500 thousand and 1 million, and that about 90% of them are from the small-scale sector, the most important fisheries for employment in the country are those from the artisanal sector. The artisanal secotr is where we have the least amont of data on the production and species harvested. There is an estimate from the MPA that 50-70% of the catch from the entire country comes from the artisanal sector. Small-scale fisheries in Brazil target hundreds of species and there is no reliable information on the most important species for this sector. Most of the registered fishers in Brazil are from the North and Northeast reagion of Brazil. In these regions, freshwater resources from the Amazon and estuarine fisheries are very important. From the Amazon, the top commercialized fish are: curimatã (Prochilodus nigricans), jaraqui (Semaprochilodus spp.), matrinchã (Brycon amazonicus), pacu (Mylossoma duriventre), tambaqui (Colossoma macropomum) and tucunaré (Cichla monoculus) (data from the secretary of fisheries in the Amazon state). In the estuaries, there are many important resources such as the mangrove crab, shrimp, acoupa weakfish and snook (information gathered though literature review and interviews). Besides these fisheries, the small-scale fishers target all ecosystems and resources, such as pelagic, reefs, demersal and coastal. In the Northeast region, reef fisheries are very important, captring some highly valued species such as snappers, groupers and lobsters. Along the coast, the mullet fishery is very important especially in the south, where a quota system was implemented this year.
+Assuming that the number of fishers are between 500 thousand and 1 million, and that about 90% of them are from the small-scale sector, the most important fisheries for employment in the country are those from the artisanal sector. The artisanal secotr is where we have the least amont of data on the production and species harvested. There is an estimate from the MPA that 50-70% of the catch from the entire country comes from the artisanal sector. Small-scale fisheries in Brazil target hundreds of species and there is no reliable information on the most important species for this sector. Most of the registered fishers in Brazil are from the North and Northeast regions (MPA report, 2013). In these regions, freshwater resources from the Amazon and estuarine fisheries are very important. From the Amazon, the top commercialized fish are: curimatã (Prochilodus nigricans), jaraqui (Semaprochilodus spp.), matrinchã (Brycon amazonicus), pacu (Mylossoma duriventre), tambaqui (Colossoma macropomum) and tucunaré (Cichla monoculus) (data from the secretary of fisheries in the Amazon state). In estuaries, there are many important resources such as the mangrove crabs, shrimps, bivalves, weakfish and snook (information gathered though literature review and interviews). Besides these fisheries, the small-scale fishers target all ecosystems and resources, such as pelagic, reefs, demersal and coastal. In the Northeast region for example, reef fisheries are very important, capturing some highly valued species such as snappers, groupers and lobsters. In the south, the mullet fishery is very important and because of this importance the first quota system for Brazil was implemented in 2018 to manage the mullet fishery. Therefore, the artisanal sector is a multi-species fishery, with hundreds od species being exploited, with the main species depending on the region and ecosystems present. 
 
-Industrial fisheries employ only about 10% of the fishers in the country and is responsible for about 50% of the fisheries production in the country. The industrial sector in Brazil is mainly concentrated in the south of Brazil, especially in Santa Catarina state where the main industrial fisheries port is located. Landings data from Santa Catarina indicate that sardines are the most important species, followed by corvina and skipjack tuna (Table 1). 
+Industrial fisheries in Brazil employ only about 10% of the fishers and is responsible for about 30-50% of the fisheries production. The industrial sector in Brazil is mainly concentrated in the south of the country, especially in Santa Catarina state where the main industrial fisheries port is located (Itajai port). Landings data from Santa Catarina indicate that sardines are the most important species, followed by corvina and skipjack tuna (Table 1). Another important industrial fisheries fleet is located in the mouth of the Amazon river, in the north of Brazil. The main resource captured in the region is the catfish piramutaba (Brachyplatystoma vaillantii), although there is no data available from this fleet. Therefore, the top fisheries by employment in the industrial sector are represented in the landings data from the Santa Catarina state and the piramutaba fishery in the north.  
 
 ```{r}
 #State of Santa Catarina
@@ -73,20 +73,90 @@ sc.prod = sc.data %>%
 
 ```
 
-Emplyment along the supply chain varies according to the region, fisheries and species comercialized.
+Emplyment along the supply chain varies according to the region, fisheries and species comercialized. In the artisanal sector, most of the catch is consumed regionally, or in nearby capitals. However, some valuable fish and seafood are also commercialized in the main capitals - São Paulo and Rio de Janeiro. Typically, there are three main supply chain architypes in artisanal fisheries. First, there are estuarine/mangrove species (mostly crabs, shrimp and bivalves) that are commercialized whole in local markets or processed to achieve larger markets. For example, processing of crab meat is an important activity for coastal communities, especially for fisherwoman. To obtain one kilogram of crab meat, a full day's work is required, which involves extraction of the crab, cooking and manually removing the meat. This meat is then distributed by middleman to nearby citites and capitals. Second, most of the fish captured by the artisanal sector is consumed locally or regionally. In most cases, there is no record of the catch or comercialization of these fish, being sold in local markets and restaurants. Third, more valuable fish such as snappers, groupers, snook, weakfuish and shrimp are sold in capitals throughout the country. These fish are sold through middleman and larger seafood industries to large capitals, thus involving a larger number of people in the supply chain. 
 
-According to data published by the Seafood Industry Association (ABIPESCA), the seafood industry employs about 8k direct employments and 30k indirect employment
+In the industrial sector, the majority of the catch is processed by large companies to be processed and distributed in supermarkets all over the country. According to data published by the Seafood Industry Association (ABIPESCA), the seafood industry employs about 8thousand direct employments and 30 thousand indirect employments. Data from the seafood companies (SIGSIF) indicates that the most important fisheries are sardines, croacker, skipjack tuna and piramutaba catfish (Table 2). 
 
 
+```{r}
+data.sigsif = read.csv("SIGSIF.csv")
 
- 
-o	What types of employment in fish-related activities does each fishery support? Which activity provides the most employment for each fishery?
-•	Crab fisheries – one of the main resources from the small-scale sector. Live market in capitals and tourism destinations. Crab meat market employs mainly man in the capture and woman in processing of crab meat. Many crab species have the same characteristics. Bivalves are also an important resource for the small-scale sector and like crabs has both capture and processing by fishers and their family. While live crabs and bivalves are consumed mostly locally, crab and bivalve meat can be distributed throughout the country, involving an even greater number of people throughout the supply chain. CITATION/PUBLICATION  
-•	Fish from artisanal sector – Fish resources from the artisanal sector are mostly sold locally but can also have longer supply chains. For example, snooks and snappers are highly valuable in large metropolis such as Rio, Brasilia and Sao Paulo. Therefore, these fish may have long supply chains to reach final consumers, with large number of people employed throughout the supply chain. DATA from CEAGESP.
-•	Fish from industrial fisheries 
-•	Sardines – this fishery employs many people because of the market value of canned fish. Sardines are some of the most commonly consumed fish by the Brazilian population. Therefore, this fishery has a relatively long supply chain involving producers (fishers), processors and distributors.  
-•	Tuna – Like the sardine, this fishery also employs many people along the supply chain. Tunas are commercialized canned, fresh and frozen. It is one of the main resources in Brazil, with a large fishery in the south region
-o	For each fishery, how does employment vary by type of fishing fleet? Which type of fleet is the source of the most employment?
+
+###Rank main species comercialized 
+domestic.fisheries = data.sigsif %>% 
+  filter(origin == "PRODUTOR" & form == "EXTRATIVO" & year == "2017") %>%
+  group_by(species) %>%
+  summarize(sum(quantity)) %>%
+  rename(Species = species, Quantity = "sum(quantity)") %>%
+  arrange(desc(Quantity)) %>%
+  transform(Percent = Quantity/sum(Quantity)*100)  
+
+
+  kable(domestic.fisheries[1:10,], caption = "Table 2 - Main species comercialized by seafood industries with SIGSIF certificate in Brazil", booktabs = T) %>%
+  kable_styling(latex_options = c("striped", "hold_position"))
+
+
+```
+
+## Top Fisheries by Income
+
+Because there is no reliable national-level landings data in Brazil since 2008, it is challanging to determine the top fisheries by income generated in the country. The data available is mainly from the industrial sector, where sardines, croaker and tuna are the main species caught. Howerever, information from the SIGSIF (Table 2) and Santa Catarina state landings does not have any information on price. Data from SEAGESP market does have price information and products are both from industrial and artisanal sectors. Table 3 shows the main species ranked by value sold in the CEAGESP market in 2017. The most valuable species in this year were sharks followed by sardine, croaker, tuna and acoupa weakfish. Sharks are not distinguished by species and are captured by both artisanal and industrial fleets. Sardines, croakers and tunas are caught by the industrial fleet, while the acoupa weakfish is mainly caught by artisanal fisheries from the north and northeast regions of Brazil. Snook is also one of the top 10 species sold in the market and is from the artisanal sector. It is one of the species with greater price in the market.    
+
+```{r}
+ceagesp.data = read.csv("producao_seagesp.csv")
+
+###Graph main species - production
+ceagesp.value = ceagesp.data %>% 
+  filter(year == "2017" & origin == "extraction") %>%
+  group_by(species) %>%
+  summarize(sum(value_rs)) %>%
+  rename(Species = species, Value = "sum(value_rs)") %>%
+  arrange(desc(Value))
+  
+  kable(ceagesp.value[1:20,], caption = "Table 2 - Main species comercialized in 2017 at CEAGESP fishmarket, Brazil", booktabs = T) %>%
+  kable_styling(latex_options = c("striped", "hold_position"))
+
+```
+
+Many important small-scale resources are not sold in the SEAGESP market but are important sources of income through sale in local markets. Resources such as crabs, mullets, shrimp, snappers and groupers are very important sources of income for small-scale fishers. However,  hundreds of species are important for the artisanal sector. Only from our databases there are over 500 different species reported. For example, in Paraná state most of the production is from small-scale fisheries. In this state, shrimps, crab and weakfishes are the most important species in terms of value (Table 4). 
+
+```{r}
+#State of Parana
+pa.data = read.csv("parana.csv")
+
+###Rank main species - value
+pa.value = pa.data %>% 
+  filter(year == "2016") %>%
+  group_by(species) %>%
+  summarize(sum(value_rs)) %>%
+  rename(Species = species, Value = "sum(value_rs)") %>%
+  arrange(desc(Value))
+
+  kable(pa.value[1:20,], caption = "Table 2 - Main species caught in the Parana state, Brazil, 2016", booktabs = T) %>%
+  kable_styling(latex_options = c("striped", "hold_position"))
+  
+```
+
+Another important piece of information regarding income generated are the main species exported in Brazil. Data from the ministry of commerce show that the main species exported are lobsters, followed by other fish, swim bladders and some
+
+
+```{r}
+mdic.data = read.csv("MDIC.csv")
+
+###Rank main species exported - value
+exports.value = mdic.data %>% 
+  filter(carac == "export" & year == "2017") %>%
+  group_by(description) %>%
+  summarize(sum(value_uss)) %>%
+  rename(Product = description, Value = "sum(value_uss)") %>%
+  arrange(desc(Value))
+
+  kable(exports.value[1:10,], caption = "Table 3 - Main species exported in 2017, Brazil", booktabs = T) %>%
+  kable_styling(latex_options = c("striped", "hold_position"))
+```
+
+
+Because most of Brazilian fisheries production is from the small-scale sector, the top fisheries by income will likely be linked with the top fisheries in terms of employment. There are very few fish from the artisanal sector that reaches seafood industries and Data from SEAGESP and SIGSIF suggest that  
 
 •	Top Fisheries by Income
 o	What are the top fisheries based on total income generated?
@@ -108,6 +178,116 @@ o	For each fishery, how does per-employee income vary by the type of fish-relate
 o	For each fishery, how does per-employee income vary by type of fishing fleet? Which type of fleet provides the highest per-employee incomes?
 
 
+
+
+
+
+
+
+
+#3.Domestic Fish Consumption
+
+##Top Fisheries by Domestic Consumption
+
+Demostic consumption of fish and seafood in Brazil is estimated to be around 10 kilograms per capta per year (FAO, 2014). Per capta consumption in Brazil is low reltive to other countries (average of 18 kg in the world) and the WHO recomendation (12 kg). However, fish and seafood consumption has been steadly increasing from 4.6 kg per capta in 1961 to about 10 kg per capta in 2014. Therefore, although consumption of fish and seafood products in Brazil is relatively low, it has large growth potential.
+
+Fish and seafood consumption in Brazil has distinc patherns according to the region of the country. As reported by IBGE research, the top consumers of fish and seafood products in the country are the north and northeast regions (Figure 2). These regions are the poorest of the country (Figure S1) and have the greatest number of registered fishers (MPA report, 2013), especially from the small-scale sector. Therefore, fish and seafood products in these regions are key for food security, especially in coastal and riverine areas. A study on fish consumption in the Amazon found that riverine communities have some of the largest per capta fish consumption in the world, with an average of 169 kg/capta/year. 
+
+The top subsistance resources consumed in these areas will vary according to the region. While the most valuable species are usually sold to intermediaries, smaller and less valuable fish are consumed by fishers and their families. Therefore, hundreds of species are consumed in these regions, with very little information on the most important species for consumption. 
+
+
+```{r}
+ibge.consumption = read.csv("IBGE_consumption.csv")
+ibge.consumption = ibge.consumption %>%
+  transform(kg = consumption*365/1000) 
+
+ggplot(ibge.consumption, aes(x=region,y=kg,fill=protein)) + 
+  geom_bar(stat = "identity", position = position_stack(reverse = TRUE)) + 
+  labs(x="Region", y="Per Capta Consumption (kg/year)", fill="") +
+  ggtheme_plot()
+
+```
+
+
+
+
+```{r}
+ibge.consumption = read.csv("IBGE_consumption.csv")
+ibge.income = read.csv("IBGE_renda.csv")
+
+income.region = ibge.income %>% 
+  filter(type == "region") 
+
+a = ggplot(ibge.consumption, aes(x=region,y=consumption,fill=protein)) + 
+  geom_bar(stat = "identity", position = position_stack(reverse = TRUE)) + 
+  labs(x="Region", y="Per Capta Consumption (g/day)", fill="") +
+  theme(axis.text.x = element_text(angle = 45, hjust = 1)) +
+  ggtheme_plot()
+
+b = ggplot(income.region, aes(x=name,y=per_capta)) + 
+  geom_bar(stat = "identity") + 
+  labs(x="Region", y="Monthly Per Capta Income (R$)", fill="") +
+  theme(axis.text.x = element_text(angle = 45, hjust = 1)) +
+  ggtheme_plot()
+
+ggplot2.multiplot(a, b, cols=2)
+```
+
+o	What fisheries are most important for domestic consumption of fish and seafood? What is the source and type of these fisheries (e.g. domestic, foreign, aquaculture, marine capture, inland capture)?
+•	SIGSIF
+•	MDIC
+•	SEAGESP
+•	GPA
+o	Which domestic, marine capture fisheries are most important for domestic consumption of fish and seafood?
+•	SIGSIF – IMPORTS
+•	Artisanal fisheries
+•	Tilapia
+•	Sardinha
+o	Who are the main domestic consumers? Where are they located?
+•	IBGE
+•	Estudos de consumo - literatura
+
+
+
+
+
+
+is far from consumptionas distinc pattherns in terms of the region. Much of the seafood consumption in the country are from local catch or production. 
+
+
+
+
+•	Consumption Patterns
+o	Has domestic consumption of the top fisheries changed over time?
+•	FAO – 4.6 in 1961 and 10.87 in 2013
+•	(Catch + imports – exports)/population size
+o	How does domestic consumption of each of the top fisheries change seasonally?
+•	Religious dates – increased consumption in march – DADOS SEAGESP
+o	Are there fisheries that are historically popular that are no longer plentiful enough to consume today? Are there fisheries that are currently plentiful but appear unpopular for domestic consumption?
+•	Endangered species list MMA – economically important species 
+•	Catfish?
+o	What are the main substitution patterns between fish species by domestic consumers?
+•	Consumption driven by price
+•	Some fish are really valuable with low substitution patterns – snook, snappers, groupers
+•	Farmed vs wild shrimp – high substitution
+•	White fish filet – price driven, although some preference for Tilapia
+o	What is the primary driver of domestic consumption of the top fisheries (e.g. affordability, desirability)?
+•	Mostly affordability, however, there is a trend to consume healthier products
+
+•	Demographic Characteristics
+o	What are the general socioeconomic patterns or divisions in each country’s population?
+•	Dados IBGE
+o	What geographic or regional patterns exist for domestic fish and seafood consumption? 
+•	IBGE – consumo por regiao
+o		Are there clear north-south or east-west divides among the population?
+•	North/Northeast – poor but with high seafood consumption – local catch
+•	South/Southeast – rich with high quantities of imported seafood
+o	What socioeconomic patterns exist for domestic fish and seafood consumption? Are there clear urban-rural or coastal-inland divides among the population?
+•	IBGE – consume vs nivel socio-economico
+
+
+
+
 #1) SIGSIF
 
 ```{r}
@@ -124,7 +304,7 @@ domestic.fisheries = data.sigsif %>%
   transform(Percent = Quantity/sum(Quantity)*100)  
 
 
-  kable(domestic.fisheries[1:10,], caption = "Table 1 - Main species comercialized by seafood sndustries with SIGSIF certificate in Brazil", booktabs = T) %>%
+  kable(domestic.fisheries[1:20,], caption = "Table 1 - Main species comercialized by seafood sndustries with SIGSIF certificate in Brazil", booktabs = T) %>%
   kable_styling(latex_options = c("striped", "hold_position"))
   
 ```

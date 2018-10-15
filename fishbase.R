@@ -9,8 +9,8 @@ common_names("badejo", limit = 1000, server = getOption("FISHBASE_API",
                                                                                                        "C_Code", "SpecCode"))
 
 names = common_to_sci("badejo", Language = "Portuguese") %>% 
-          filter(Language=="Portuguese" & ComName=="Badejo") %>%
-            select(Species) %>%
+        filter(Language=="Portuguese" & ComName=="Badejo") %>%
+          select(Species) %>%
             slice(1)
           
 
