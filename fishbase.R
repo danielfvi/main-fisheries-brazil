@@ -7,7 +7,10 @@ common_names("Badejo", Language="Portuguese")
 common_names("badejo", limit = 1000, server = getOption("FISHBASE_API",
                                                             FISHBASE_API), Language = NULL, fields = c("ComName", "Language",
                                                                                                        "C_Code", "SpecCode"))
-species.names = read.csv("species_names.csv") 
+species.names = read.csv("species_names.csv")
+sci = read.csv("sci.csv")
+sci$eng = NA
+species.names[,1] = iconv(species.names[,1],to="ASCII//TRANSLIT")
 species.names$sci_name = NA
 species.names$english_name = NA
 
@@ -34,7 +37,28 @@ names = species.names %>%
             slice(1) 
           
 
-sci_to_common("Epinephelus adscensionis") %>% 
+sci_to_common("Litopenaeus schimitti") %>% 
   filter(Language=="English") %>%
   slice(1) %>% 
   select(ComName)
+
+
+sci.eng = sci %>% 
+  sci_to_common("Epinephelus adscensionis") %>% 
+  filter(Language=="English") %>%
+  slice(1) %>% 
+  select(ComName)
+
+#############################
+
+
+for(n in 1:nrow(sci)){
+  sci$eng[n] = sci_to_common(sci[[n,1]]) %>% 
+    filter(Language=="English") %>%
+    slice(1) %>% 
+    select(ComName)
+}
+sci = sci %>% filter(!eng == "character(0)")
+sci$eng = unlist(sci$eng)
+write.csv(sci, file = "sci_english.csv")
+
