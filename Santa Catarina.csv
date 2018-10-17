@@ -19,7 +19,7 @@ year,month,taxa,species_portuguese,species_english,species_sci,production_kg
 2014,1,Moluscos,Calamar-argentino,Calamar-argentino,Illex argentinus,1000
 2014,1,Moluscos,Lula,Squid,Loligo sanpaulensis,30903
 2014,1,Moluscos,Polvo,Octopus,Octopus spp.,200
-2014,1,Não Cadastrado,Mistura,Mistura,NA,20153
+2014,1,Não Cadastrado,Mistura,Other fish,NA,20153
 2014,1,Teleósteos,Abrótea,Brazilian codling,Urophycis brasiliensis,19825
 2014,1,Teleósteos,Abrótea-de-fundo,Brazilian codling,NA,104140
 2014,1,Teleósteos,Albacora-branca,Albacora-branca,Thunnus alalunga,389
@@ -29,14 +29,14 @@ year,month,taxa,species_portuguese,species_english,species_sci,production_kg
 2014,1,Teleósteos,Batata,Atlantic goldeneye tilefish,Caulolatilus chrysops,400
 2014,1,Teleósteos,Betara,Carolina Whiting,Menticirrhus spp.,4510
 2014,1,Teleósteos,Bonito-cachorro,Bonito,Auxis thazard,4383
-2014,1,Teleósteos,Bonito-listrado,Arctic bonito,Katsuwonus pelamis,1165318
+2014,1,Teleósteos,Bonito-listrado,Skipjack tuna,Katsuwonus pelamis,1165318
 2014,1,Teleósteos,Cabra,East Atlantic Red Gurnard,Prionotus spp.,50010
 2014,1,Teleósteos,Cangoá,Cangoá,NA,50
 2014,1,Teleósteos,Castanha,Argentine croaker,Umbrina canosai,57084
 2014,1,Teleósteos,Cavala,Chub mackerel,Scomberomorus cavalla,20
 2014,1,Teleósteos,Congro-rosa,Australian Rockling,Genypterus brasiliensis,3600
 2014,1,Teleósteos,Corcoroca,Grey Grunt,Haemulon spp.,10990
-2014,1,Teleósteos,Corvina,Bashaw,Micropogonias furnieri,530972
+2014,1,Teleósteos,Corvina,Croaker,Micropogonias furnieri,530972
 2014,1,Teleósteos,Dourado,Common dolphifish,Coryphaena hippurus,5860
 2014,1,Teleósteos,Enchova,Ancho,Pomatomus saltatrix,1120
 2014,1,Teleósteos,Enguia,Common Eel,Conger orbignyanus,180
@@ -93,7 +93,7 @@ year,month,taxa,species_portuguese,species_english,species_sci,production_kg
 2014,2,Elasmobrânquios,Ratinho,Ratinho,NA,31
 2014,2,Moluscos,Lula,Squid,Loligo sanpaulensis,102310
 2014,2,Moluscos,Polvo,Octopus,Octopus spp.,13900
-2014,2,Não Cadastrado,Mistura,Mistura,NA,348234
+2014,2,Não Cadastrado,Mistura,Other fish,NA,348234
 2014,2,Não Cadastrado,Ovas,Ovas,NA,1300
 2014,2,Teleósteos,Abrótea,Brazilian codling,Urophycis brasiliensis,70190
 2014,2,Teleósteos,Abrótea-de-fundo,Brazilian codling,NA,242800
@@ -106,7 +106,7 @@ year,month,taxa,species_portuguese,species_english,species_sci,production_kg
 2014,2,Teleósteos,Batata,Atlantic goldeneye tilefish,Caulolatilus chrysops,473
 2014,2,Teleósteos,Betara,Carolina Whiting,Menticirrhus spp.,2920
 2014,2,Teleósteos,Bonito-cachorro,Bonito,Auxis thazard,3537
-2014,2,Teleósteos,Bonito-listrado,Arctic bonito,Katsuwonus pelamis,1130038.5
+2014,2,Teleósteos,Bonito-listrado,Skipjack tuna,Katsuwonus pelamis,1130038.5
 2014,2,Teleósteos,Cabra,East Atlantic Red Gurnard,Prionotus spp.,144899
 2014,2,Teleósteos,Carapeba,Broad shad,Diapterus auratus,1760
 2014,2,Teleósteos,Castanha,Argentine croaker,Umbrina canosai,141100
@@ -115,7 +115,7 @@ year,month,taxa,species_portuguese,species_english,species_sci,production_kg
 2014,2,Teleósteos,Congro,Argentine Conger,Conger spp.,0
 2014,2,Teleósteos,Congro-rosa,Australian Rockling,Genypterus brasiliensis,17980
 2014,2,Teleósteos,Corcoroca,Grey Grunt,Haemulon spp.,2940
-2014,2,Teleósteos,Corvina,Bashaw,Micropogonias furnieri,1047011
+2014,2,Teleósteos,Corvina,Croaker,Micropogonias furnieri,1047011
 2014,2,Teleósteos,Dourado,Common dolphifish,Coryphaena hippurus,1657
 2014,2,Teleósteos,Enchova,Ancho,Pomatomus saltatrix,398
 2014,2,Teleósteos,Enguia,Common Eel,Conger orbignyanus,200
@@ -179,7 +179,7 @@ year,month,taxa,species_portuguese,species_english,species_sci,production_kg
 2014,3,Elasmobrânquios,Raia,Ray,NA,6104
 2014,3,Moluscos,Lula,Squid,Loligo sanpaulensis,5808
 2014,3,Moluscos,Polvo,Octopus,Octopus spp.,6996
-2014,3,Não Cadastrado,Mistura,Mistura,NA,205765
+2014,3,Não Cadastrado,Mistura,Other fish,NA,205765
 2014,3,Não Cadastrado,Residuo,Residuo,NA,19774
 2014,3,Teleósteos,Abrótea,Brazilian codling,Urophycis brasiliensis,80397
 2014,3,Teleósteos,Abrótea-de-fundo,Brazilian codling,NA,325280
@@ -192,7 +192,7 @@ year,month,taxa,species_portuguese,species_english,species_sci,production_kg
 2014,3,Teleósteos,Batata,Atlantic goldeneye tilefish,Caulolatilus chrysops,1615
 2014,3,Teleósteos,Betara,Carolina Whiting,Menticirrhus spp.,13100
 2014,3,Teleósteos,Bonito-cachorro,Bonito,Auxis thazard,1535.5
-2014,3,Teleósteos,Bonito-listrado,Arctic bonito,Katsuwonus pelamis,1935402
+2014,3,Teleósteos,Bonito-listrado,Skipjack tuna,Katsuwonus pelamis,1935402
 2014,3,Teleósteos,Cabra,East Atlantic Red Gurnard,Prionotus spp.,223840
 2014,3,Teleósteos,Carapeba,Broad shad,Diapterus auratus,2600
 2014,3,Teleósteos,Castanha,Argentine croaker,Umbrina canosai,224490
@@ -202,7 +202,7 @@ year,month,taxa,species_portuguese,species_english,species_sci,production_kg
 2014,3,Teleósteos,Congro,Argentine Conger,Conger spp.,5328
 2014,3,Teleósteos,Congro-rosa,Australian Rockling,Genypterus brasiliensis,8700
 2014,3,Teleósteos,Corcoroca,Grey Grunt,Haemulon spp.,5150
-2014,3,Teleósteos,Corvina,Bashaw,Micropogonias furnieri,1310842
+2014,3,Teleósteos,Corvina,Croaker,Micropogonias furnieri,1310842
 2014,3,Teleósteos,Dourado,Common dolphifish,Coryphaena hippurus,135
 2014,3,Teleósteos,Enchova,Ancho,Pomatomus saltatrix,400
 2014,3,Teleósteos,Enguia,Common Eel,Conger orbignyanus,180
@@ -263,7 +263,7 @@ year,month,taxa,species_portuguese,species_english,species_sci,production_kg
 2014,4,Elasmobrânquios,Raia,Ray,NA,3938
 2014,4,Moluscos,Lula,Squid,Loligo sanpaulensis,750
 2014,4,Moluscos,Polvo,Octopus,Octopus spp.,2403
-2014,4,Não Cadastrado,Mistura,Mistura,NA,195151
+2014,4,Não Cadastrado,Mistura,Other fish,NA,195151
 2014,4,Não Cadastrado,Residuo,Residuo,NA,70561
 2014,4,Teleósteos,Abrótea,Brazilian codling,Urophycis brasiliensis,85146
 2014,4,Teleósteos,Abrótea-de-fundo,Brazilian codling,NA,237100
@@ -276,7 +276,7 @@ year,month,taxa,species_portuguese,species_english,species_sci,production_kg
 2014,4,Teleósteos,Batata,Atlantic goldeneye tilefish,Caulolatilus chrysops,3300
 2014,4,Teleósteos,Betara,Carolina Whiting,Menticirrhus spp.,8415
 2014,4,Teleósteos,Bonito-cachorro,Bonito,Auxis thazard,1642.5
-2014,4,Teleósteos,Bonito-listrado,Arctic bonito,Katsuwonus pelamis,1570118.5
+2014,4,Teleósteos,Bonito-listrado,Skipjack tuna,Katsuwonus pelamis,1570118.5
 2014,4,Teleósteos,Cabra,East Atlantic Red Gurnard,Prionotus spp.,167056
 2014,4,Teleósteos,Carapeba,Broad shad,Diapterus auratus,2000
 2014,4,Teleósteos,Carapicu,Broad shad,Diapterus auratus,280
@@ -285,7 +285,7 @@ year,month,taxa,species_portuguese,species_english,species_sci,production_kg
 2014,4,Teleósteos,Congro,Argentine Conger,Conger spp.,12182
 2014,4,Teleósteos,Congro-rosa,Australian Rockling,Genypterus brasiliensis,33400
 2014,4,Teleósteos,Corcoroca,Grey Grunt,Haemulon spp.,4380
-2014,4,Teleósteos,Corvina,Bashaw,Micropogonias furnieri,586615
+2014,4,Teleósteos,Corvina,Croaker,Micropogonias furnieri,586615
 2014,4,Teleósteos,Enchova,Ancho,Pomatomus saltatrix,995
 2014,4,Teleósteos,Enguia,Common Eel,Conger orbignyanus,872
 2014,4,Teleósteos,Espada,Broadbill,Xiphias gladius,12451
@@ -347,7 +347,7 @@ year,month,taxa,species_portuguese,species_english,species_sci,production_kg
 2014,5,Moluscos,Calamar-argentino,Calamar-argentino,Illex argentinus,19000
 2014,5,Moluscos,Lula,Squid,Loligo sanpaulensis,560
 2014,5,Moluscos,Polvo,Octopus,Octopus spp.,725
-2014,5,Não Cadastrado,Mistura,Mistura,NA,254573
+2014,5,Não Cadastrado,Mistura,Other fish,NA,254573
 2014,5,Não Cadastrado,Não discriminado,Não discriminado,NA,30000
 2014,5,Não Cadastrado,Residuo,Residuo,NA,56481
 2014,5,Teleósteos,Abrótea,Brazilian codling,Urophycis brasiliensis,101960
@@ -362,7 +362,7 @@ year,month,taxa,species_portuguese,species_english,species_sci,production_kg
 2014,5,Teleósteos,Batata,Atlantic goldeneye tilefish,Caulolatilus chrysops,2373
 2014,5,Teleósteos,Betara,Carolina Whiting,Menticirrhus spp.,1933
 2014,5,Teleósteos,Bonito-cachorro,Bonito,Auxis thazard,19411
-2014,5,Teleósteos,Bonito-listrado,Arctic bonito,Katsuwonus pelamis,919562
+2014,5,Teleósteos,Bonito-listrado,Skipjack tuna,Katsuwonus pelamis,919562
 2014,5,Teleósteos,Cabra,East Atlantic Red Gurnard,Prionotus spp.,79300
 2014,5,Teleósteos,Carapau,Jack mackerel,Trachurus lathami,260
 2014,5,Teleósteos,Carapeba,Broad shad,Diapterus auratus,360
@@ -371,7 +371,7 @@ year,month,taxa,species_portuguese,species_english,species_sci,production_kg
 2014,5,Teleósteos,Congro,Argentine Conger,Conger spp.,16798
 2014,5,Teleósteos,Congro-rosa,Australian Rockling,Genypterus brasiliensis,41927
 2014,5,Teleósteos,Corcoroca,Grey Grunt,Haemulon spp.,7592
-2014,5,Teleósteos,Corvina,Bashaw,Micropogonias furnieri,713316
+2014,5,Teleósteos,Corvina,Croaker,Micropogonias furnieri,713316
 2014,5,Teleósteos,Dourado,Common dolphifish,Coryphaena hippurus,15217
 2014,5,Teleósteos,Enchova,Ancho,Pomatomus saltatrix,9859
 2014,5,Teleósteos,Enguia,Common Eel,Conger orbignyanus,1380
@@ -431,7 +431,7 @@ year,month,taxa,species_portuguese,species_english,species_sci,production_kg
 2014,6,Elasmobrânquios,Ratinho,Ratinho,NA,134
 2014,6,Moluscos,Calamar-argentino,Calamar-argentino,Illex argentinus,5300
 2014,6,Moluscos,Polvo,Octopus,Octopus spp.,125
-2014,6,Não Cadastrado,Mistura,Mistura,NA,177747
+2014,6,Não Cadastrado,Mistura,Other fish,NA,177747
 2014,6,Não Cadastrado,Residuo,Residuo,NA,2100
 2014,6,Teleósteos,Abrótea,Brazilian codling,Urophycis brasiliensis,188303
 2014,6,Teleósteos,Abrótea-de-fundo,Brazilian codling,NA,72500
@@ -444,7 +444,7 @@ year,month,taxa,species_portuguese,species_english,species_sci,production_kg
 2014,6,Teleósteos,Batata,Atlantic goldeneye tilefish,Caulolatilus chrysops,4060
 2014,6,Teleósteos,Betara,Carolina Whiting,Menticirrhus spp.,3930
 2014,6,Teleósteos,Bonito-cachorro,Bonito,Auxis thazard,4153
-2014,6,Teleósteos,Bonito-listrado,Arctic bonito,Katsuwonus pelamis,825456
+2014,6,Teleósteos,Bonito-listrado,Skipjack tuna,Katsuwonus pelamis,825456
 2014,6,Teleósteos,Cabra,East Atlantic Red Gurnard,Prionotus spp.,69320
 2014,6,Teleósteos,Carapeba,Broad shad,Diapterus auratus,540
 2014,6,Teleósteos,Castanha,Argentine croaker,Umbrina canosai,289820
@@ -453,7 +453,7 @@ year,month,taxa,species_portuguese,species_english,species_sci,production_kg
 2014,6,Teleósteos,Congro,Argentine Conger,Conger spp.,368
 2014,6,Teleósteos,Congro-rosa,Australian Rockling,Genypterus brasiliensis,8305
 2014,6,Teleósteos,Corcoroca,Grey Grunt,Haemulon spp.,3060
-2014,6,Teleósteos,Corvina,Bashaw,Micropogonias furnieri,155199
+2014,6,Teleósteos,Corvina,Croaker,Micropogonias furnieri,155199
 2014,6,Teleósteos,Dourado,Common dolphifish,Coryphaena hippurus,24540
 2014,6,Teleósteos,Enchova,Ancho,Pomatomus saltatrix,2841
 2014,6,Teleósteos,Enguia,Common Eel,Conger orbignyanus,500
@@ -507,7 +507,7 @@ year,month,taxa,species_portuguese,species_english,species_sci,production_kg
 2014,7,Elasmobrânquios,Emplastro,Emplastro,NA,8550
 2014,7,Elasmobrânquios,Raia,Ray,NA,140
 2014,7,Moluscos,Polvo,Octopus,Octopus spp.,0
-2014,7,Não Cadastrado,Mistura,Mistura,NA,48054
+2014,7,Não Cadastrado,Mistura,Other fish,NA,48054
 2014,7,Teleósteos,Abrótea,Brazilian codling,Urophycis brasiliensis,2910
 2014,7,Teleósteos,Albacora-branca,Albacora-branca,Thunnus alalunga,10000
 2014,7,Teleósteos,Albacora-lage,Albacore,Thunnus albacares,500
@@ -515,11 +515,11 @@ year,month,taxa,species_portuguese,species_english,species_sci,production_kg
 2014,7,Teleósteos,Bagre,Couma sea catfish,Sciades couma,9275
 2014,7,Teleósteos,Betara,Carolina Whiting,Menticirrhus spp.,1720
 2014,7,Teleósteos,Bonito-cachorro,Bonito,Auxis thazard,30
-2014,7,Teleósteos,Bonito-listrado,Arctic bonito,Katsuwonus pelamis,133243
+2014,7,Teleósteos,Bonito-listrado,Skipjack tuna,Katsuwonus pelamis,133243
 2014,7,Teleósteos,Cabra,East Atlantic Red Gurnard,Prionotus spp.,15280
 2014,7,Teleósteos,Carapau,Jack mackerel,Trachurus lathami,20000
 2014,7,Teleósteos,Castanha,Argentine croaker,Umbrina canosai,30100
-2014,7,Teleósteos,Corvina,Bashaw,Micropogonias furnieri,501580
+2014,7,Teleósteos,Corvina,Croaker,Micropogonias furnieri,501580
 2014,7,Teleósteos,Dourado,Common dolphifish,Coryphaena hippurus,67809
 2014,7,Teleósteos,Enchova,Ancho,Pomatomus saltatrix,365
 2014,7,Teleósteos,Espada,Broadbill,Xiphias gladius,933
@@ -555,7 +555,7 @@ year,month,taxa,species_portuguese,species_english,species_sci,production_kg
 2014,8,Elasmobrânquios,Emplastro,Emplastro,NA,524
 2014,8,Elasmobrânquios,Raia,Ray,NA,100
 2014,8,Elasmobrânquios,Ratinho,Ratinho,NA,303
-2014,8,Não Cadastrado,Mistura,Mistura,NA,7093
+2014,8,Não Cadastrado,Mistura,Other fish,NA,7093
 2014,8,Não Cadastrado,Residuo,Residuo,NA,313
 2014,8,Teleósteos,Abrótea,Brazilian codling,Urophycis brasiliensis,15795
 2014,8,Teleósteos,Atum,Blow goat,Auxis rochei,154
@@ -567,7 +567,7 @@ year,month,taxa,species_portuguese,species_english,species_sci,production_kg
 2014,8,Teleósteos,Cavalinha,American mackerel,Scomber japonicus,50
 2014,8,Teleósteos,Congro,Argentine Conger,Conger spp.,111
 2014,8,Teleósteos,Corcoroca,Grey Grunt,Haemulon spp.,2800
-2014,8,Teleósteos,Corvina,Bashaw,Micropogonias furnieri,277325
+2014,8,Teleósteos,Corvina,Croaker,Micropogonias furnieri,277325
 2014,8,Teleósteos,Enchova,Ancho,Pomatomus saltatrix,23583
 2014,8,Teleósteos,Enguia,Common Eel,Conger orbignyanus,180
 2014,8,Teleósteos,Espada,Broadbill,Xiphias gladius,19503
@@ -610,7 +610,7 @@ year,month,taxa,species_portuguese,species_english,species_sci,production_kg
 2014,9,Elasmobrânquios,Caçonete,Shark,NA,349
 2014,9,Elasmobrânquios,Emplastro,Emplastro,NA,551
 2014,9,Elasmobrânquios,Ratinho,Ratinho,NA,357
-2014,9,Não Cadastrado,Mistura,Mistura,NA,4035
+2014,9,Não Cadastrado,Mistura,Other fish,NA,4035
 2014,9,Não Cadastrado,Residuo,Residuo,NA,7653
 2014,9,Teleósteos,Abrótea,Brazilian codling,Urophycis brasiliensis,3360
 2014,9,Teleósteos,Albacora-branca,Albacora-branca,Thunnus alalunga,52
@@ -623,7 +623,7 @@ year,month,taxa,species_portuguese,species_english,species_sci,production_kg
 2014,9,Teleósteos,Castanha,Argentine croaker,Umbrina canosai,9110
 2014,9,Teleósteos,Cavalinha,American mackerel,Scomber japonicus,310
 2014,9,Teleósteos,Corcoroca,Grey Grunt,Haemulon spp.,1520
-2014,9,Teleósteos,Corvina,Bashaw,Micropogonias furnieri,248393
+2014,9,Teleósteos,Corvina,Croaker,Micropogonias furnieri,248393
 2014,9,Teleósteos,Enchova,Ancho,Pomatomus saltatrix,4083
 2014,9,Teleósteos,Enguia,Common Eel,Conger orbignyanus,120
 2014,9,Teleósteos,Espada,Broadbill,Xiphias gladius,2050
@@ -667,7 +667,7 @@ year,month,taxa,species_portuguese,species_english,species_sci,production_kg
 2014,10,Elasmobrânquios,Emplastro,Emplastro,NA,479
 2014,10,Elasmobrânquios,Ratinho,Ratinho,NA,444
 2014,10,Moluscos,Lula,Squid,Loligo sanpaulensis,147
-2014,10,Não Cadastrado,Mistura,Mistura,NA,3557
+2014,10,Não Cadastrado,Mistura,Other fish,NA,3557
 2014,10,Não Cadastrado,Ovas,Ovas,NA,318
 2014,10,Teleósteos,Abrótea,Brazilian codling,Urophycis brasiliensis,859
 2014,10,Teleósteos,Agulhão,Atlantic saury,Scomberesox saurus,42
@@ -680,7 +680,7 @@ year,month,taxa,species_portuguese,species_english,species_sci,production_kg
 2014,10,Teleósteos,Castanha,Argentine croaker,Umbrina canosai,11740
 2014,10,Teleósteos,Cioba,Dog Snapper,Lutjanus analis,150
 2014,10,Teleósteos,Corcoroca,Grey Grunt,Haemulon spp.,700
-2014,10,Teleósteos,Corvina,Bashaw,Micropogonias furnieri,251453
+2014,10,Teleósteos,Corvina,Croaker,Micropogonias furnieri,251453
 2014,10,Teleósteos,Dourado,Common dolphifish,Coryphaena hippurus,17578
 2014,10,Teleósteos,Enchova,Ancho,Pomatomus saltatrix,85040
 2014,10,Teleósteos,Enguia,Common Eel,Conger orbignyanus,200
@@ -727,18 +727,18 @@ year,month,taxa,species_portuguese,species_english,species_sci,production_kg
 2014,11,Elasmobrânquios,Caçonete,Shark,NA,40
 2014,11,Elasmobrânquios,Emplastro,Emplastro,NA,510
 2014,11,Elasmobrânquios,Ratinho,Ratinho,NA,14
-2014,11,Não Cadastrado,Mistura,Mistura,NA,1027
+2014,11,Não Cadastrado,Mistura,Other fish,NA,1027
 2014,11,Não Cadastrado,Ovas,Ovas,NA,1111
 2014,11,Teleósteos,Abrótea,Brazilian codling,Urophycis brasiliensis,630
 2014,11,Teleósteos,Agulhão,Atlantic saury,Scomberesox saurus,273
 2014,11,Teleósteos,Atum,Blow goat,Auxis rochei,463
 2014,11,Teleósteos,Bagre,Couma sea catfish,Sciades couma,210
 2014,11,Teleósteos,Betara,Carolina Whiting,Menticirrhus spp.,240
-2014,11,Teleósteos,Bonito-listrado,Arctic bonito,Katsuwonus pelamis,16
+2014,11,Teleósteos,Bonito-listrado,Skipjack tuna,Katsuwonus pelamis,16
 2014,11,Teleósteos,Cabra,East Atlantic Red Gurnard,Prionotus spp.,1840
 2014,11,Teleósteos,Castanha,Argentine croaker,Umbrina canosai,32490
 2014,11,Teleósteos,Cavala,Chub mackerel,Scomberomorus cavalla,50
-2014,11,Teleósteos,Corvina,Bashaw,Micropogonias furnieri,160942
+2014,11,Teleósteos,Corvina,Croaker,Micropogonias furnieri,160942
 2014,11,Teleósteos,Dourado,Common dolphifish,Coryphaena hippurus,81513
 2014,11,Teleósteos,Galo,American John Dory,Zenopsis conchifer,320
 2014,11,Teleósteos,Goete,Jamaica weakfish,Cynoscion jamaicensis,7050
@@ -768,18 +768,18 @@ year,month,taxa,species_portuguese,species_english,species_sci,production_kg
 2014,12,Elasmobrânquios,Cações,Shark,Mustelus spp,260
 2014,12,Elasmobrânquios,Emplastro,Emplastro,NA,80
 2014,12,Moluscos,Lula,Squid,Loligo sanpaulensis,200
-2014,12,Não Cadastrado,Mistura,Mistura,NA,7506
+2014,12,Não Cadastrado,Mistura,Other fish,NA,7506
 2014,12,Não Cadastrado,Ovas,Ovas,NA,150
 2014,12,Teleósteos,Abrótea,Brazilian codling,Urophycis brasiliensis,2580
 2014,12,Teleósteos,Agulhão,Atlantic saury,Scomberesox saurus,22
 2014,12,Teleósteos,Bagre,Couma sea catfish,Sciades couma,2560
 2014,12,Teleósteos,Betara,Carolina Whiting,Menticirrhus spp.,1040
 2014,12,Teleósteos,Bonito-cachorro,Bonito,Auxis thazard,20
-2014,12,Teleósteos,Bonito-listrado,Arctic bonito,Katsuwonus pelamis,74600
+2014,12,Teleósteos,Bonito-listrado,Skipjack tuna,Katsuwonus pelamis,74600
 2014,12,Teleósteos,Cabra,East Atlantic Red Gurnard,Prionotus spp.,4610
 2014,12,Teleósteos,Castanha,Argentine croaker,Umbrina canosai,64680
 2014,12,Teleósteos,Corcoroca,Grey Grunt,Haemulon spp.,1200
-2014,12,Teleósteos,Corvina,Bashaw,Micropogonias furnieri,170648
+2014,12,Teleósteos,Corvina,Croaker,Micropogonias furnieri,170648
 2014,12,Teleósteos,Dourado,Common dolphifish,Coryphaena hippurus,9260
 2014,12,Teleósteos,Enchova,Ancho,Pomatomus saltatrix,570
 2014,12,Teleósteos,Espada,Broadbill,Xiphias gladius,2520
@@ -798,24 +798,24 @@ year,month,taxa,species_portuguese,species_english,species_sci,production_kg
 2014,12,Teleósteos,Pescada-amarela,Acoupa weakfish,Cynoscion acoupa,13730
 2014,12,Teleósteos,Pescadinha-real,Bangamary,Macrodon ancylodon,310
 2014,12,Teleósteos,Tira-vira,Brazilian flathead,Percophis brasiliensis,560
-2015,2,Não Cadastrado,Mistura,Mistura,NA,10000
+2015,2,Não Cadastrado,Mistura,Other fish,NA,10000
 2015,2,Teleósteos,Carapau,Jack mackerel,Trachurus lathami,0
 2015,2,Teleósteos,Sardinha-verdadeira,Brazilian sardinella,Sardinella brasiliensis,618100
 2015,2,Teleósteos,Xarelete,Black jack,Caranx latus,0
 2015,3,Elasmobrânquios,Cações,Shark,Mustelus spp,8474
 2015,3,Elasmobrânquios,Emplastro,Emplastro,NA,1643
-2015,3,Não Cadastrado,Mistura,Mistura,NA,860
+2015,3,Não Cadastrado,Mistura,Other fish,NA,860
 2015,3,Teleósteos,Abrótea,Brazilian codling,Urophycis brasiliensis,480
 2015,3,Teleósteos,Albacora-branca,Albacora-branca,Thunnus alalunga,3000
 2015,3,Teleósteos,Albacora-lage,Albacore,Thunnus albacares,3000
 2015,3,Teleósteos,Bonito-cachorro,Bonito,Auxis thazard,4253
-2015,3,Teleósteos,Bonito-listrado,Arctic bonito,Katsuwonus pelamis,211000
+2015,3,Teleósteos,Bonito-listrado,Skipjack tuna,Katsuwonus pelamis,211000
 2015,3,Teleósteos,Cabra,East Atlantic Red Gurnard,Prionotus spp.,5254
 2015,3,Teleósteos,Carapau,Jack mackerel,Trachurus lathami,20
 2015,3,Teleósteos,Castanha,Argentine croaker,Umbrina canosai,17160
 2015,3,Teleósteos,Cavalinha,American mackerel,Scomber japonicus,27900
 2015,3,Teleósteos,Congro,Argentine Conger,Conger spp.,72
-2015,3,Teleósteos,Corvina,Bashaw,Micropogonias furnieri,40404
+2015,3,Teleósteos,Corvina,Croaker,Micropogonias furnieri,40404
 2015,3,Teleósteos,Enguia,Common Eel,Conger orbignyanus,440
 2015,3,Teleósteos,Espada,Broadbill,Xiphias gladius,400
 2015,3,Teleósteos,Galo,American John Dory,Zenopsis conchifer,1000
@@ -841,7 +841,7 @@ year,month,taxa,species_portuguese,species_english,species_sci,production_kg
 2015,4,Teleósteos,Abrótea-de-fundo,Brazilian codling,NA,20000
 2015,4,Teleósteos,Albacora-branca,Albacora-branca,Thunnus alalunga,5000
 2015,4,Teleósteos,Albacora-lage,Albacore,Thunnus albacares,25300
-2015,4,Teleósteos,Bonito-listrado,Arctic bonito,Katsuwonus pelamis,646000
+2015,4,Teleósteos,Bonito-listrado,Skipjack tuna,Katsuwonus pelamis,646000
 2015,4,Teleósteos,Cabra,East Atlantic Red Gurnard,Prionotus spp.,4000
 2015,4,Teleósteos,Carapau,Jack mackerel,Trachurus lathami,1000
 2015,4,Teleósteos,Castanha,Argentine croaker,Umbrina canosai,1000
@@ -861,7 +861,7 @@ year,month,taxa,species_portuguese,species_english,species_sci,production_kg
 2015,5,Teleósteos,Abrótea-de-fundo,Brazilian codling,NA,40000
 2015,5,Teleósteos,Albacora-branca,Albacora-branca,Thunnus alalunga,2000
 2015,5,Teleósteos,Bonito-cachorro,Bonito,Auxis thazard,2400
-2015,5,Teleósteos,Bonito-listrado,Arctic bonito,Katsuwonus pelamis,871000
+2015,5,Teleósteos,Bonito-listrado,Skipjack tuna,Katsuwonus pelamis,871000
 2015,5,Teleósteos,Carapau,Jack mackerel,Trachurus lathami,5000
 2015,5,Teleósteos,Congro-rosa,Australian Rockling,Genypterus brasiliensis,2000
 2015,5,Teleósteos,Dourado,Common dolphifish,Coryphaena hippurus,550
@@ -874,14 +874,14 @@ year,month,taxa,species_portuguese,species_english,species_sci,production_kg
 2015,5,Teleósteos,Sardinha-lage,Atlantic thread herring,Opisthonema oglinum,365300
 2015,5,Teleósteos,Sardinha-verdadeira,Brazilian sardinella,Sardinella brasiliensis,5132100
 2015,5,Teleósteos,Xixarro,Jack mackerel,Trachurus lathami,600
-2015,6,Não Cadastrado,Mistura,Mistura,NA,18582
+2015,6,Não Cadastrado,Mistura,Other fish,NA,18582
 2015,6,Não Cadastrado,Residuo,Residuo,NA,120
 2015,6,Teleósteos,Agulhão,Atlantic saury,Scomberesox saurus,135000
 2015,6,Teleósteos,Albacora-lage,Albacore,Thunnus albacares,3200
 2015,6,Teleósteos,Albacorinha,Albacore,Thunnus atlanticus,100
 2015,6,Teleósteos,Bonito-cachorro,Bonito,Auxis thazard,5100
-2015,6,Teleósteos,Bonito-listrado,Arctic bonito,Katsuwonus pelamis,343000
-2015,6,Teleósteos,Corvina,Bashaw,Micropogonias furnieri,1778
+2015,6,Teleósteos,Bonito-listrado,Skipjack tuna,Katsuwonus pelamis,343000
+2015,6,Teleósteos,Corvina,Croaker,Micropogonias furnieri,1778
 2015,6,Teleósteos,Dourado,Common dolphifish,Coryphaena hippurus,500
 2015,6,Teleósteos,Enchova,Ancho,Pomatomus saltatrix,2285
 2015,6,Teleósteos,Espada,Broadbill,Xiphias gladius,6568
@@ -905,15 +905,15 @@ year,month,taxa,species_portuguese,species_english,species_sci,production_kg
 2015,6,Teleósteos,Xaréu,Black cavalli,Caranx hippos,180
 2015,6,Teleósteos,Xixarro,Jack mackerel,Trachurus lathami,20000
 2015,7,Elasmobrânquios,Emplastro,Emplastro,NA,6000
-2015,7,Não Cadastrado,Mistura,Mistura,NA,8621
+2015,7,Não Cadastrado,Mistura,Other fish,NA,8621
 2015,7,Teleósteos,Agulhão,Atlantic saury,Scomberesox saurus,50000
 2015,7,Teleósteos,Albacora-branca,Albacora-branca,Thunnus alalunga,15500
 2015,7,Teleósteos,Albacorinha,Albacore,Thunnus atlanticus,2000
 2015,7,Teleósteos,Bagre,Couma sea catfish,Sciades couma,80
 2015,7,Teleósteos,Bonito-cachorro,Bonito,Auxis thazard,1080
-2015,7,Teleósteos,Bonito-listrado,Arctic bonito,Katsuwonus pelamis,425000
+2015,7,Teleósteos,Bonito-listrado,Skipjack tuna,Katsuwonus pelamis,425000
 2015,7,Teleósteos,Castanha,Argentine croaker,Umbrina canosai,100000
-2015,7,Teleósteos,Corvina,Bashaw,Micropogonias furnieri,3334
+2015,7,Teleósteos,Corvina,Croaker,Micropogonias furnieri,3334
 2015,7,Teleósteos,Dourado,Common dolphifish,Coryphaena hippurus,8530
 2015,7,Teleósteos,Espada,Broadbill,Xiphias gladius,2903
 2015,7,Teleósteos,Galo,American John Dory,Zenopsis conchifer,45170
@@ -932,7 +932,7 @@ year,month,taxa,species_portuguese,species_english,species_sci,production_kg
 2015,11,Teleósteos,Cabra,East Atlantic Red Gurnard,Prionotus spp.,1101
 2015,11,Teleósteos,Castanha,Argentine croaker,Umbrina canosai,3902
 2015,11,Teleósteos,Corcoroca,Grey Grunt,Haemulon spp.,31
-2015,11,Teleósteos,Corvina,Bashaw,Micropogonias furnieri,7394
+2015,11,Teleósteos,Corvina,Croaker,Micropogonias furnieri,7394
 2015,11,Teleósteos,Enchova,Ancho,Pomatomus saltatrix,2857
 2015,11,Teleósteos,Enguia,Common Eel,Conger orbignyanus,6
 2015,11,Teleósteos,Espada,Broadbill,Xiphias gladius,225
@@ -952,12 +952,12 @@ year,month,taxa,species_portuguese,species_english,species_sci,production_kg
 2015,12,Teleósteos,Betara,Carolina Whiting,Menticirrhus spp.,100
 2015,12,Teleósteos,Cabra,East Atlantic Red Gurnard,Prionotus spp.,300
 2015,12,Teleósteos,Castanha,Argentine croaker,Umbrina canosai,52700
-2015,12,Teleósteos,Corvina,Bashaw,Micropogonias furnieri,7017500
+2015,12,Teleósteos,Corvina,Croaker,Micropogonias furnieri,7017500
 2015,12,Teleósteos,Maria-mole,Maria-mole,Cynoscion guatucupa,16100
 2015,12,Teleósteos,Peixe-porco,Angular roughshark,Oxynotus centrina,500
 2016,1,Elasmobrânquios,Cação-bagre,Cação-bagre,NA,1420
 2016,1,Elasmobrânquios,Emplastro,Emplastro,NA,3300
-2016,1,Não Cadastrado,Mistura,Mistura,NA,1260
+2016,1,Não Cadastrado,Mistura,Other fish,NA,1260
 2016,1,Teleósteos,Abrótea,Brazilian codling,Urophycis brasiliensis,10860
 2016,1,Teleósteos,Batata,Atlantic goldeneye tilefish,Caulolatilus chrysops,20
 2016,1,Teleósteos,Bonito-cachorro,Bonito,Auxis thazard,4807.5
@@ -965,7 +965,7 @@ year,month,taxa,species_portuguese,species_english,species_sci,production_kg
 2016,1,Teleósteos,Cascudo,Atlantic searobin,Prionotus punctatus,2240
 2016,1,Teleósteos,Castanha,Argentine croaker,Umbrina canosai,340
 2016,1,Teleósteos,Corcoroca,Grey Grunt,Haemulon spp.,20
-2016,1,Teleósteos,Corvina,Bashaw,Micropogonias furnieri,14020
+2016,1,Teleósteos,Corvina,Croaker,Micropogonias furnieri,14020
 2016,1,Teleósteos,Enguia,Common Eel,Conger orbignyanus,80
 2016,1,Teleósteos,Goete,Jamaica weakfish,Cynoscion jamaicensis,20
 2016,1,Teleósteos,Linguado-areia,Flatfish,NA,5560
@@ -982,7 +982,7 @@ year,month,taxa,species_portuguese,species_english,species_sci,production_kg
 2016,2,Elasmobrânquios,Cação-bagre,Cação-bagre,NA,340
 2016,2,Elasmobrânquios,Emplastro,Emplastro,NA,9620
 2016,2,Elasmobrânquios,Raia,Ray,NA,176
-2016,2,Não Cadastrado,Mistura,Mistura,NA,3899
+2016,2,Não Cadastrado,Mistura,Other fish,NA,3899
 2016,2,Teleósteos,Abrótea,Brazilian codling,Urophycis brasiliensis,49153
 2016,2,Teleósteos,Batata,Atlantic goldeneye tilefish,Caulolatilus chrysops,20
 2016,2,Teleósteos,Betara,Carolina Whiting,Menticirrhus spp.,808
@@ -991,7 +991,7 @@ year,month,taxa,species_portuguese,species_english,species_sci,production_kg
 2016,2,Teleósteos,Castanha,Argentine croaker,Umbrina canosai,10580
 2016,2,Teleósteos,Congro,Argentine Conger,Conger spp.,80
 2016,2,Teleósteos,Corcoroca,Grey Grunt,Haemulon spp.,360
-2016,2,Teleósteos,Corvina,Bashaw,Micropogonias furnieri,74789
+2016,2,Teleósteos,Corvina,Croaker,Micropogonias furnieri,74789
 2016,2,Teleósteos,Enguia,Common Eel,Conger orbignyanus,40
 2016,2,Teleósteos,Goete,Jamaica weakfish,Cynoscion jamaicensis,1020
 2016,2,Teleósteos,Linguado,Flatfish,Paralichthys spp.,20
@@ -1010,14 +1010,14 @@ year,month,taxa,species_portuguese,species_english,species_sci,production_kg
 2016,3,Crustáceos,Camarão-sete-barbas,Shrimp,Xiphopenaeus kroyeri,234
 2016,3,Elasmobrânquios,Emplastro,Emplastro,NA,5060
 2016,3,Elasmobrânquios,Raia,Ray,NA,40
-2016,3,Não Cadastrado,Mistura,Mistura,NA,1100
+2016,3,Não Cadastrado,Mistura,Other fish,NA,1100
 2016,3,Teleósteos,Abrótea,Brazilian codling,Urophycis brasiliensis,51640
 2016,3,Teleósteos,Betara,Carolina Whiting,Menticirrhus spp.,360
 2016,3,Teleósteos,Cabra,East Atlantic Red Gurnard,Prionotus spp.,16760
 2016,3,Teleósteos,Castanha,Argentine croaker,Umbrina canosai,14360
 2016,3,Teleósteos,Cavalinha,American mackerel,Scomber japonicus,380
 2016,3,Teleósteos,Corcoroca,Grey Grunt,Haemulon spp.,740
-2016,3,Teleósteos,Corvina,Bashaw,Micropogonias furnieri,51600
+2016,3,Teleósteos,Corvina,Croaker,Micropogonias furnieri,51600
 2016,3,Teleósteos,Enguia,Common Eel,Conger orbignyanus,20
 2016,3,Teleósteos,Espada,Broadbill,Xiphias gladius,20
 2016,3,Teleósteos,Goete,Jamaica weakfish,Cynoscion jamaicensis,9420
@@ -1044,7 +1044,7 @@ year,month,taxa,species_portuguese,species_english,species_sci,production_kg
 2016,4,Elasmobrânquios,Emplastro,Emplastro,NA,12600
 2016,4,Elasmobrânquios,Raia,Ray,NA,205
 2016,4,Moluscos,Polvo,Octopus,Octopus spp.,167
-2016,4,Não Cadastrado,Mistura,Mistura,NA,1552
+2016,4,Não Cadastrado,Mistura,Other fish,NA,1552
 2016,4,Não Cadastrado,Não discriminado,Não discriminado,NA,2281.4
 2016,4,Teleósteos,Abrótea,Brazilian codling,Urophycis brasiliensis,42040
 2016,4,Teleósteos,Albacora-bandolim,Albacore,Thunnus obesus,123
@@ -1056,13 +1056,13 @@ year,month,taxa,species_portuguese,species_english,species_sci,production_kg
 2016,4,Teleósteos,Betara,Carolina Whiting,Menticirrhus spp.,520
 2016,4,Teleósteos,Bonito,skipjack tuna,Auxis rochei,300
 2016,4,Teleósteos,Bonito-cachorro,Bonito,Auxis thazard,265
-2016,4,Teleósteos,Bonito-listrado,Arctic bonito,Katsuwonus pelamis,100074.1
+2016,4,Teleósteos,Bonito-listrado,Skipjack tuna,Katsuwonus pelamis,100074.1
 2016,4,Teleósteos,Cabra,East Atlantic Red Gurnard,Prionotus spp.,36260
 2016,4,Teleósteos,Cascudo,Atlantic searobin,Prionotus punctatus,280
 2016,4,Teleósteos,Castanha,Argentine croaker,Umbrina canosai,14160
 2016,4,Teleósteos,Congro,Argentine Conger,Conger spp.,1540
 2016,4,Teleósteos,Corcoroca,Grey Grunt,Haemulon spp.,180
-2016,4,Teleósteos,Corvina,Bashaw,Micropogonias furnieri,32840
+2016,4,Teleósteos,Corvina,Croaker,Micropogonias furnieri,32840
 2016,4,Teleósteos,Enguia,Common Eel,Conger orbignyanus,60
 2016,4,Teleósteos,Espada,Broadbill,Xiphias gladius,220
 2016,4,Teleósteos,Galo,American John Dory,Zenopsis conchifer,40
@@ -1102,7 +1102,7 @@ year,month,taxa,species_portuguese,species_english,species_sci,production_kg
 2016,5,Teleósteos,Batata,Atlantic goldeneye tilefish,Caulolatilus chrysops,116
 2016,5,Teleósteos,Betara,Carolina Whiting,Menticirrhus spp.,355
 2016,5,Teleósteos,Bonito-cachorro,Bonito,Auxis thazard,243
-2016,5,Teleósteos,Bonito-listrado,Arctic bonito,Katsuwonus pelamis,23667.5
+2016,5,Teleósteos,Bonito-listrado,Skipjack tuna,Katsuwonus pelamis,23667.5
 2016,5,Teleósteos,Bonito-pintado,Atlantic black skipjack,Euthynnus alletteratus,905.5
 2016,5,Teleósteos,Cabra,East Atlantic Red Gurnard,Prionotus spp.,40798
 2016,5,Teleósteos,Cangoá,Cangoá,NA,12
@@ -1110,7 +1110,7 @@ year,month,taxa,species_portuguese,species_english,species_sci,production_kg
 2016,5,Teleósteos,Castanha,Argentine croaker,Umbrina canosai,35211
 2016,5,Teleósteos,Congro,Argentine Conger,Conger spp.,914
 2016,5,Teleósteos,Corcoroca,Grey Grunt,Haemulon spp.,655
-2016,5,Teleósteos,Corvina,Bashaw,Micropogonias furnieri,60112
+2016,5,Teleósteos,Corvina,Croaker,Micropogonias furnieri,60112
 2016,5,Teleósteos,Enguia,Common Eel,Conger orbignyanus,117
 2016,5,Teleósteos,Espada,Broadbill,Xiphias gladius,437
 2016,5,Teleósteos,Galo,American John Dory,Zenopsis conchifer,39
@@ -1145,7 +1145,7 @@ year,month,taxa,species_portuguese,species_english,species_sci,production_kg
 2016,6,Elasmobrânquios,Raia,Ray,NA,1800
 2016,6,Moluscos,Lula,Squid,Loligo sanpaulensis,1000
 2016,6,Moluscos,Polvo,Octopus,Octopus spp.,406
-2016,6,Não Cadastrado,Mistura,Mistura,NA,340
+2016,6,Não Cadastrado,Mistura,Other fish,NA,340
 2016,6,Não Cadastrado,Residuo,Residuo,NA,3158
 2016,6,Teleósteos,Abrótea,Brazilian codling,Urophycis brasiliensis,82637
 2016,6,Teleósteos,Albacora-bandolim,Albacore,Thunnus obesus,300
@@ -1156,14 +1156,14 @@ year,month,taxa,species_portuguese,species_english,species_sci,production_kg
 2016,6,Teleósteos,Bagre,Couma sea catfish,Sciades couma,80
 2016,6,Teleósteos,Betara,Carolina Whiting,Menticirrhus spp.,2001
 2016,6,Teleósteos,Bonito-cachorro,Bonito,Auxis thazard,167
-2016,6,Teleósteos,Bonito-listrado,Arctic bonito,Katsuwonus pelamis,150037.5
+2016,6,Teleósteos,Bonito-listrado,Skipjack tuna,Katsuwonus pelamis,150037.5
 2016,6,Teleósteos,Cabra,East Atlantic Red Gurnard,Prionotus spp.,98617
 2016,6,Teleósteos,Castanha,Argentine croaker,Umbrina canosai,11367
 2016,6,Teleósteos,Cavalinha,American mackerel,Scomber japonicus,3075
 2016,6,Teleósteos,Congro,Argentine Conger,Conger spp.,855
 2016,6,Teleósteos,Congro-rosa,Australian Rockling,Genypterus brasiliensis,400
 2016,6,Teleósteos,Corcoroca,Grey Grunt,Haemulon spp.,400
-2016,6,Teleósteos,Corvina,Bashaw,Micropogonias furnieri,2066
+2016,6,Teleósteos,Corvina,Croaker,Micropogonias furnieri,2066
 2016,6,Teleósteos,Dourado,Common dolphifish,Coryphaena hippurus,36673
 2016,6,Teleósteos,Enchova,Ancho,Pomatomus saltatrix,70780
 2016,6,Teleósteos,Enguia,Common Eel,Conger orbignyanus,322
@@ -1202,7 +1202,7 @@ year,month,taxa,species_portuguese,species_english,species_sci,production_kg
 2016,7,Elasmobrânquios,Raia,Ray,NA,260
 2016,7,Moluscos,Lula,Squid,Loligo sanpaulensis,530
 2016,7,Moluscos,Polvo,Octopus,Octopus spp.,5145
-2016,7,Não Cadastrado,Mistura,Mistura,NA,83963
+2016,7,Não Cadastrado,Mistura,Other fish,NA,83963
 2016,7,Não Cadastrado,Residuo,Residuo,NA,4600
 2016,7,Teleósteos,Abrótea,Brazilian codling,Urophycis brasiliensis,193146
 2016,7,Teleósteos,Abrótea-de-fundo,Brazilian codling,NA,13860
@@ -1216,14 +1216,14 @@ year,month,taxa,species_portuguese,species_english,species_sci,production_kg
 2016,7,Teleósteos,Batata,Atlantic goldeneye tilefish,Caulolatilus chrysops,460
 2016,7,Teleósteos,Betara,Carolina Whiting,Menticirrhus spp.,5914
 2016,7,Teleósteos,Bonito-cachorro,Bonito,Auxis thazard,4447.5
-2016,7,Teleósteos,Bonito-listrado,Arctic bonito,Katsuwonus pelamis,23188
+2016,7,Teleósteos,Bonito-listrado,Skipjack tuna,Katsuwonus pelamis,23188
 2016,7,Teleósteos,Cabra,East Atlantic Red Gurnard,Prionotus spp.,197987
 2016,7,Teleósteos,Castanha,Argentine croaker,Umbrina canosai,731494
 2016,7,Teleósteos,Cavala,Chub mackerel,Scomberomorus cavalla,53
 2016,7,Teleósteos,Congro,Argentine Conger,Conger spp.,16772
 2016,7,Teleósteos,Congro-rosa,Australian Rockling,Genypterus brasiliensis,13860
 2016,7,Teleósteos,Corcoroca,Grey Grunt,Haemulon spp.,1080
-2016,7,Teleósteos,Corvina,Bashaw,Micropogonias furnieri,704936
+2016,7,Teleósteos,Corvina,Croaker,Micropogonias furnieri,704936
 2016,7,Teleósteos,Dourado,Common dolphifish,Coryphaena hippurus,161
 2016,7,Teleósteos,Enchova,Ancho,Pomatomus saltatrix,669405
 2016,7,Teleósteos,Enguia,Common Eel,Conger orbignyanus,1367
@@ -1272,7 +1272,7 @@ year,month,taxa,species_portuguese,species_english,species_sci,production_kg
 2016,8,Elasmobrânquios,Raia,Ray,NA,3000
 2016,8,Moluscos,Lula,Squid,Loligo sanpaulensis,368
 2016,8,Moluscos,Polvo,Octopus,Octopus spp.,5311
-2016,8,Não Cadastrado,Mistura,Mistura,NA,86265
+2016,8,Não Cadastrado,Mistura,Other fish,NA,86265
 2016,8,Não Cadastrado,Residuo,Residuo,NA,20682
 2016,8,Teleósteos,Abrótea,Brazilian codling,Urophycis brasiliensis,195448
 2016,8,Teleósteos,Abrótea-de-fundo,Brazilian codling,NA,70900
@@ -1284,7 +1284,7 @@ year,month,taxa,species_portuguese,species_english,species_sci,production_kg
 2016,8,Teleósteos,Batata,Atlantic goldeneye tilefish,Caulolatilus chrysops,2170
 2016,8,Teleósteos,Betara,Carolina Whiting,Menticirrhus spp.,11608
 2016,8,Teleósteos,Bonito-cachorro,Bonito,Auxis thazard,21670
-2016,8,Teleósteos,Bonito-listrado,Arctic bonito,Katsuwonus pelamis,26470
+2016,8,Teleósteos,Bonito-listrado,Skipjack tuna,Katsuwonus pelamis,26470
 2016,8,Teleósteos,Cabra,East Atlantic Red Gurnard,Prionotus spp.,220996
 2016,8,Teleósteos,Carapau,Jack mackerel,Trachurus lathami,5580
 2016,8,Teleósteos,Cascudo,Atlantic searobin,Prionotus punctatus,360
@@ -1295,7 +1295,7 @@ year,month,taxa,species_portuguese,species_english,species_sci,production_kg
 2016,8,Teleósteos,Congro,Argentine Conger,Conger spp.,8585
 2016,8,Teleósteos,Congro-rosa,Australian Rockling,Genypterus brasiliensis,5200
 2016,8,Teleósteos,Corcoroca,Grey Grunt,Haemulon spp.,1078
-2016,8,Teleósteos,Corvina,Bashaw,Micropogonias furnieri,1768573
+2016,8,Teleósteos,Corvina,Croaker,Micropogonias furnieri,1768573
 2016,8,Teleósteos,Dourado,Common dolphifish,Coryphaena hippurus,95
 2016,8,Teleósteos,Enchova,Ancho,Pomatomus saltatrix,8847
 2016,8,Teleósteos,Enguia,Common Eel,Conger orbignyanus,1093
@@ -1355,7 +1355,7 @@ year,month,taxa,species_portuguese,species_english,species_sci,production_kg
 2016,9,Elasmobrânquios,Raia,Ray,NA,770
 2016,9,Moluscos,Lula,Squid,Loligo sanpaulensis,1049
 2016,9,Moluscos,Polvo,Octopus,Octopus spp.,1932
-2016,9,Não Cadastrado,Mistura,Mistura,NA,127670
+2016,9,Não Cadastrado,Mistura,Other fish,NA,127670
 2016,9,Não Cadastrado,Residuo,Residuo,NA,49621
 2016,9,Teleósteos,Abrótea,Brazilian codling,Urophycis brasiliensis,76267
 2016,9,Teleósteos,Abrótea-de-fundo,Brazilian codling,NA,80
@@ -1366,7 +1366,7 @@ year,month,taxa,species_portuguese,species_english,species_sci,production_kg
 2016,9,Teleósteos,Bagre,Couma sea catfish,Sciades couma,25884
 2016,9,Teleósteos,Batata,Atlantic goldeneye tilefish,Caulolatilus chrysops,2300
 2016,9,Teleósteos,Betara,Carolina Whiting,Menticirrhus spp.,10859
-2016,9,Teleósteos,Bonito-listrado,Arctic bonito,Katsuwonus pelamis,2000
+2016,9,Teleósteos,Bonito-listrado,Skipjack tuna,Katsuwonus pelamis,2000
 2016,9,Teleósteos,Cabra,East Atlantic Red Gurnard,Prionotus spp.,221427
 2016,9,Teleósteos,Cangoá,Cangoá,NA,500
 2016,9,Teleósteos,Castanha,Argentine croaker,Umbrina canosai,737532
@@ -1377,7 +1377,7 @@ year,month,taxa,species_portuguese,species_english,species_sci,production_kg
 2016,9,Teleósteos,Congro,Argentine Conger,Conger spp.,31
 2016,9,Teleósteos,Congro-rosa,Australian Rockling,Genypterus brasiliensis,480
 2016,9,Teleósteos,Corcoroca,Grey Grunt,Haemulon spp.,1250
-2016,9,Teleósteos,Corvina,Bashaw,Micropogonias furnieri,1617872
+2016,9,Teleósteos,Corvina,Croaker,Micropogonias furnieri,1617872
 2016,9,Teleósteos,Dourado,Common dolphifish,Coryphaena hippurus,488
 2016,9,Teleósteos,Enchova,Ancho,Pomatomus saltatrix,340
 2016,9,Teleósteos,Enguia,Common Eel,Conger orbignyanus,215
@@ -1434,7 +1434,7 @@ year,month,taxa,species_portuguese,species_english,species_sci,production_kg
 2016,10,Elasmobrânquios,Raia,Ray,NA,3600
 2016,10,Moluscos,Lula,Squid,Loligo sanpaulensis,570
 2016,10,Moluscos,Polvo,Octopus,Octopus spp.,5438
-2016,10,Não Cadastrado,Mistura,Mistura,NA,177483
+2016,10,Não Cadastrado,Mistura,Other fish,NA,177483
 2016,10,Não Cadastrado,Não discriminado,Não discriminado,NA,1552
 2016,10,Não Cadastrado,Residuo,Residuo,NA,5164
 2016,10,Teleósteos,Abrótea,Brazilian codling,Urophycis brasiliensis,84080
@@ -1449,7 +1449,7 @@ year,month,taxa,species_portuguese,species_english,species_sci,production_kg
 2016,10,Teleósteos,Batata,Atlantic goldeneye tilefish,Caulolatilus chrysops,7835
 2016,10,Teleósteos,Betara,Carolina Whiting,Menticirrhus spp.,14158
 2016,10,Teleósteos,Bonito-cachorro,Bonito,Auxis thazard,10000
-2016,10,Teleósteos,Bonito-listrado,Arctic bonito,Katsuwonus pelamis,37500.5
+2016,10,Teleósteos,Bonito-listrado,Skipjack tuna,Katsuwonus pelamis,37500.5
 2016,10,Teleósteos,Cabra,East Atlantic Red Gurnard,Prionotus spp.,257565
 2016,10,Teleósteos,Carapau,Jack mackerel,Trachurus lathami,19420
 2016,10,Teleósteos,Castanha,Argentine croaker,Umbrina canosai,851813
@@ -1460,7 +1460,7 @@ year,month,taxa,species_portuguese,species_english,species_sci,production_kg
 2016,10,Teleósteos,Congro,Argentine Conger,Conger spp.,102
 2016,10,Teleósteos,Congro-rosa,Australian Rockling,Genypterus brasiliensis,1945
 2016,10,Teleósteos,Corcoroca,Grey Grunt,Haemulon spp.,800
-2016,10,Teleósteos,Corvina,Bashaw,Micropogonias furnieri,1225341
+2016,10,Teleósteos,Corvina,Croaker,Micropogonias furnieri,1225341
 2016,10,Teleósteos,Dourado,Common dolphifish,Coryphaena hippurus,1580
 2016,10,Teleósteos,Enchova,Ancho,Pomatomus saltatrix,864
 2016,10,Teleósteos,Enguia,Common Eel,Conger orbignyanus,420
@@ -1521,7 +1521,7 @@ year,month,taxa,species_portuguese,species_english,species_sci,production_kg
 2016,11,Elasmobrânquios,Raia,Ray,NA,3140
 2016,11,Moluscos,Lula,Squid,Loligo sanpaulensis,2000
 2016,11,Moluscos,Polvo,Octopus,Octopus spp.,2720
-2016,11,Não Cadastrado,Mistura,Mistura,NA,186825
+2016,11,Não Cadastrado,Mistura,Other fish,NA,186825
 2016,11,Não Cadastrado,Residuo,Residuo,NA,1920
 2016,11,Teleósteos,Abrótea,Brazilian codling,Urophycis brasiliensis,129189
 2016,11,Teleósteos,Abrótea-de-fundo,Brazilian codling,NA,11180
@@ -1536,7 +1536,7 @@ year,month,taxa,species_portuguese,species_english,species_sci,production_kg
 2016,11,Teleósteos,Betara,Carolina Whiting,Menticirrhus spp.,19026
 2016,11,Teleósteos,Bonito,skipjack tuna,Auxis rochei,10000
 2016,11,Teleósteos,Bonito-cachorro,Bonito,Auxis thazard,8000
-2016,11,Teleósteos,Bonito-listrado,Arctic bonito,Katsuwonus pelamis,58346.5
+2016,11,Teleósteos,Bonito-listrado,Skipjack tuna,Katsuwonus pelamis,58346.5
 2016,11,Teleósteos,Cabra,East Atlantic Red Gurnard,Prionotus spp.,198922
 2016,11,Teleósteos,Carapau,Jack mackerel,Trachurus lathami,3000
 2016,11,Teleósteos,Carapeba,Broad shad,Diapterus auratus,459
@@ -1546,7 +1546,7 @@ year,month,taxa,species_portuguese,species_english,species_sci,production_kg
 2016,11,Teleósteos,Cherne-verdadeiro,Cherne-verdadeiro,NA,1780
 2016,11,Teleósteos,Congro-rosa,Australian Rockling,Genypterus brasiliensis,4360
 2016,11,Teleósteos,Corcoroca,Grey Grunt,Haemulon spp.,3687
-2016,11,Teleósteos,Corvina,Bashaw,Micropogonias furnieri,934678
+2016,11,Teleósteos,Corvina,Croaker,Micropogonias furnieri,934678
 2016,11,Teleósteos,Dourado,Common dolphifish,Coryphaena hippurus,35064
 2016,11,Teleósteos,Enchova,Ancho,Pomatomus saltatrix,16571
 2016,11,Teleósteos,Enguia,Common Eel,Conger orbignyanus,335
@@ -1609,7 +1609,7 @@ year,month,taxa,species_portuguese,species_english,species_sci,production_kg
 2016,12,Elasmobrânquios,Raia,Ray,NA,5200
 2016,12,Moluscos,Lula,Squid,Loligo sanpaulensis,360
 2016,12,Moluscos,Polvo,Octopus,Octopus spp.,3300
-2016,12,Não Cadastrado,Mistura,Mistura,NA,89348
+2016,12,Não Cadastrado,Mistura,Other fish,NA,89348
 2016,12,Não Cadastrado,Residuo,Residuo,NA,1440
 2016,12,Teleósteos,Abrótea,Brazilian codling,Urophycis brasiliensis,71887
 2016,12,Teleósteos,Abrótea-de-fundo,Brazilian codling,NA,81360
@@ -1623,7 +1623,7 @@ year,month,taxa,species_portuguese,species_english,species_sci,production_kg
 2016,12,Teleósteos,Batata,Atlantic goldeneye tilefish,Caulolatilus chrysops,17190
 2016,12,Teleósteos,Betara,Carolina Whiting,Menticirrhus spp.,19225
 2016,12,Teleósteos,Bonito-cachorro,Bonito,Auxis thazard,5076
-2016,12,Teleósteos,Bonito-listrado,Arctic bonito,Katsuwonus pelamis,164760
+2016,12,Teleósteos,Bonito-listrado,Skipjack tuna,Katsuwonus pelamis,164760
 2016,12,Teleósteos,Cabra,East Atlantic Red Gurnard,Prionotus spp.,334821
 2016,12,Teleósteos,Carapicu,Broad shad,Diapterus auratus,80
 2016,12,Teleósteos,Castanha,Argentine croaker,Umbrina canosai,249128
@@ -1632,7 +1632,7 @@ year,month,taxa,species_portuguese,species_english,species_sci,production_kg
 2016,12,Teleósteos,Congro,Argentine Conger,Conger spp.,3200
 2016,12,Teleósteos,Congro-rosa,Australian Rockling,Genypterus brasiliensis,5660
 2016,12,Teleósteos,Corcoroca,Grey Grunt,Haemulon spp.,3510
-2016,12,Teleósteos,Corvina,Bashaw,Micropogonias furnieri,1061930
+2016,12,Teleósteos,Corvina,Croaker,Micropogonias furnieri,1061930
 2016,12,Teleósteos,Dourado,Common dolphifish,Coryphaena hippurus,71787
 2016,12,Teleósteos,Enchova,Ancho,Pomatomus saltatrix,18525
 2016,12,Teleósteos,Enguia,Common Eel,Conger orbignyanus,320
@@ -1682,7 +1682,7 @@ year,month,taxa,species_portuguese,species_english,species_sci,production_kg
 2017,1,Elasmobrânquios,Raia,Ray,NA,700
 2017,1,Moluscos,Lula,Squid,Loligo sanpaulensis,560
 2017,1,Moluscos,Polvo,Octopus,Octopus spp.,825
-2017,1,Não Cadastrado,Mistura,Mistura,NA,58300
+2017,1,Não Cadastrado,Mistura,Other fish,NA,58300
 2017,1,Não Cadastrado,Residuo,Residuo,NA,4140
 2017,1,Teleósteos,Abrótea,Brazilian codling,Urophycis brasiliensis,34343
 2017,1,Teleósteos,Abrótea-de-fundo,Brazilian codling,NA,111548
@@ -1695,14 +1695,14 @@ year,month,taxa,species_portuguese,species_english,species_sci,production_kg
 2017,1,Teleósteos,Batata,Atlantic goldeneye tilefish,Caulolatilus chrysops,19780
 2017,1,Teleósteos,Betara,Carolina Whiting,Menticirrhus spp.,2700
 2017,1,Teleósteos,Bonito-cachorro,Bonito,Auxis thazard,829.5
-2017,1,Teleósteos,Bonito-listrado,Arctic bonito,Katsuwonus pelamis,1458378.5
+2017,1,Teleósteos,Bonito-listrado,Skipjack tuna,Katsuwonus pelamis,1458378.5
 2017,1,Teleósteos,Cabra,East Atlantic Red Gurnard,Prionotus spp.,201383
 2017,1,Teleósteos,Castanha,Argentine croaker,Umbrina canosai,106683
 2017,1,Teleósteos,Cavala,Chub mackerel,Scomberomorus cavalla,24
 2017,1,Teleósteos,Cherne-verdadeiro,Cherne-verdadeiro,NA,5200
 2017,1,Teleósteos,Congro-rosa,Australian Rockling,Genypterus brasiliensis,5850
 2017,1,Teleósteos,Corcoroca,Grey Grunt,Haemulon spp.,15
-2017,1,Teleósteos,Corvina,Bashaw,Micropogonias furnieri,244563
+2017,1,Teleósteos,Corvina,Croaker,Micropogonias furnieri,244563
 2017,1,Teleósteos,Dourado,Common dolphifish,Coryphaena hippurus,66479
 2017,1,Teleósteos,Enguia,Common Eel,Conger orbignyanus,120
 2017,1,Teleósteos,Espada,Broadbill,Xiphias gladius,241508
@@ -1751,7 +1751,7 @@ year,month,taxa,species_portuguese,species_english,species_sci,production_kg
 2017,2,Elasmobrânquios,Raia,Ray,NA,580
 2017,2,Moluscos,Lula,Squid,Loligo sanpaulensis,1595
 2017,2,Moluscos,Polvo,Octopus,Octopus spp.,4672
-2017,2,Não Cadastrado,Mistura,Mistura,NA,380477
+2017,2,Não Cadastrado,Mistura,Other fish,NA,380477
 2017,2,Não Cadastrado,Residuo,Residuo,NA,10420
 2017,2,Teleósteos,Abrótea,Brazilian codling,Urophycis brasiliensis,76594
 2017,2,Teleósteos,Abrótea-de-fundo,Brazilian codling,NA,81610
@@ -1763,7 +1763,7 @@ year,month,taxa,species_portuguese,species_english,species_sci,production_kg
 2017,2,Teleósteos,Batata,Atlantic goldeneye tilefish,Caulolatilus chrysops,4192
 2017,2,Teleósteos,Betara,Carolina Whiting,Menticirrhus spp.,5997
 2017,2,Teleósteos,Bonito-cachorro,Bonito,Auxis thazard,1229
-2017,2,Teleósteos,Bonito-listrado,Arctic bonito,Katsuwonus pelamis,571047.5
+2017,2,Teleósteos,Bonito-listrado,Skipjack tuna,Katsuwonus pelamis,571047.5
 2017,2,Teleósteos,Cabra,East Atlantic Red Gurnard,Prionotus spp.,286658
 2017,2,Teleósteos,Carapau,Jack mackerel,Trachurus lathami,12479
 2017,2,Teleósteos,Castanha,Argentine croaker,Umbrina canosai,273065
@@ -1774,7 +1774,7 @@ year,month,taxa,species_portuguese,species_english,species_sci,production_kg
 2017,2,Teleósteos,Congro,Argentine Conger,Conger spp.,1400
 2017,2,Teleósteos,Congro-rosa,Australian Rockling,Genypterus brasiliensis,20700
 2017,2,Teleósteos,Corcoroca,Grey Grunt,Haemulon spp.,740
-2017,2,Teleósteos,Corvina,Bashaw,Micropogonias furnieri,1234411
+2017,2,Teleósteos,Corvina,Croaker,Micropogonias furnieri,1234411
 2017,2,Teleósteos,Dourado,Common dolphifish,Coryphaena hippurus,4014
 2017,2,Teleósteos,Enchova,Ancho,Pomatomus saltatrix,670
 2017,2,Teleósteos,Enguia,Common Eel,Conger orbignyanus,257
@@ -1831,7 +1831,7 @@ year,month,taxa,species_portuguese,species_english,species_sci,production_kg
 2017,3,Elasmobrânquios,Machote,Spinner Shark,NA,15
 2017,3,Moluscos,Lula,Squid,Loligo sanpaulensis,802
 2017,3,Moluscos,Polvo,Octopus,Octopus spp.,5985
-2017,3,Não Cadastrado,Mistura,Mistura,NA,294079
+2017,3,Não Cadastrado,Mistura,Other fish,NA,294079
 2017,3,Não Cadastrado,Residuo,Residuo,NA,3460
 2017,3,Teleósteos,Abrótea,Brazilian codling,Urophycis brasiliensis,78388
 2017,3,Teleósteos,Abrótea-de-fundo,Brazilian codling,NA,245425
@@ -1844,7 +1844,7 @@ year,month,taxa,species_portuguese,species_english,species_sci,production_kg
 2017,3,Teleósteos,Betara,Carolina Whiting,Menticirrhus spp.,10459
 2017,3,Teleósteos,Bonito,skipjack tuna,Auxis rochei,380
 2017,3,Teleósteos,Bonito-cachorro,Bonito,Auxis thazard,8976
-2017,3,Teleósteos,Bonito-listrado,Arctic bonito,Katsuwonus pelamis,924207
+2017,3,Teleósteos,Bonito-listrado,Skipjack tuna,Katsuwonus pelamis,924207
 2017,3,Teleósteos,Bonito-pintado,Atlantic black skipjack,Euthynnus alletteratus,83
 2017,3,Teleósteos,Cabra,East Atlantic Red Gurnard,Prionotus spp.,324491
 2017,3,Teleósteos,Carapau,Jack mackerel,Trachurus lathami,15180
@@ -1856,7 +1856,7 @@ year,month,taxa,species_portuguese,species_english,species_sci,production_kg
 2017,3,Teleósteos,Cherne-verdadeiro,Cherne-verdadeiro,NA,300
 2017,3,Teleósteos,Congro-rosa,Australian Rockling,Genypterus brasiliensis,18130
 2017,3,Teleósteos,Corcoroca,Grey Grunt,Haemulon spp.,2900
-2017,3,Teleósteos,Corvina,Bashaw,Micropogonias furnieri,1100881
+2017,3,Teleósteos,Corvina,Croaker,Micropogonias furnieri,1100881
 2017,3,Teleósteos,Dourado,Common dolphifish,Coryphaena hippurus,334
 2017,3,Teleósteos,Enchova,Ancho,Pomatomus saltatrix,240
 2017,3,Teleósteos,Enguia,Common Eel,Conger orbignyanus,20
@@ -1905,7 +1905,7 @@ year,month,taxa,species_portuguese,species_english,species_sci,production_kg
 2017,4,Elasmobrânquios,Machote,Spinner Shark,NA,74
 2017,4,Moluscos,Lula,Squid,Loligo sanpaulensis,1820
 2017,4,Moluscos,Polvo,Octopus,Octopus spp.,730
-2017,4,Não Cadastrado,Mistura,Mistura,NA,437574
+2017,4,Não Cadastrado,Mistura,Other fish,NA,437574
 2017,4,Não Cadastrado,Residuo,Residuo,NA,1100
 2017,4,Teleósteos,Abrótea,Brazilian codling,Urophycis brasiliensis,44679
 2017,4,Teleósteos,Abrótea-de-fundo,Brazilian codling,NA,122996
@@ -1917,7 +1917,7 @@ year,month,taxa,species_portuguese,species_english,species_sci,production_kg
 2017,4,Teleósteos,Atum,Blow goat,Auxis rochei,31755.5
 2017,4,Teleósteos,Betara,Carolina Whiting,Menticirrhus spp.,6090
 2017,4,Teleósteos,Bonito-cachorro,Bonito,Auxis thazard,1873
-2017,4,Teleósteos,Bonito-listrado,Arctic bonito,Katsuwonus pelamis,393887.5
+2017,4,Teleósteos,Bonito-listrado,Skipjack tuna,Katsuwonus pelamis,393887.5
 2017,4,Teleósteos,Bonito-pintado,Atlantic black skipjack,Euthynnus alletteratus,219
 2017,4,Teleósteos,Cabra,East Atlantic Red Gurnard,Prionotus spp.,124650
 2017,4,Teleósteos,Carapau,Jack mackerel,Trachurus lathami,39600
@@ -1926,7 +1926,7 @@ year,month,taxa,species_portuguese,species_english,species_sci,production_kg
 2017,4,Teleósteos,Cavalinha,American mackerel,Scomber japonicus,440
 2017,4,Teleósteos,Congro-rosa,Australian Rockling,Genypterus brasiliensis,9450
 2017,4,Teleósteos,Corcoroca,Grey Grunt,Haemulon spp.,540
-2017,4,Teleósteos,Corvina,Bashaw,Micropogonias furnieri,752537
+2017,4,Teleósteos,Corvina,Croaker,Micropogonias furnieri,752537
 2017,4,Teleósteos,Dourado,Common dolphifish,Coryphaena hippurus,27462
 2017,4,Teleósteos,Espada,Broadbill,Xiphias gladius,2119
 2017,4,Teleósteos,Goete,Jamaica weakfish,Cynoscion jamaicensis,10828
@@ -1968,7 +1968,7 @@ year,month,taxa,species_portuguese,species_english,species_sci,production_kg
 2017,5,Elasmobrânquios,Emplastro,Emplastro,NA,58179
 2017,5,Moluscos,Lula,Squid,Loligo sanpaulensis,900
 2017,5,Moluscos,Polvo,Octopus,Octopus spp.,423
-2017,5,Não Cadastrado,Mistura,Mistura,NA,127917
+2017,5,Não Cadastrado,Mistura,Other fish,NA,127917
 2017,5,Não Cadastrado,Residuo,Residuo,NA,1777
 2017,5,Teleósteos,Abrótea,Brazilian codling,Urophycis brasiliensis,86458
 2017,5,Teleósteos,Abrótea-de-fundo,Brazilian codling,NA,135997
@@ -1978,7 +1978,7 @@ year,month,taxa,species_portuguese,species_english,species_sci,production_kg
 2017,5,Teleósteos,Atum,Blow goat,Auxis rochei,18660
 2017,5,Teleósteos,Betara,Carolina Whiting,Menticirrhus spp.,9800
 2017,5,Teleósteos,Bonito-cachorro,Bonito,Auxis thazard,4222
-2017,5,Teleósteos,Bonito-listrado,Arctic bonito,Katsuwonus pelamis,397591
+2017,5,Teleósteos,Bonito-listrado,Skipjack tuna,Katsuwonus pelamis,397591
 2017,5,Teleósteos,Cabra,East Atlantic Red Gurnard,Prionotus spp.,217905
 2017,5,Teleósteos,Carapau,Jack mackerel,Trachurus lathami,7068
 2017,5,Teleósteos,Castanha,Argentine croaker,Umbrina canosai,211648
@@ -1987,7 +1987,7 @@ year,month,taxa,species_portuguese,species_english,species_sci,production_kg
 2017,5,Teleósteos,Congro,Argentine Conger,Conger spp.,40
 2017,5,Teleósteos,Congro-rosa,Australian Rockling,Genypterus brasiliensis,22938
 2017,5,Teleósteos,Corcoroca,Grey Grunt,Haemulon spp.,3520
-2017,5,Teleósteos,Corvina,Bashaw,Micropogonias furnieri,1128695
+2017,5,Teleósteos,Corvina,Croaker,Micropogonias furnieri,1128695
 2017,5,Teleósteos,Dourado,Common dolphifish,Coryphaena hippurus,212105
 2017,5,Teleósteos,Enchova,Ancho,Pomatomus saltatrix,1430
 2017,5,Teleósteos,Enguia,Common Eel,Conger orbignyanus,126
@@ -2039,7 +2039,7 @@ year,month,taxa,species_portuguese,species_english,species_sci,production_kg
 2017,6,Elasmobrânquios,Emplastro,Emplastro,NA,54454
 2017,6,Moluscos,Lula,Squid,Loligo sanpaulensis,1577
 2017,6,Moluscos,Polvo,Octopus,Octopus spp.,1542
-2017,6,Não Cadastrado,Mistura,Mistura,NA,297935
+2017,6,Não Cadastrado,Mistura,Other fish,NA,297935
 2017,6,Não Cadastrado,Residuo,Residuo,NA,100
 2017,6,Teleósteos,Abrótea,Brazilian codling,Urophycis brasiliensis,79882
 2017,6,Teleósteos,Abrótea-de-fundo,Brazilian codling,NA,150540
@@ -2050,7 +2050,7 @@ year,month,taxa,species_portuguese,species_english,species_sci,production_kg
 2017,6,Teleósteos,Baiacú,trunkfish,NA,130
 2017,6,Teleósteos,Betara,Carolina Whiting,Menticirrhus spp.,8429
 2017,6,Teleósteos,Bonito-cachorro,Bonito,Auxis thazard,8003
-2017,6,Teleósteos,Bonito-listrado,Arctic bonito,Katsuwonus pelamis,207787
+2017,6,Teleósteos,Bonito-listrado,Skipjack tuna,Katsuwonus pelamis,207787
 2017,6,Teleósteos,Bonito-pintado,Atlantic black skipjack,Euthynnus alletteratus,9000
 2017,6,Teleósteos,Cabra,East Atlantic Red Gurnard,Prionotus spp.,346220
 2017,6,Teleósteos,Carapau,Jack mackerel,Trachurus lathami,260
@@ -2058,7 +2058,7 @@ year,month,taxa,species_portuguese,species_english,species_sci,production_kg
 2017,6,Teleósteos,Cavalinha,American mackerel,Scomber japonicus,119515
 2017,6,Teleósteos,Congro-rosa,Australian Rockling,Genypterus brasiliensis,16737
 2017,6,Teleósteos,Corcoroca,Grey Grunt,Haemulon spp.,1470
-2017,6,Teleósteos,Corvina,Bashaw,Micropogonias furnieri,173440
+2017,6,Teleósteos,Corvina,Croaker,Micropogonias furnieri,173440
 2017,6,Teleósteos,Dourado,Common dolphifish,Coryphaena hippurus,198616
 2017,6,Teleósteos,Enchova,Ancho,Pomatomus saltatrix,510
 2017,6,Teleósteos,Enguia,Common Eel,Conger orbignyanus,210
@@ -2109,7 +2109,7 @@ year,month,taxa,species_portuguese,species_english,species_sci,production_kg
 2017,7,Elasmobrânquios,Emplastro,Emplastro,NA,35584
 2017,7,Moluscos,Lula,Squid,Loligo sanpaulensis,3580
 2017,7,Moluscos,Polvo,Octopus,Octopus spp.,1007
-2017,7,Não Cadastrado,Mistura,Mistura,NA,248764
+2017,7,Não Cadastrado,Mistura,Other fish,NA,248764
 2017,7,Não Cadastrado,Residuo,Residuo,NA,1580
 2017,7,Teleósteos,Abrótea,Brazilian codling,Urophycis brasiliensis,138177
 2017,7,Teleósteos,Abrótea-de-fundo,Brazilian codling,NA,163300
@@ -2123,7 +2123,7 @@ year,month,taxa,species_portuguese,species_english,species_sci,production_kg
 2017,7,Teleósteos,Batata,Atlantic goldeneye tilefish,Caulolatilus chrysops,6600
 2017,7,Teleósteos,Betara,Carolina Whiting,Menticirrhus spp.,11492
 2017,7,Teleósteos,Bonito-cachorro,Bonito,Auxis thazard,694
-2017,7,Teleósteos,Bonito-listrado,Arctic bonito,Katsuwonus pelamis,218029
+2017,7,Teleósteos,Bonito-listrado,Skipjack tuna,Katsuwonus pelamis,218029
 2017,7,Teleósteos,Borriquete,Borriquete,NA,40
 2017,7,Teleósteos,Cabra,East Atlantic Red Gurnard,Prionotus spp.,292777
 2017,7,Teleósteos,Carapau,Jack mackerel,Trachurus lathami,56500
@@ -2132,7 +2132,7 @@ year,month,taxa,species_portuguese,species_english,species_sci,production_kg
 2017,7,Teleósteos,Cherne-verdadeiro,Cherne-verdadeiro,NA,2000
 2017,7,Teleósteos,Congro-rosa,Australian Rockling,Genypterus brasiliensis,13870
 2017,7,Teleósteos,Corcoroca,Grey Grunt,Haemulon spp.,2227
-2017,7,Teleósteos,Corvina,Bashaw,Micropogonias furnieri,1273736
+2017,7,Teleósteos,Corvina,Croaker,Micropogonias furnieri,1273736
 2017,7,Teleósteos,Dourado,Common dolphifish,Coryphaena hippurus,57506
 2017,7,Teleósteos,Enchova,Ancho,Pomatomus saltatrix,1523
 2017,7,Teleósteos,Enguia,Common Eel,Conger orbignyanus,38
@@ -2188,7 +2188,7 @@ year,month,taxa,species_portuguese,species_english,species_sci,production_kg
 2017,8,Moluscos,Lula,Squid,Loligo sanpaulensis,3322
 2017,8,Moluscos,Polvo,Octopus,Octopus spp.,173
 2017,8,Moluscos,Vieira,Great Atlantic scallop,Euvola ziczac,40
-2017,8,Não Cadastrado,Mistura,Mistura,NA,94457
+2017,8,Não Cadastrado,Mistura,Other fish,NA,94457
 2017,8,Não Cadastrado,Residuo,Residuo,NA,3340
 2017,8,Teleósteos,Abrótea,Brazilian codling,Urophycis brasiliensis,164195
 2017,8,Teleósteos,Abrótea-de-fundo,Brazilian codling,NA,33030
@@ -2200,7 +2200,7 @@ year,month,taxa,species_portuguese,species_english,species_sci,production_kg
 2017,8,Teleósteos,Bagre,Couma sea catfish,Sciades couma,100
 2017,8,Teleósteos,Batata,Atlantic goldeneye tilefish,Caulolatilus chrysops,14007
 2017,8,Teleósteos,Betara,Carolina Whiting,Menticirrhus spp.,7353
-2017,8,Teleósteos,Bonito-listrado,Arctic bonito,Katsuwonus pelamis,95525
+2017,8,Teleósteos,Bonito-listrado,Skipjack tuna,Katsuwonus pelamis,95525
 2017,8,Teleósteos,Cabra,East Atlantic Red Gurnard,Prionotus spp.,255235
 2017,8,Teleósteos,Carapau,Jack mackerel,Trachurus lathami,1060
 2017,8,Teleósteos,Castanha,Argentine croaker,Umbrina canosai,233873
@@ -2209,7 +2209,7 @@ year,month,taxa,species_portuguese,species_english,species_sci,production_kg
 2017,8,Teleósteos,Cioba,Dog Snapper,Lutjanus analis,56
 2017,8,Teleósteos,Congro-rosa,Australian Rockling,Genypterus brasiliensis,850
 2017,8,Teleósteos,Corcoroca,Grey Grunt,Haemulon spp.,3834
-2017,8,Teleósteos,Corvina,Bashaw,Micropogonias furnieri,1433346
+2017,8,Teleósteos,Corvina,Croaker,Micropogonias furnieri,1433346
 2017,8,Teleósteos,Dourado,Common dolphifish,Coryphaena hippurus,528
 2017,8,Teleósteos,Enchova,Ancho,Pomatomus saltatrix,1284
 2017,8,Teleósteos,Enguia,Common Eel,Conger orbignyanus,235
@@ -2266,7 +2266,7 @@ year,month,taxa,species_portuguese,species_english,species_sci,production_kg
 2017,9,Elasmobrânquios,Raia,Ray,NA,1080
 2017,9,Moluscos,Lula,Squid,Loligo sanpaulensis,8812
 2017,9,Moluscos,Polvo,Octopus,Octopus spp.,436
-2017,9,Não Cadastrado,Mistura,Mistura,NA,221497
+2017,9,Não Cadastrado,Mistura,Other fish,NA,221497
 2017,9,Não Cadastrado,Residuo,Residuo,NA,2840
 2017,9,Teleósteos,Abrótea,Brazilian codling,Urophycis brasiliensis,146402
 2017,9,Teleósteos,Abrótea-de-fundo,Brazilian codling,NA,119800
@@ -2279,7 +2279,7 @@ year,month,taxa,species_portuguese,species_english,species_sci,production_kg
 2017,9,Teleósteos,Bagre,Couma sea catfish,Sciades couma,3000
 2017,9,Teleósteos,Batata,Atlantic goldeneye tilefish,Caulolatilus chrysops,11100
 2017,9,Teleósteos,Betara,Carolina Whiting,Menticirrhus spp.,4267
-2017,9,Teleósteos,Bonito-listrado,Arctic bonito,Katsuwonus pelamis,21705
+2017,9,Teleósteos,Bonito-listrado,Skipjack tuna,Katsuwonus pelamis,21705
 2017,9,Teleósteos,Cabra,East Atlantic Red Gurnard,Prionotus spp.,99265
 2017,9,Teleósteos,Carapau,Jack mackerel,Trachurus lathami,54070
 2017,9,Teleósteos,Carapeba,Broad shad,Diapterus auratus,70
@@ -2290,7 +2290,7 @@ year,month,taxa,species_portuguese,species_english,species_sci,production_kg
 2017,9,Teleósteos,Cherne-verdadeiro,Cherne-verdadeiro,NA,300
 2017,9,Teleósteos,Congro-rosa,Australian Rockling,Genypterus brasiliensis,5600
 2017,9,Teleósteos,Corcoroca,Grey Grunt,Haemulon spp.,2074
-2017,9,Teleósteos,Corvina,Bashaw,Micropogonias furnieri,821715
+2017,9,Teleósteos,Corvina,Croaker,Micropogonias furnieri,821715
 2017,9,Teleósteos,Dourado,Common dolphifish,Coryphaena hippurus,1514
 2017,9,Teleósteos,Enchova,Ancho,Pomatomus saltatrix,16485
 2017,9,Teleósteos,Enguia,Common Eel,Conger orbignyanus,46
@@ -2348,7 +2348,7 @@ year,month,taxa,species_portuguese,species_english,species_sci,production_kg
 2017,10,Elasmobrânquios,Raposa,Raposa,NA,1350
 2017,10,Moluscos,Lula,Squid,Loligo sanpaulensis,5300
 2017,10,Moluscos,Polvo,Octopus,Octopus spp.,345
-2017,10,Não Cadastrado,Mistura,Mistura,NA,190699
+2017,10,Não Cadastrado,Mistura,Other fish,NA,190699
 2017,10,Não Cadastrado,Residuo,Residuo,NA,700
 2017,10,Teleósteos,Abrótea,Brazilian codling,Urophycis brasiliensis,125457
 2017,10,Teleósteos,Abrótea-de-fundo,Brazilian codling,NA,30800
@@ -2363,7 +2363,7 @@ year,month,taxa,species_portuguese,species_english,species_sci,production_kg
 2017,10,Teleósteos,Batata,Atlantic goldeneye tilefish,Caulolatilus chrysops,9000
 2017,10,Teleósteos,Betara,Carolina Whiting,Menticirrhus spp.,6448
 2017,10,Teleósteos,Bonito-cachorro,Bonito,Auxis thazard,14840
-2017,10,Teleósteos,Bonito-listrado,Arctic bonito,Katsuwonus pelamis,95397
+2017,10,Teleósteos,Bonito-listrado,Skipjack tuna,Katsuwonus pelamis,95397
 2017,10,Teleósteos,Cabra,East Atlantic Red Gurnard,Prionotus spp.,62741
 2017,10,Teleósteos,Carapau,Jack mackerel,Trachurus lathami,22180
 2017,10,Teleósteos,Carapeba,Broad shad,Diapterus auratus,376
@@ -2373,7 +2373,7 @@ year,month,taxa,species_portuguese,species_english,species_sci,production_kg
 2017,10,Teleósteos,Cherne-verdadeiro,Cherne-verdadeiro,NA,650
 2017,10,Teleósteos,Congro-rosa,Australian Rockling,Genypterus brasiliensis,100
 2017,10,Teleósteos,Corcoroca,Grey Grunt,Haemulon spp.,851
-2017,10,Teleósteos,Corvina,Bashaw,Micropogonias furnieri,1511409
+2017,10,Teleósteos,Corvina,Croaker,Micropogonias furnieri,1511409
 2017,10,Teleósteos,Dourado,Common dolphifish,Coryphaena hippurus,2747
 2017,10,Teleósteos,Enchova,Ancho,Pomatomus saltatrix,5460
 2017,10,Teleósteos,Espada,Broadbill,Xiphias gladius,17008
@@ -2433,7 +2433,7 @@ year,month,taxa,species_portuguese,species_english,species_sci,production_kg
 2017,11,Elasmobrânquios,Raposa,Raposa,NA,60
 2017,11,Moluscos,Lula,Squid,Loligo sanpaulensis,10266
 2017,11,Moluscos,Polvo,Octopus,Octopus spp.,142
-2017,11,Não Cadastrado,Mistura,Mistura,NA,235800
+2017,11,Não Cadastrado,Mistura,Other fish,NA,235800
 2017,11,Teleósteos,Abrótea,Brazilian codling,Urophycis brasiliensis,77776
 2017,11,Teleósteos,Abrótea-de-fundo,Brazilian codling,NA,99000
 2017,11,Teleósteos,Agulhão-branco,Agulhão-branco,Tetrapturus albidus,260
@@ -2445,7 +2445,7 @@ year,month,taxa,species_portuguese,species_english,species_sci,production_kg
 2017,11,Teleósteos,Batata,Atlantic goldeneye tilefish,Caulolatilus chrysops,6100
 2017,11,Teleósteos,Betara,Carolina Whiting,Menticirrhus spp.,7130
 2017,11,Teleósteos,Bonito-cachorro,Bonito,Auxis thazard,2440
-2017,11,Teleósteos,Bonito-listrado,Arctic bonito,Katsuwonus pelamis,247937
+2017,11,Teleósteos,Bonito-listrado,Skipjack tuna,Katsuwonus pelamis,247937
 2017,11,Teleósteos,Cabra,East Atlantic Red Gurnard,Prionotus spp.,325220
 2017,11,Teleósteos,Carapau,Jack mackerel,Trachurus lathami,1000
 2017,11,Teleósteos,Carapeba,Broad shad,Diapterus auratus,180
@@ -2455,7 +2455,7 @@ year,month,taxa,species_portuguese,species_english,species_sci,production_kg
 2017,11,Teleósteos,Congro,Argentine Conger,Conger spp.,500
 2017,11,Teleósteos,Congro-rosa,Australian Rockling,Genypterus brasiliensis,1000
 2017,11,Teleósteos,Corcoroca,Grey Grunt,Haemulon spp.,3561
-2017,11,Teleósteos,Corvina,Bashaw,Micropogonias furnieri,727490
+2017,11,Teleósteos,Corvina,Croaker,Micropogonias furnieri,727490
 2017,11,Teleósteos,Dourado,Common dolphifish,Coryphaena hippurus,14830
 2017,11,Teleósteos,Enchova,Ancho,Pomatomus saltatrix,13526
 2017,11,Teleósteos,Espada,Broadbill,Xiphias gladius,7185
@@ -2508,7 +2508,7 @@ year,month,taxa,species_portuguese,species_english,species_sci,production_kg
 2017,12,Elasmobrânquios,Raposa,Raposa,NA,157
 2017,12,Moluscos,Lula,Squid,Loligo sanpaulensis,41230
 2017,12,Moluscos,Polvo,Octopus,Octopus spp.,860
-2017,12,Não Cadastrado,Mistura,Mistura,NA,199502
+2017,12,Não Cadastrado,Mistura,Other fish,NA,199502
 2017,12,Teleósteos,Abrótea,Brazilian codling,Urophycis brasiliensis,112124
 2017,12,Teleósteos,Abrótea-de-fundo,Brazilian codling,NA,77000
 2017,12,Teleósteos,Agulhão-azul,Agulhão-azul,NA,56
@@ -2521,7 +2521,7 @@ year,month,taxa,species_portuguese,species_english,species_sci,production_kg
 2017,12,Teleósteos,Bagre,Couma sea catfish,Sciades couma,991
 2017,12,Teleósteos,Betara,Carolina Whiting,Menticirrhus spp.,12951
 2017,12,Teleósteos,Bonito-cachorro,Bonito,Auxis thazard,4335
-2017,12,Teleósteos,Bonito-listrado,Arctic bonito,Katsuwonus pelamis,949403
+2017,12,Teleósteos,Bonito-listrado,Skipjack tuna,Katsuwonus pelamis,949403
 2017,12,Teleósteos,Cabra,East Atlantic Red Gurnard,Prionotus spp.,223404
 2017,12,Teleósteos,Carapeba,Broad shad,Diapterus auratus,1127
 2017,12,Teleósteos,Castanha,Argentine croaker,Umbrina canosai,178607
@@ -2530,7 +2530,7 @@ year,month,taxa,species_portuguese,species_english,species_sci,production_kg
 2017,12,Teleósteos,Congro,Argentine Conger,Conger spp.,2500
 2017,12,Teleósteos,Congro-rosa,Australian Rockling,Genypterus brasiliensis,1200
 2017,12,Teleósteos,Corcoroca,Grey Grunt,Haemulon spp.,2762
-2017,12,Teleósteos,Corvina,Bashaw,Micropogonias furnieri,917245
+2017,12,Teleósteos,Corvina,Croaker,Micropogonias furnieri,917245
 2017,12,Teleósteos,Dourado,Common dolphifish,Coryphaena hippurus,27153.8
 2017,12,Teleósteos,Enchova,Ancho,Pomatomus saltatrix,46188
 2017,12,Teleósteos,Enguia,Common Eel,Conger orbignyanus,10
@@ -2586,7 +2586,7 @@ year,month,taxa,species_portuguese,species_english,species_sci,production_kg
 2018,1,Elasmobrânquios,Raia,Ray,NA,1000
 2018,1,Moluscos,Lula,Squid,Loligo sanpaulensis,20500
 2018,1,Moluscos,Polvo,Octopus,Octopus spp.,244
-2018,1,Não Cadastrado,Mistura,Mistura,NA,113238
+2018,1,Não Cadastrado,Mistura,Other fish,NA,113238
 2018,1,Teleósteos,Abrótea,Brazilian codling,Urophycis brasiliensis,79267
 2018,1,Teleósteos,Abrótea-de-fundo,Brazilian codling,NA,124000
 2018,1,Teleósteos,Agulhão,Atlantic saury,Scomberesox saurus,62
@@ -2599,7 +2599,7 @@ year,month,taxa,species_portuguese,species_english,species_sci,production_kg
 2018,1,Teleósteos,Batata,Atlantic goldeneye tilefish,Caulolatilus chrysops,8160
 2018,1,Teleósteos,Betara,Carolina Whiting,Menticirrhus spp.,3035
 2018,1,Teleósteos,Bonito-cachorro,Bonito,Auxis thazard,947
-2018,1,Teleósteos,Bonito-listrado,Arctic bonito,Katsuwonus pelamis,933190.5
+2018,1,Teleósteos,Bonito-listrado,Skipjack tuna,Katsuwonus pelamis,933190.5
 2018,1,Teleósteos,Cabra,East Atlantic Red Gurnard,Prionotus spp.,159821
 2018,1,Teleósteos,Carapeba,Broad shad,Diapterus auratus,1000
 2018,1,Teleósteos,Castanha,Argentine croaker,Umbrina canosai,63046
@@ -2609,7 +2609,7 @@ year,month,taxa,species_portuguese,species_english,species_sci,production_kg
 2018,1,Teleósteos,Congro,Argentine Conger,Conger spp.,736
 2018,1,Teleósteos,Congro-rosa,Australian Rockling,Genypterus brasiliensis,8693
 2018,1,Teleósteos,Corcoroca,Grey Grunt,Haemulon spp.,849
-2018,1,Teleósteos,Corvina,Bashaw,Micropogonias furnieri,223556
+2018,1,Teleósteos,Corvina,Croaker,Micropogonias furnieri,223556
 2018,1,Teleósteos,Dourado,Common dolphifish,Coryphaena hippurus,27224
 2018,1,Teleósteos,Enchova,Ancho,Pomatomus saltatrix,112
 2018,1,Teleósteos,Enguia,Common Eel,Conger orbignyanus,15
@@ -2660,7 +2660,7 @@ year,month,taxa,species_portuguese,species_english,species_sci,production_kg
 2018,2,Elasmobrânquios,Raia,Ray,NA,3775
 2018,2,Moluscos,Lula,Squid,Loligo sanpaulensis,25599
 2018,2,Moluscos,Polvo,Octopus,Octopus spp.,1129
-2018,2,Não Cadastrado,Mistura,Mistura,NA,334277.97
+2018,2,Não Cadastrado,Mistura,Other fish,NA,334277.97
 2018,2,Não Cadastrado,Residuo,Residuo,NA,22977.96
 2018,2,Teleósteos,Abrótea,Brazilian codling,Urophycis brasiliensis,107945
 2018,2,Teleósteos,Abrótea-de-fundo,Brazilian codling,NA,95590
@@ -2674,7 +2674,7 @@ year,month,taxa,species_portuguese,species_english,species_sci,production_kg
 2018,2,Teleósteos,Betara,Carolina Whiting,Menticirrhus spp.,4263
 2018,2,Teleósteos,Bonito,skipjack tuna,Auxis rochei,40
 2018,2,Teleósteos,Bonito-cachorro,Bonito,Auxis thazard,610
-2018,2,Teleósteos,Bonito-listrado,Arctic bonito,Katsuwonus pelamis,1018463
+2018,2,Teleósteos,Bonito-listrado,Skipjack tuna,Katsuwonus pelamis,1018463
 2018,2,Teleósteos,Bonito-pintado,Atlantic black skipjack,Euthynnus alletteratus,129
 2018,2,Teleósteos,Cabra,East Atlantic Red Gurnard,Prionotus spp.,224428
 2018,2,Teleósteos,Carapau,Jack mackerel,Trachurus lathami,15000
@@ -2684,7 +2684,7 @@ year,month,taxa,species_portuguese,species_english,species_sci,production_kg
 2018,2,Teleósteos,Cherne-verdadeiro,Cherne-verdadeiro,NA,774
 2018,2,Teleósteos,Congro,Argentine Conger,Conger spp.,915
 2018,2,Teleósteos,Congro-rosa,Australian Rockling,Genypterus brasiliensis,25593
-2018,2,Teleósteos,Corvina,Bashaw,Micropogonias furnieri,1138805
+2018,2,Teleósteos,Corvina,Croaker,Micropogonias furnieri,1138805
 2018,2,Teleósteos,Dourado,Common dolphifish,Coryphaena hippurus,53
 2018,2,Teleósteos,Enchova,Ancho,Pomatomus saltatrix,75
 2018,2,Teleósteos,Enguia,Common Eel,Conger orbignyanus,80
@@ -2742,7 +2742,7 @@ year,month,taxa,species_portuguese,species_english,species_sci,production_kg
 2018,3,Elasmobrânquios,Raposa,Raposa,NA,30
 2018,3,Moluscos,Lula,Squid,Loligo sanpaulensis,2080
 2018,3,Moluscos,Polvo,Octopus,Octopus spp.,338
-2018,3,Não Cadastrado,Mistura,Mistura,NA,235012.55
+2018,3,Não Cadastrado,Mistura,Other fish,NA,235012.55
 2018,3,Não Cadastrado,Residuo,Residuo,NA,1057.76
 2018,3,Teleósteos,Abrótea,Brazilian codling,Urophycis brasiliensis,101113
 2018,3,Teleósteos,Abrótea-de-fundo,Brazilian codling,NA,104474
@@ -2755,7 +2755,7 @@ year,month,taxa,species_portuguese,species_english,species_sci,production_kg
 2018,3,Teleósteos,Batata,Atlantic goldeneye tilefish,Caulolatilus chrysops,15353
 2018,3,Teleósteos,Betara,Carolina Whiting,Menticirrhus spp.,4334
 2018,3,Teleósteos,Bonito-cachorro,Bonito,Auxis thazard,2722
-2018,3,Teleósteos,Bonito-listrado,Arctic bonito,Katsuwonus pelamis,1071637
+2018,3,Teleósteos,Bonito-listrado,Skipjack tuna,Katsuwonus pelamis,1071637
 2018,3,Teleósteos,Cabra,East Atlantic Red Gurnard,Prionotus spp.,351420
 2018,3,Teleósteos,Caranha,Dog Snapper,Lutjanus spp.,3500
 2018,3,Teleósteos,Carapau,Jack mackerel,Trachurus lathami,1000
@@ -2767,7 +2767,7 @@ year,month,taxa,species_portuguese,species_english,species_sci,production_kg
 2018,3,Teleósteos,Congro,Argentine Conger,Conger spp.,1146
 2018,3,Teleósteos,Congro-rosa,Australian Rockling,Genypterus brasiliensis,6867
 2018,3,Teleósteos,Corcoroca,Grey Grunt,Haemulon spp.,100
-2018,3,Teleósteos,Corvina,Bashaw,Micropogonias furnieri,889937
+2018,3,Teleósteos,Corvina,Croaker,Micropogonias furnieri,889937
 2018,3,Teleósteos,Dourado,Common dolphifish,Coryphaena hippurus,2736
 2018,3,Teleósteos,Enchova,Ancho,Pomatomus saltatrix,98
 2018,3,Teleósteos,Enguia,Common Eel,Conger orbignyanus,194
@@ -2824,7 +2824,7 @@ year,month,taxa,species_portuguese,species_english,species_sci,production_kg
 2018,4,Elasmobrânquios,Raia,Ray,NA,88
 2018,4,Moluscos,Lula,Squid,Loligo sanpaulensis,1800
 2018,4,Moluscos,Polvo,Octopus,Octopus spp.,958
-2018,4,Não Cadastrado,Mistura,Mistura,NA,267897.1
+2018,4,Não Cadastrado,Mistura,Other fish,NA,267897.1
 2018,4,Teleósteos,Abrótea,Brazilian codling,Urophycis brasiliensis,126816
 2018,4,Teleósteos,Abrótea-de-fundo,Brazilian codling,NA,140120
 2018,4,Teleósteos,Agulhão-branco,Agulhão-branco,Tetrapturus albidus,185
@@ -2836,7 +2836,7 @@ year,month,taxa,species_portuguese,species_english,species_sci,production_kg
 2018,4,Teleósteos,Batata,Atlantic goldeneye tilefish,Caulolatilus chrysops,13476
 2018,4,Teleósteos,Betara,Carolina Whiting,Menticirrhus spp.,11159
 2018,4,Teleósteos,Bonito-cachorro,Bonito,Auxis thazard,1806
-2018,4,Teleósteos,Bonito-listrado,Arctic bonito,Katsuwonus pelamis,767323.5
+2018,4,Teleósteos,Bonito-listrado,Skipjack tuna,Katsuwonus pelamis,767323.5
 2018,4,Teleósteos,Cabra,East Atlantic Red Gurnard,Prionotus spp.,313682
 2018,4,Teleósteos,Cangoá,Cangoá,NA,59
 2018,4,Teleósteos,Carapau,Jack mackerel,Trachurus lathami,24640
@@ -2847,7 +2847,7 @@ year,month,taxa,species_portuguese,species_english,species_sci,production_kg
 2018,4,Teleósteos,Congro,Argentine Conger,Conger spp.,623
 2018,4,Teleósteos,Congro-rosa,Australian Rockling,Genypterus brasiliensis,13450
 2018,4,Teleósteos,Corcoroca,Grey Grunt,Haemulon spp.,1400
-2018,4,Teleósteos,Corvina,Bashaw,Micropogonias furnieri,568025
+2018,4,Teleósteos,Corvina,Croaker,Micropogonias furnieri,568025
 2018,4,Teleósteos,Dourado,Common dolphifish,Coryphaena hippurus,6500
 2018,4,Teleósteos,Enchova,Ancho,Pomatomus saltatrix,125
 2018,4,Teleósteos,Enguia,Common Eel,Conger orbignyanus,156
@@ -2898,7 +2898,7 @@ year,month,taxa,species_portuguese,species_english,species_sci,production_kg
 2018,5,Elasmobrânquios,Raia,Ray,NA,277
 2018,5,Moluscos,Lula,Squid,Loligo sanpaulensis,2200
 2018,5,Moluscos,Polvo,Octopus,Octopus spp.,722
-2018,5,Não Cadastrado,Mistura,Mistura,NA,92488.07
+2018,5,Não Cadastrado,Mistura,Other fish,NA,92488.07
 2018,5,Não Cadastrado,Residuo,Residuo,NA,1481.23
 2018,5,Teleósteos,Abrótea,Brazilian codling,Urophycis brasiliensis,102615
 2018,5,Teleósteos,Abrótea-de-fundo,Brazilian codling,NA,157640
@@ -2911,7 +2911,7 @@ year,month,taxa,species_portuguese,species_english,species_sci,production_kg
 2018,5,Teleósteos,Batata,Atlantic goldeneye tilefish,Caulolatilus chrysops,2480
 2018,5,Teleósteos,Betara,Carolina Whiting,Menticirrhus spp.,6517
 2018,5,Teleósteos,Bonito-cachorro,Bonito,Auxis thazard,1252
-2018,5,Teleósteos,Bonito-listrado,Arctic bonito,Katsuwonus pelamis,940972
+2018,5,Teleósteos,Bonito-listrado,Skipjack tuna,Katsuwonus pelamis,940972
 2018,5,Teleósteos,Bonito-pintado,Atlantic black skipjack,Euthynnus alletteratus,20000
 2018,5,Teleósteos,Cabra,East Atlantic Red Gurnard,Prionotus spp.,277713
 2018,5,Teleósteos,Castanha,Argentine croaker,Umbrina canosai,297249
@@ -2922,7 +2922,7 @@ year,month,taxa,species_portuguese,species_english,species_sci,production_kg
 2018,5,Teleósteos,Congro,Argentine Conger,Conger spp.,1545
 2018,5,Teleósteos,Congro-rosa,Australian Rockling,Genypterus brasiliensis,24550
 2018,5,Teleósteos,Corcoroca,Grey Grunt,Haemulon spp.,286
-2018,5,Teleósteos,Corvina,Bashaw,Micropogonias furnieri,532440
+2018,5,Teleósteos,Corvina,Croaker,Micropogonias furnieri,532440
 2018,5,Teleósteos,Dourado,Common dolphifish,Coryphaena hippurus,1107
 2018,5,Teleósteos,Enchova,Ancho,Pomatomus saltatrix,116
 2018,5,Teleósteos,Enguia,Common Eel,Conger orbignyanus,140
@@ -2977,7 +2977,7 @@ year,month,taxa,species_portuguese,species_english,species_sci,production_kg
 2018,6,Elasmobrânquios,Emplastro,Emplastro,NA,49340
 2018,6,Moluscos,Lula,Squid,Loligo sanpaulensis,2100
 2018,6,Moluscos,Polvo,Octopus,Octopus spp.,1510
-2018,6,Não Cadastrado,Mistura,Mistura,NA,62389
+2018,6,Não Cadastrado,Mistura,Other fish,NA,62389
 2018,6,Teleósteos,Abrótea,Brazilian codling,Urophycis brasiliensis,22695
 2018,6,Teleósteos,Abrótea-de-fundo,Brazilian codling,NA,85000
 2018,6,Teleósteos,Agulhão,Atlantic saury,Scomberesox saurus,73
@@ -2991,7 +2991,7 @@ year,month,taxa,species_portuguese,species_english,species_sci,production_kg
 2018,6,Teleósteos,Batata,Atlantic goldeneye tilefish,Caulolatilus chrysops,5100
 2018,6,Teleósteos,Betara,Carolina Whiting,Menticirrhus spp.,5635
 2018,6,Teleósteos,Bonito-cachorro,Bonito,Auxis thazard,8051.5
-2018,6,Teleósteos,Bonito-listrado,Arctic bonito,Katsuwonus pelamis,650936
+2018,6,Teleósteos,Bonito-listrado,Skipjack tuna,Katsuwonus pelamis,650936
 2018,6,Teleósteos,Bonito-pintado,Atlantic black skipjack,Euthynnus alletteratus,18
 2018,6,Teleósteos,Cabra,East Atlantic Red Gurnard,Prionotus spp.,238552
 2018,6,Teleósteos,Carapeba,Broad shad,Diapterus auratus,67
@@ -3003,7 +3003,7 @@ year,month,taxa,species_portuguese,species_english,species_sci,production_kg
 2018,6,Teleósteos,Congro,Argentine Conger,Conger spp.,3040
 2018,6,Teleósteos,Congro-rosa,Australian Rockling,Genypterus brasiliensis,6998
 2018,6,Teleósteos,Corcoroca,Grey Grunt,Haemulon spp.,766
-2018,6,Teleósteos,Corvina,Bashaw,Micropogonias furnieri,184938
+2018,6,Teleósteos,Corvina,Croaker,Micropogonias furnieri,184938
 2018,6,Teleósteos,Dourado,Common dolphifish,Coryphaena hippurus,7283
 2018,6,Teleósteos,Enchova,Ancho,Pomatomus saltatrix,663
 2018,6,Teleósteos,Enguia,Common Eel,Conger orbignyanus,700
@@ -3055,7 +3055,7 @@ year,month,taxa,species_portuguese,species_english,species_sci,production_kg
 2018,7,Elasmobrânquios,Raia,Ray,NA,6650
 2018,7,Moluscos,Lula,Squid,Loligo sanpaulensis,1880
 2018,7,Moluscos,Polvo,Octopus,Octopus spp.,2360
-2018,7,Não Cadastrado,Mistura,Mistura,NA,119700
+2018,7,Não Cadastrado,Mistura,Other fish,NA,119700
 2018,7,Teleósteos,Abrótea,Brazilian codling,Urophycis brasiliensis,71736
 2018,7,Teleósteos,Abrótea-de-fundo,Brazilian codling,NA,70360
 2018,7,Teleósteos,Agulhão-azul,Agulhão-azul,NA,1600
@@ -3068,7 +3068,7 @@ year,month,taxa,species_portuguese,species_english,species_sci,production_kg
 2018,7,Teleósteos,Batata,Atlantic goldeneye tilefish,Caulolatilus chrysops,2620
 2018,7,Teleósteos,Betara,Carolina Whiting,Menticirrhus spp.,14383
 2018,7,Teleósteos,Bonito-cachorro,Bonito,Auxis thazard,7749.5
-2018,7,Teleósteos,Bonito-listrado,Arctic bonito,Katsuwonus pelamis,291755.5
+2018,7,Teleósteos,Bonito-listrado,Skipjack tuna,Katsuwonus pelamis,291755.5
 2018,7,Teleósteos,Bonito-pintado,Atlantic black skipjack,Euthynnus alletteratus,1217
 2018,7,Teleósteos,Cabra,East Atlantic Red Gurnard,Prionotus spp.,300902
 2018,7,Teleósteos,Carapau,Jack mackerel,Trachurus lathami,700
@@ -3079,7 +3079,7 @@ year,month,taxa,species_portuguese,species_english,species_sci,production_kg
 2018,7,Teleósteos,Congro,Argentine Conger,Conger spp.,160
 2018,7,Teleósteos,Congro-rosa,Australian Rockling,Genypterus brasiliensis,2315
 2018,7,Teleósteos,Corcoroca,Grey Grunt,Haemulon spp.,2179
-2018,7,Teleósteos,Corvina,Bashaw,Micropogonias furnieri,1551810
+2018,7,Teleósteos,Corvina,Croaker,Micropogonias furnieri,1551810
 2018,7,Teleósteos,Dourado,Common dolphifish,Coryphaena hippurus,8849
 2018,7,Teleósteos,Enchova,Ancho,Pomatomus saltatrix,657
 2018,7,Teleósteos,Enguia,Common Eel,Conger orbignyanus,855
@@ -3126,7 +3126,7 @@ year,month,taxa,species_portuguese,species_english,species_sci,production_kg
 2018,8,Elasmobrânquios,Emplastro,Emplastro,NA,5250
 2018,8,Moluscos,Lula,Squid,Loligo sanpaulensis,270
 2018,8,Moluscos,Polvo,Octopus,Octopus spp.,1050
-2018,8,Não Cadastrado,Mistura,Mistura,NA,40462
+2018,8,Não Cadastrado,Mistura,Other fish,NA,40462
 2018,8,Teleósteos,Abrótea,Brazilian codling,Urophycis brasiliensis,35300
 2018,8,Teleósteos,Agulhão-branco,Agulhão-branco,Tetrapturus albidus,98
 2018,8,Teleósteos,Albacora-bandolim,Albacore,Thunnus obesus,3429
@@ -3135,7 +3135,7 @@ year,month,taxa,species_portuguese,species_english,species_sci,production_kg
 2018,8,Teleósteos,Atum,Blow goat,Auxis rochei,19000
 2018,8,Teleósteos,Batata,Atlantic goldeneye tilefish,Caulolatilus chrysops,8200
 2018,8,Teleósteos,Betara,Carolina Whiting,Menticirrhus spp.,3800
-2018,8,Teleósteos,Bonito-listrado,Arctic bonito,Katsuwonus pelamis,23559
+2018,8,Teleósteos,Bonito-listrado,Skipjack tuna,Katsuwonus pelamis,23559
 2018,8,Teleósteos,Cabra,East Atlantic Red Gurnard,Prionotus spp.,52310
 2018,8,Teleósteos,Cascudo,Atlantic searobin,Prionotus punctatus,2000
 2018,8,Teleósteos,Castanha,Argentine croaker,Umbrina canosai,73500
@@ -3143,7 +3143,7 @@ year,month,taxa,species_portuguese,species_english,species_sci,production_kg
 2018,8,Teleósteos,Cherne-galha-amarela,Grouper,Hyporthodus flavolimbatus,1200
 2018,8,Teleósteos,Cherne-verdadeiro,Cherne-verdadeiro,NA,700
 2018,8,Teleósteos,Congro-rosa,Australian Rockling,Genypterus brasiliensis,655
-2018,8,Teleósteos,Corvina,Bashaw,Micropogonias furnieri,528472
+2018,8,Teleósteos,Corvina,Croaker,Micropogonias furnieri,528472
 2018,8,Teleósteos,Dourado,Common dolphifish,Coryphaena hippurus,1250
 2018,8,Teleósteos,Enchova,Ancho,Pomatomus saltatrix,500
 2018,8,Teleósteos,Espada,Broadbill,Xiphias gladius,3200
