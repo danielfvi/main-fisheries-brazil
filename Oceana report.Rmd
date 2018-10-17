@@ -44,7 +44,7 @@ ggtheme_plot <- function() {
 
 ```
 
-# Introduction
+#1. Introduction
 
 Brazil has over 7 thousand kilometers of coastline and one of the largest river networks in the world, with only the Amazon River covering over 7 million kilometers square of water. Fisheries resources in Brazil are extremely important for income and food security of millions of people throughout the country. Despite enormous social and economic importance, many fish stock are over exploited and in risk of collapse. According to a study conducted by the Ministry of Environment, 80% of fish stocks are over exploited or fully exploited. This signals the urgency for sustainable management of fisheries in order to guarantee the livelihoods of fishers, improve food security in the country, and conserve marine biodiversity. 
 
@@ -58,24 +58,24 @@ The databases used were:
 
 3. MDIC - Import and Export data from the Ministry of Development, Industry and Foreign Trade. This database contains all seafood imported and exported in Brazil. 2014-2017.
 
-4. State fisheries landings - Fisheries landings data from three states of Brazil were there is continuous data collection and data are publicly available. These three states (Sao Paulo, Parana and Santa Catarina) are located in Southern Brazil and have a continuous data collection program sponsored by Petrobras in partnership with Universities. Petrobras is required to collect landings information for insurance purposes and has made some of its data publicly available for research projects. 2016-2017.
+4. State fisheries landings - Fisheries landings data from three states of Brazil were there is continuous data collection and data are publicly available. These three states (São Paulo, Parana and Santa Catarina) are located in Southern Brazil and have a continuous data collection program sponsored by Petrobras in partnership with Universities. Petrobras is required to collect landings information for insurance purposes and has made some of its data publicly available for research projects. 2016-2017.
 
 5. IBGE - Brazilian Institute of Geography and Statistics. This federal institute is responsible for surveying the country to provide basic information on all social aspects of Brazil. We gathered two pieces of information to inform our analysis: household food consumption and income by region of Brazil (last survey dates from 2009 and 2010). 
 
 6. Fishing Permits - Number of registered fishers in the country from the extinct Ministry of Fisheries and Aquaculture (MPA). 2003 - 2010.
 
 
-#1. Fisheries Context
+#2. Fisheries Context
 
 FAO and SAU data
 
-#2. Fisheries Employment and Income 
+#3. Fisheries Employment and Income 
 
 ## Top Fisheries by Employment
 
 As pointed out in the introduction, Brazil has no reliable data on the number of fishers in the country. To respond this question we put together several pieces of information from different sources to have an estimate of the importance of fisheries for employment in Brazil. 
 
-Data from IBGE (2013) estimates that Brazil had about 500 thousand fishers throughout the country, with 90% from the small-scale sector and 10% from the industrial sector (Campos and Chaves 2016). Data from the extinct Ministry of Fisheries and Aquacuture (MPA) suggests there are many more fishers in Brazil (Figure 1). According to these data, there were about 900 thousand registered fishers in 2010 throughout the country, with 95% of the registered fishers from the small-scale sector (MPA, 2013). There is a large discrepancy between these two sources, which reiterates the uncertainty around estimates of the number of fishers in the country. Nonetheless, these numbers highlight the huge importance of the fisheries sector to employment in Brazil. 
+Data from IBGE (2013) estimates that Brazil had about 500 thousand fishers throughout the country, with 90% from the small-scale sector and 10% from the industrial sector (Campos and Chaves 2016). Data from the extinct Ministry of Fisheries and Aquaculture (MPA) suggests there are many more fishers in Brazil (Figure 1). According to these data, there were about 900 thousand registered fishers in 2010 throughout the country, with 95% of the registered fishers from the small-scale sector (MPA, 2013). There is a large discrepancy between these two sources, which reiterates the uncertainty around estimates of the number of fishers in the country. Nonetheless, these numbers highlight the huge importance of the fisheries sector to employment in Brazil. 
 
 ```{r}
 ###Number of registered fishers
@@ -88,7 +88,7 @@ ggplot(rgp.data, aes(x = year, y = fishers)) +
 
 ```
 
-Employment along the supply chain varies according to the region, fisheries and species commercialized. In the artisanal sector, most of the catch is consumed regionally, or in nearby capitals. However, some valuable fish and seafood are also commercialized in the main capitals - São Paulo and Rio de Janeiro. Typically, there are three main supply chain configurations in artisanal fisheries. First, there are estuarine/mangrove species (mostly crabs, shrimp and bivalves) that are commercialized whole in local markets or processed to achieve larger markets. For example, processing of crab meat is an important activity for coastal communities, especially for fisher woman. To obtain one kilogram of crab meat, a full day's work is required, which involves extraction of the crab, cooking and manually removing the meat. This meat is then distributed through middleman to nearby cities and capitals. Second, most of the fish captured by the artisanal sector is consumed locally or regionally. In most cases, there is no record of the catch or commercialization of these fish, being sold in local markets and restaurants. Third, more valuable fish such as snappers, groupers, snook, weakfish and large shrimp are sold in capitals throughout the country. These fish are sold through middleman and larger seafood industries to large capitals, thus involving a larger number of people in the supply chain. Again, there is no reliable estimate on the total number of people employed in the supply chain ofartisanal fisheries. The MPA estimates that there are about two million people involved in these fisheries (MPA, 2013). 
+Employment along the supply chain varies according to the region, fisheries and species commercialized. In the artisanal sector, most of the catch is consumed regionally, or in nearby capitals. However, some valuable fish and seafood are also commercialized in the main capitals - São Paulo and Rio de Janeiro. Typically, there are three main supply chain configurations in artisanal fisheries. First, there are estuarine/mangrove species (mostly crabs, shrimp and bivalves) that are commercialized whole in local markets or processed to achieve larger markets. For example, processing of crab meat is an important activity for coastal communities, especially for fisher woman. To obtain one kilogram of crab meat, a full day's work is required, which involves extraction of the crab, cooking and manually removing the meat. This meat is then distributed through middleman to nearby cities and capitals. Second, most of the fish captured by the artisanal sector is consumed locally or regionally. In most cases, there is no record of the catch or commercialization of these fish, being sold in local markets and restaurants. Third, more valuable fish such as snappers, groupers, snook, weakfish and large shrimp are sold in capitals throughout the country. These fish are sold through middleman and larger seafood industries to large capitals, thus involving a larger number of people in the supply chain. Again, there is no reliable estimate on the total number of people employed in the supply chain of artisanal fisheries. The MPA estimates that there are about two million people involved in these fisheries (MPA, 2013). 
 
 Assuming that the number of fishers are between 500 thousand and 1 million, and that about 90% of them are from the small-scale sector, the most important fisheries for employment in the country are those from the artisanal sector. The artisanal sector is where we have the least amount of data on the production and species harvested. There is an estimate from the MPA that 50-70% of the catch from the entire country comes from the artisanal sector (MPA, 2013). Small-scale fisheries in Brazil target hundreds of species and there is no reliable information on the most important species for this sector. 
 
@@ -114,7 +114,7 @@ sc.prod = sc.data %>%
 
 ```
 
-In the industrial sector, the majority of the catch is processed by large companies to be distributed in supermarkets and restaurants all over the country. According to data published by the Seafood Industry Association (ABIPESCA), the seafood industry employs about 8 thousand direct employments and 30 thousand indirect employments. Data from the seafood companies (SIGSIF) indicates that the most important industrial fisheries are sardines, croacker, tuna and piramutaba catfish (Table 2). Thus, the indutrial sector employs relatively less people per ton of captured fish compared to the artisanal sector. 
+In the industrial sector, the majority of the catch is processed by large companies to be distributed in supermarkets and restaurants all over the country. According to data published by the Seafood Industry Association (ABIPESCA), the seafood industry employs about 8 thousand direct employments and 30 thousand indirect employments. Data from the seafood companies (SIGSIF) indicates that the most important industrial fisheries are sardines, croacker, tuna and piramutaba catfish (Table 2). Thus, the industrial sector employs relatively less people per ton of captured fish compared to the artisanal sector. 
 
 
 ```{r}
@@ -202,7 +202,7 @@ exports.value = mdic.data %>%
 ```
 
 
-#3.Domestic Fish Consumption
+#4. Domestic Fish Consumption
 
 Using data from FAO and quantity imported and exported, it is possible to estimate the amount of seafood that is consumed in Brazil per year. The estimated consumption of seafood in Brazil is: 760k tonnes from fisheries plus 750k tonnes from aquaculture plus 380k tonnes from imports minus 37k tonnes from exports. This sums to about 1.86 million tonnes of seafood consumed in Brazil. If we divide this number by the number of people (about 200 million) we estimate a consumption of about 9.3 kg/capita/year.
 
@@ -228,7 +228,7 @@ ggplot(mdic.year, aes(x=year,y=prod,fill=carac)) +
 
 ```
 
-Fish and seafood import data shows that the main imported species in 2017 was the sardine followed by salmon, catfish fillet (pagasius) and hake fillet (Table 6). There was a major increase in the import of sardine in the last two years, from 17 thousand tonnes imported in 2014 to 90 thousand tonnes in 2017. This increase is mainly result of the decline in sardine catches from the industrial fleet. According to information from research developed about this fishery, about 100 thousand tonnes of sardine was landed in 2014 folowed by a decline to about 20 thousand tonnes in 2017 (Pincinato and Asche 2018). According to the authors, this decline is mainly because of environmental variability in the south of Brazil and "El Niño" events that occurred during that period. Thus, Brazilian sardine and imports form a fully integrated market, which maintains a steady supply of sardines to canary industries year-round. 
+Fish and seafood import data shows that the main imported species in 2017 was the sardine followed by salmon, catfish fillet (pagasius) and hake fillet (Table 6). There was a major increase in the import of sardine in the last two years, from 17 thousand tonnes imported in 2014 to 90 thousand tonnes in 2017. This increase is mainly result of the decline in sardine catches from the industrial fleet. According to information from research developed about this fishery, about 100 thousand tonnes of sardine was landed in 2014 followed by a decline to about 20 thousand tonnes in 2017 (Pincinato and Asche 2018). According to the authors, this decline is mainly because of environmental variability in the south of Brazil and "El Niño" events that occurred during that period. Thus, Brazilian sardine and imports form a fully integrated market, which maintains a steady supply of sardines to canary industries year-round. 
 
 ```{r}
 mdic.data = read.csv("MDIC.csv")
@@ -247,7 +247,7 @@ imports.quant = mdic.data %>%
 
 ```
 
-Data from SEAGESP market suggests that the main species consumed in Brazil in 2017 was tilapia, followed by croaker, sardine, salmon, sharks and weakfishes (Table 7). From these species, tilapia and salmon are from aquaculture production and the remaining are from wild fisheries. Only in Sao Paulo market, 4.2k tonnes of tilapia was comercialized, with a total for all fish and seafood products of 42k tonnes in 2016 and 37k tonnes in 2017.
+Data from SEAGESP market suggests that the main species consumed in Brazil in 2017 was tilapia, followed by croaker, sardine, salmon, sharks and weakfishes (Table 7). From these species, tilapia and salmon are from aquaculture production and the remaining are from wild fisheries. Only in São Paulo market, 4.2k tonnes of tilapia was commercialized, with a total for all fish and seafood products of 42k tonnes in 2016 and 37k tonnes in 2017.
 
 
 ```{r}
@@ -269,7 +269,7 @@ ceagesp.prod = ceagesp.data %>%
 
 ```
 
-Data from SIGSIF shows that the main species processed in the country in 2017 was tilapia, followed by tambaqui (Colossoma macropomum), sardine, croaker, tambatinga (hybrid aquaculture species from the Amazon), catfish, salmon and tuna (Table 8). From the top 10 species processed in the country, 5 are from aquaculture production and 5 are from wild caught fisheries. A total of 360k tonnes of fish and seafood products were comercialized by 472 processing and distribution companies. This volume correspondes to about 20% of all estimated seafood consumed in the country (1.8b tonnes).
+Data from SIGSIF shows that the main species processed in the country in 2017 was tilapia, followed by tambaqui (Colossoma macropomum), sardine, croaker, tambatinga (hybrid aquaculture species from the Amazon), catfish, salmon and tuna (Table 8). From the top 10 species processed in the country, 5 are from aquaculture production and 5 are from wild caught fisheries. A total of 360k tonnes of fish and seafood products were commercialized by 472 processing and distribution companies. This volume corresponded to about 20% of all estimated seafood consumed in the country (1.8b tonnes).
 
 ```{r}
 data.sigsif = read.csv("SIGSIF.csv")
@@ -291,7 +291,7 @@ domestic.fisheries = data.sigsif %>%
 
 ```
 
-Consumption of fish and seafood produtcs in Brazil increases significantly during religious dates. Data from SEAGESP suggests that seafood consumption increases during Easter, when other types of meat are not consumed in respect of Christian tradition. For this reason, there is a significant peak in fish and seafood consumption during Easter week (Figure 3).
+Consumption of fish and seafood products in Brazil increases significantly during religious dates. Data from SEAGESP suggests that seafood consumption increases during Easter, when other types of meat are not consumed in respect of Christian tradition. For this reason, there is a significant peak in fish and seafood consumption during Easter week (Figure 3).
 
 ```{r}
 
@@ -311,7 +311,7 @@ ggplot(ceagesp.month, aes(x = reorder(monthabb, month), y = prod)) +
   ggtheme_plot()
 ```
 
-Fish and seafood consumption in Brazil has distinct patterns according to the region of the country. As shown in IBGE data, the top consumers of fish and seafood products in the country are from the north and northeast regions (Figure 4). These regions are the poorest of the country (Figure 5) and have the greatest number of registered fishers (MPA, 2013), especially from the small-scale sector. Since most of the artisanal production is consumed localy, these regions have greater availability of fish and seafood products relative to capitals far from fishing activities. In addition to greater availability of fish and seafood products, the North and Northeast reagions of Brazil have, in general, greater tradition of consuming seafood products. Because of extensive areas of coastline, the northeast region has tradition of eating seafood in restaurants close to the ocean, especially in the summer. Similarly, the North region has extensive areas of rivers and coast, bieng part of the culture to eat fish and seafood products. In other parts of the country, people traditionally eat other types of protein. Brazil has historically been a agriculture and livestock production country, with large tradition of eating barbecue and bovine meat. In many places there are cultural barriers for regularly consuming fish and seafood products. However, with increased aquaculture production, many of these states are now producing more fish and as consequence are starting to eat more fish. In addition, people are increasingly aware of the health benefits derived from eating fish and seafood products. In summary, the north and northeast regions are the greatest consumers of fish and seafood in the country because of the availability and tradition of consuming fish and seafood products. Because these regions are the poorest of the country, fish and seafood products are crucial for food security, especially in coastal and riverine areas. 
+Fish and seafood consumption in Brazil has distinct patterns according to the region of the country. As shown in IBGE data, the top consumers of fish and seafood products in the country are from the north and northeast regions (Figure 4). These regions are the poorest of the country (Figure 5) and have the greatest number of registered fishers (MPA, 2013), especially from the small-scale sector. Since most of the artisanal production is consumed locally, these regions have greater availability of fish and seafood products relative to capitals far from fishing activities. In addition to greater availability of fish and seafood products, the North and Northeast regions of Brazil have, in general, greater tradition of consuming seafood products. Because of extensive areas of coastline, the northeast region has tradition of eating seafood in restaurants close to the ocean, especially in the summer. Similarly, the North region has extensive areas of rivers and coast, being part of the culture to eat fish and seafood products. In other parts of the country, people traditionally eat other types of protein. Brazil has historically been a agriculture and livestock production country, with large tradition of eating barbecue and bovine meat. In many places there are cultural barriers for regularly consuming fish and seafood products. However, with increased aquaculture production, many of these states are now producing more fish and as consequence are starting to eat more fish. In addition, people are increasingly aware of the health benefits derived from eating fish and seafood products. In summary, the north and northeast regions are the greatest consumers of fish and seafood in the country because of the availability and tradition of consuming fish and seafood products. Because these regions are the poorest of the country, fish and seafood products are crucial for food security, especially in coastal and riverine areas. 
 
 
 ```{r}
@@ -342,7 +342,7 @@ ggplot(income.region, aes(x=name,y=per_capita)) +
 
 In the North and Northeast regions, where consumption of seafood is highest, it is important to distinguish resources that are important for food security in coastal and riverine areas. Generally, while the most valuable species are usually sold for profit, smaller and less valuable fish are consumed by fishers and their families. Hundreds of species are consumed in these regions, with very little information on the most important species for food security. 
 
-For those people not involved directly in fishing activity, consumption of fish and seafood products is expensive relative to other protein types (Figure 6). Fish and seafood products are on average three times more expensive than poultry, twice the price of pig meat and 25% more expensive than cow meat (Institute of Agriculture Economics - IEA, 2018). Such difference in price ca explain in part the low consumtion of fish and seafood products in Brazil, especially during an economic crisis. In many cases, consumption of fish and seafood products are mostly in restaurants as a "fancy" dinner and not a meat for the day-to-day life. 
+For those people not involved directly in fishing activity, consumption of fish and seafood products is expensive relative to other protein types (Figure 6). Fish and seafood products are on average three times more expensive than poultry, twice the price of pig meat and 25% more expensive than cow meat (Institute of Agriculture Economics - IEA, 2018). Such difference in price ca explain in part the low consumption of fish and seafood products in Brazil, especially during an economic crisis. In many cases, consumption of fish and seafood products are mostly in restaurants as a "fancy" dinner and not a meat for the day-to-day life. 
 
 
 ```{r}
@@ -355,9 +355,9 @@ ggplot(meat.price, aes(x = reorder(protein, price), y = price)) +
 
 ```
 
-In addition to elevated prices, frozen seafood products available in supermarkets are many times unreliable and with poor quality. According to the Ministry of Agriculture, seafood fraud was detected in 21% of the fish sold in supermarkets. In addition, a preminent newspaper article pointed out that 70% of frozen fillets sold in supermarkets had excess water, reaching up to one third of the total weigth of the fish. This practice makes the product even more expensive and discurages people from buying seafood products (Folha de SP, 2008). Therefore, for the average consumer, seafood products are expensive and unreliable relative to other protein options. This explains in part low seafood consumption levels in many parts of the country.   
+In addition to elevated prices, frozen seafood products available in supermarkets are many times unreliable and with poor quality. According to the Ministry of Agriculture, seafood fraud was detected in 21% of the fish sold in supermarkets. In addition, a preeminent newspaper article pointed out that 70% of frozen fillets sold in supermarkets had excess water, reaching up to one third of the total weight of the fish. This practice makes the product even more expensive and discourages people from buying seafood products (Folha de SP, 2008). Therefore, for the average consumer, seafood products are expensive and unreliable relative to other protein options. This explains in part low seafood consumption levels in many parts of the country.   
 
-Data on the main species consumed in Brazil suggests that consumers are mostly driven by price, although there are some exeptions. From the top 10 seafood products sold in CEAGESP, 7 where below the 0.5 percentile of prices (Table 9). This indicates that the primary driver of domestic consumption is afordability. However, there are some expetions, such as salmon, shark and shrimps. Consumption of these species are mainly driven by desiribility, supplying high-end markets and restaurants. Species such as salmon and shrimp have high demand because of their distinct flavor and collor. Other species, especially white fish can be more easily substituted by other similar fish.  
+Data on the main species consumed in Brazil suggests that consumers are mostly driven by price, although there are some exceptions. From the top 10 seafood products sold in CEAGESP, 7 where below the 0.5 percentile of prices (Table 9). This indicates that the primary driver of domestic consumption is affordability. However, there are some expeditions, such as salmon, shark and shrimps. Consumption of these species are mainly driven by desirability, supplying high-end markets and restaurants. Species such as salmon and shrimp have high demand because of their distinct flavor and color. Other species, especially white fish can be more easily substituted by other similar fish.  
 
 ```{r}
 ##CEAGESP
@@ -378,8 +378,10 @@ ceagesp.prod = ceagesp.data %>%
 
 ```
 
-The aquaculture industry in Brazil has been growing rapidly. Accoding the Brazilian fish farming association, the aquaculture industry is the fastest growing food production sector in the country (PeixeBr, 2018). Brazil has some the largest potential for freshwater aquaculture in the world and will become a significant producer of fish in the next years. Fish farming has been growing around 8% per year in recent years, with a large increase in farming of native fish, especially in the north and middle-west regions. Additionally, Brazil is the fourth largest producer of tilapia in the world, with rapidly growing industries in the south and northeast regions. Another important aquaculture industry in the country is shrimp farming in the northeast region, although it has not been growing the production in recent years. With the expansion of the aquaculture industry in the country, the domestic supply of seafood will increase thus increasing accessibility of fish and seafood product for Brazil's population. In the North reagion, farmes fish is already afecting the market and reducing prices. Today, a large portion of the fish consumed in the region is produced by aquacutre. Tilapia is already the second most comercialized species in the CEAGESP market in Sao Paulo and the top species processed by sefood companies in the country. Cachuma (or Tambaqui) is a native species farmed in the north and mid-west regions and is the second most processed fish by seafood industries in Brazil. Thus, aquaculture products are already an important source of seafood for Brazil and has the perspective to grow rapidly in the future.  
+The aquaculture industry in Brazil has been growing rapidly. According the Brazilian fish farming association, the aquaculture industry is the fastest growing food production sector in the country (PeixeBr, 2018). Brazil has some the largest potential for freshwater aquaculture in the world and will become a significant producer of fish in the next years. Fish farming has been growing around 8% per year in recent years, with a large increase in farming of native fish, especially in the north and middle-west regions. Additionally, Brazil is the fourth largest producer of tilapia in the world, with rapidly growing industries in the south and northeast regions. Another important aquaculture industry in the country is shrimp farming in the northeast region, although it has not been growing the production in recent years. With the expansion of the aquaculture industry in the country, the domestic supply of seafood will increase thus increasing accessibility of fish and seafood product for Brazil's population. In the North region, farmed fish is already affecting the market and reducing prices. Today, a large portion of the fish consumed in the region is produced by aquaculture. Tilapia is already the second most commercialized species in the CEAGESP market in São Paulo and the top species processed by seafood companies in the country. Cachuma (or Tambaqui) is a native species farmed in the north and mid-west regions and is the second most processed fish by seafood industries in Brazil. Thus, aquaculture products are already an important source of seafood for Brazil and has the perspective to grow rapidly in the future.  
 
-#Conclusion
+#5. Conclusion
 
-Fish and seafood consumption in Brazil is still incipient compared to other parts of the world. However, fisheries resources are important for food security in the poorest regions of the country. The Amazon region has some of the highest fish consumption in the world, reaching 169kg/capita/year in riverine communities. 
+Fish and seafood consumption in Brazil is still incipient compared to other parts of the world. However, fisheries resources are important source of food in the poorest regions of the country and therefore are key to food security in Brazil. The Amazon region has some of the highest fish consumption in the world, reaching 169kg/capita/year in riverine communities. According to the compiled databases, sardines are the most important fish for consumption in Brazil, especially through the canned market. It is an affordable alternative to other protein sources that is consumed all over the country. Other important resources for fish and seafood consumption in the country are: croakers, tilapia, catfish, cachuma, tunas, sharks, among others. Brazil is characterized by having hundreds of commercially exploited species, especially in the small-scale sector. 
+
+ 
