@@ -58,11 +58,11 @@ The databases used were:
 
 3. MDIC - Import and Export data from the Ministry of Development, Industry and Foreign Trade. This database contains all seafood imported and exported in Brazil. 2014-2017.
 
-4. State fisheries landings - Fisheries landings data from three states of Brazil were there is continuous data collection and data are publicly available. These three states (São Paulo, Parana and Santa Catarina) are located in Southern Brazil and have a continuous data collection program sponsored by Petrobras in partnership with Universities. Petrobras is required to collect landings information for insurance purposes and has made some of its data publicly available for research projects. 2016-2017.
+4. State fisheries landings - Fisheries landings data from three states of Brazil were there is continuous data collection and data are publicly available. These three states (São Paulo, Parana and Santa Catarina) are located in Southern Brazil and have a continuous data collection program sponsored by Petrobras in partnership with Universities. Petrobras is required to collect landings information for insurance purposes and has made some of its data publicly available for research projects. For Sao Paulo data is available since 1998, for Santa Catarina since 2000 and for Parana since 2016. In addition to these detailed datasets, we were able to obtain total prodcution data from the state of Amazon from 2009 to 2017. 
 
-5. IBGE - Brazilian Institute of Geography and Statistics. This federal institute is responsible for surveying the country to provide basic information on all social aspects of Brazil. We gathered two pieces of information to inform our analysis: household food consumption and income by region of Brazil (last survey dates from 2009 and 2010). 
+5. IBGE - Brazilian Institute of Geography and Statistics. This federal institute is responsible for surveying the country to provide basic information on all social aspects of Brazil. We gathered two pieces of information to inform our analysis: household food consumption (last survey dates from 2009 and 2010) and income by region of Brazil (2017). 
 
-6. Fishing Permits - Number of registered fishers in the country from the extinct Ministry of Fisheries and Aquaculture (MPA). 2003 - 2010.
+6. Fishing Permits - Number of registered fishers in the country from the extinct Ministry of Fisheries and Aquaculture (MPA). 2003 - 2013.
 
 
 #2. Fisheries Context
@@ -72,7 +72,7 @@ The databases used were:
 ##Regional databases - State Fisheries Landings
 ###Santa Catarina
 
-The state of Santa Catarina is one of the main fisheries producers in the country. This state is home to the largest fisheries port in the country, concentrating most of the industrial fleet from Brazil (Figure X). Landings data fromt his state date back from year 2000, although from 2014-2016 catches are underreported due to lack of funding. Yearly production from Santa Catarina (about 130k tonnes) corresponds to about 18% of the total esimated landing from capture fisheries in Brazil (about 760k tonnes).
+The state of Santa Catarina is one of the main fisheries producers in the country. This state is home to the largest fisheries port in the country, concentrating most of the industrial fleet from Brazil (Figure X). Landings data fromt this state is available since 2000, although from 2014-2016 catches are underreported due to lack of funding. Yearly production from Santa Catarina (about 130k tonnes) corresponds to about 18% of the total esimated landing from capture fisheries in Brazil (about 760k tonnes).
 
 ```{r}
 #State of Santa Catarina
@@ -91,7 +91,7 @@ sc.prod = sc.data %>%
   
 ```
 
-The main species caught in the state accross all years are sardines, croaker and skipjack tuna. Below is a table with an example of top 10 species caught in 2017 (Table X).
+The main species caught in the state accross all years are sardines, herring, croaker and skipjack tuna. Below is a table with an example of top 10 species caught in 2017 (Table X).
 
 ```{r}
 #State of Santa Catarina
@@ -111,7 +111,7 @@ sc.prod = sc.data %>%
 
 ```
 
-Looking at historical records of the main species caught, it is possible to see the variability in catch especially of sardines (Figure X).
+Looking at historical records of the main species caught, it is possible to see great variability in catch especially of sardines (Figure X).
 
 ```{r}
 #State of Santa Catarina
@@ -133,7 +133,7 @@ sc.prod = sc.data %>%
 
 ###Sao Paulo
 
-The state of Sao Paulo has a continuous data collection program dating back from 1998 (Figure X). Although this state is not the main fisheries producer in the country, landing average about 35k tonnes per year (about 5% of the total esimated landing from capture fisheries in Brazil). 2017 was the year in which the data collection program covered all regions in the state. 
+The state of Sao Paulo has a continuous data collection program dating back from 1998 (Figure X). Although this state is not the main fisheries producer in the country, landing average about 35k tonnes per year (about 5% of the total esimated landing from capture fisheries in Brazil). 2017 was the year in which data collection program covered all regions in the state, which explains increased catches during this period. 
 
 ```{r}
 #State of Santa Catarina
@@ -152,7 +152,7 @@ sp.prod = sp.data %>%
   
 ```
 
-The main species caught in the state accross all years are shrimps, crayfish and crabs. Below is a table with an example of top 10 species caught in 2017 (Table X). The fishing fleet from this state is mainly artisanal, with very few industrial boats. 
+The main species caught in the state accross all years were shrimps, crayfish and crabs. Below is a table with an example of top 10 species caught in 2017 (Table X). The fishing fleet from this state is mainly artisanal, with very few industrial boats. Thus, catches represnt the species captured by the artisanal fleet in this region.
 
 ```{r}
 #State of Santa Catarina
@@ -174,7 +174,7 @@ sc.prod = sc.data %>%
 
 ###Parana
 
-Fisheries production in Parana state is mainly artisanal and totaled around one thousand tonnes in 2017. The main species caught in the state is shrimp, followed by crab and crayfish (Table X). This state represent overall catches from the artisanal sector in the country. Landing data is only available since 2016 for this state.  
+Fisheries production in Parana state is mainly artisanal and totaled around one thousand tonnes in 2017. The main species caught in the state is shrimp, followed by crab and crayfish (Table X). This state represent overall catches from the artisanal sector in the country. For this state, landing data is only available since 2016.  
 
 ```{r}
 #State of Parana
@@ -195,7 +195,7 @@ pa.prod = pa.data %>%
 ```
 ###Amazon
 
-Fisheries production in the amazon state is exclusively from riverine systems and small-scale boats. According to estimates from the state government, production has remained stable over the last decade, totaling around 200k tonnes per year (Figure X). From the estimated prodction, about 40% of the catch is for subsistance of riverine communities.  
+Fisheries production in the amazon state is exclusively from riverine systems and small-scale boats. According to estimates from the state government, production has remained stable over the last decade, totaling around 200k tonnes per year (Figure X). From the estimated prodction, about 40% of the catch is for subsistance consumption of riverine communities.  
 
 ```{r}
 #State of Santa Catarina
@@ -212,7 +212,7 @@ am.data$Year = as.factor(am.data$Year)
 
 ##Aquaculture Production
 
-According the Brazilian fish farming association (PeixeBR), the aquaculture industry is the fastest growing food production sector in the country (PeixeBR, 2018). Brazil has some the largest potential for freshwater aquaculture in the world and will become a significant producer of fish in the next years. Fish farming has been growing around 8% per year in recent years, with a large increase in farming of native fish, especially in the north and middle-west regions. Additionally, Brazil is the fourth largest producer of tilapia in the world, with rapidly growing industries in the south and northeast regions. Another important aquaculture industry in the country is shrimp farming in the northeast region, although it has not been growing the production in recent years (Table X). According to PeixeBR, there was a total production of about 690k tones of fish from aquaculture in 2017 (plus about 80k of shrimp, which totals about 771k tones). Thus, aquaculture products are already an important source of seafood for Brazil and has the perspective to grow rapidly in the future. 
+According the Brazilian fish farming association (PeixeBR), the aquaculture industry is the fastest growing food production sector in the country (PeixeBR, 2018). Brazil has some the largest potential for aquaculture in the world and will become a significant producer of fish in the next years. Fish farming has been growing around 8% per year in recent years, with a large increase in farming of native fish, especially in the north and middle-west regions. Additionally, Brazil is the fourth largest producer of tilapia in the world, with rapidly growing industries in the south and northeast regions. Another important aquaculture industry in the country is shrimp farming in the northeast region, although it has not been growing the production in recent years (Table X). According to PeixeBR, there was a total production of about 690k tones of fish from aquaculture in 2017 (plus about 80k of shrimp, which totals about 771k tones). Thus, aquaculture products are already an important source of seafood for Brazil and has the perspective to grow rapidly in the future. 
 
 ```{r}
 aquaculture = data.frame(Species_group = c("Tilapia", "Native fish", "Shrimp", "Others"), Production_tonnes = c(357639, 302235, 80000, 31825), Percent = c(46.3, 39.2, 10.3, 4.1)) 
@@ -249,7 +249,7 @@ ggplot(mdic.year, aes(x=year,y=prod,fill=carac)) +
 
 ```
 
-Fish and seafood import data shows that the main imported species in 2017 was the sardine followed by salmon, catfish fillet (pagasius) and hake fillet (Table 6). There was a major increase in the import of sardine in the last two years, from 17 thousand tonnes imported in 2014 to 90 thousand tonnes in 2017. This increase is mainly result of the decline in sardine catches from the industrial fleet. According to information from research developed about this fishery, about 100 thousand tonnes of sardine was landed in 2014 followed by a decline to about 20 thousand tonnes in 2017 (Pincinato and Asche 2018). According to the authors, this decline is mainly because of environmental variability in the south of Brazil and "El Niño" events that occurred during that period. Thus, Brazilian sardine and imports form a fully integrated market, which maintains a steady supply of sardines to canary industries year-round. 
+Fish and seafood import data shows that the main imported species in 2017 was the sardine followed by salmon, catfish fillet (pagasius) and hake fillet (Table 6). There was a major increase in the import of sardine in the last two years, from 17k tonnes imported in 2014 to 90k tonnes in 2017. This increase is mainly result of the decline in sardine catches from the industrial fleet. According to information from research developed about this fishery, about 100 thousand tonnes of sardine was landed in 2014 followed by a decline to about 20 thousand tonnes in 2017 (Pincinato and Asche 2018). According to the authors, this decline is mainly because of environmental variability in the south of Brazil and "El Niño" events that occurred during that period. Thus, Brazilian sardine and imports form a fully integrated market, which maintains a steady supply of sardines to canary industries year-round. 
 
 ```{r}
 mdic.data = read.csv("MDIC.csv")
@@ -290,7 +290,7 @@ ceagesp.prod = ceagesp.data %>%
 
 ```
 
-Data from SIGSIF shows that the main species processed in the country in 2017 was tilapia, followed by tambaqui (Colossoma macropomum), sardine, croaker, tambatinga (hybrid aquaculture species from the Amazon), catfish, salmon and tuna (Table 8). From the top 10 species processed in the country, 5 are from aquaculture production and 5 are from wild caught fisheries. A total of 360k tonnes of fish and seafood products were commercialized by 472 processing and distribution companies. This volume corresponded to about 20% of all estimated seafood consumed in the country (1.8b tonnes).
+Data from SIGSIF shows that the main species processed in the country in 2017 was tilapia, followed by tambaqui (native aquaculture species), sardine, croaker, tambatinga (hybrid aquaculture species from the Amazon), catfish, salmon and tuna (Table 8). From the top 10 species processed in the country, 5 are from aquaculture production and 5 are from wild caught fisheries. A total of 360k tonnes of fish and seafood products were commercialized by 472 processing and distribution companies. This volume corresponded to about 20% of all estimated seafood consumed in the country (1.8b tonnes).
 
 ```{r}
 data.sigsif = read.csv("SIGSIF.csv")
@@ -466,7 +466,7 @@ domestic.fisheries = data.sigsif %>%
 
 Because there is no reliable national-level landings data in Brazil since 2008, it is challenging to determine the top fisheries by income generated in the country. Data available are mainly from the industrial sector, where sardines, croaker and tuna are the main species caught. However, information from the SIGSIF (Table 2) and Santa Catarina state landings does not have any information on price. 
 
-A report by Nielsen analytic (Nielsen, 2018) shows that the canned sardine market in Brazil is valued at about 1.4 billion Brazilian Reais (approx. 380 million Dollars) and the canned tuna market is worth about 145 million Brazilian Reais (approx. 39 million Dollars). Additionally, according to the Brazilian seafood industry association, seafood industries have an aggregate revenue of 8 billion Brazilian Reais (approx. 2.2 billion Dollars) per year. These numbers demonstrate the strength of the seafood market (especially canned market) in Brazil and the importance of sardines for income and food security in the country. In comparison, the poultry maket in Brazi is worth about 52 billion reais (approx. 13 billion Dollars).
+A report by Nielsen analytic (Nielsen, 2018) shows that the canned sardine market in Brazil is valued at about 1.4 billion Brazilian Reais (approx. 380 million Dollars) and the canned tuna market is worth about 145 million Brazilian Reais (approx. 39 million Dollars). Additionally, according to the Brazilian seafood industry association, seafood industries have an aggregate revenue of 8 billion Brazilian Reais (approx. 2.2 billion Dollars) per year. These numbers demonstrate the strength of the seafood market (especially canned market) in Brazil and the importance of sardines for income and food security in the country. In comparison, the poultry market in Brazi is worth about 52 billion reais (approx. 13 billion Dollars).
 
 Data from SEAGESP market have important information on the value of seafood in the country. This database contains quantity and price information for all seafood products. Products sold in the market are both from industrial and artisanal sectors. Table 3 shows the main species ranked by value sold in the CEAGESP market in 2017. The most valuable species in this year were sardines followed by sharks, croaker, tuna and acoupa weakfish (Table 3). Sharks are not distinguished by species and are captured by both artisanal and industrial fleets. Sardines, croakers and tunas are caught mainly by the industrial fleet, while the acoupa weakfish is mainly caught by artisanal fisheries from the north and northeast regions of Brazil. Snook is also one of the top 10 species sold in the market and mainly captured by the artisanal sector. It is one of the species with greater price in the market.    
 
@@ -548,25 +548,61 @@ exports.value = mdic.data %>%
 ##Key messages
 
   * Fish and seafood consumption in Brazil is still incipient compared to other parts of the world
-  * Fisheries resources are important source of food in the poorest regions of the country thus key for food security
+  * Fisheries resources are important source of food in the poorest regions of the country thus key for food security in the country
   * Fisheries in Brazil are mostly artisanal, with less than 5% of the registeres fishers from the industrial sector
-  * There is no national-level fisheries ststistics in the country
-  * Aquaculture is the fastest growing food industry in the country
+  * There is no national-level fisheries ststistics since 2007 in the country
+  * Aquaculture is the fastest growing food industry in Brazil
 
 ## Data Uncertainty and gaps
 
+###Data Uncertainty
 
+1. SIGSIF - This database contains self-reported data from seafood industries accross the country. These companies report the weight of all seafood that entered their company. This seafood can sourced from aquaculture farms, fishing boats, local market and other seafood companies. These diferent sources are distinguished in the "origin" column. In case the seafood product is originated from another company that is also in this database, we have to be careful not to double count the product. For this reason is important to select only seafood that is originated from the producer (aquaculture or fisheries) to avoid overestimating the production. This can be easily done by filtering the data (origin == "PRODUTOR"). Another potential source of bias in this database, is through self-reporting errors. This is evident in the data from 2016, where production in one company from Rio de Janeiro exceeded 2 million tons, a clear typing error.     
 
-During the study we identified several important data gaps in our analysis. First, there is no national-level fisheries statistics in the country, which hindered our ability to accurately respond some of the questions. Second, there is no data on the fisheries production from the artisanal sector, which accounts for more than half of the seafood production in the coutry. Third, there are very few studies on fish consumption in the country, with the most reliable studies dating back more than eigth years. Fourth, there is very little information on the fisheries supply chain, especially from the artisanal sector. For the industrial sector, many of our databeses did not have information on prices, which made it dificult to estimate the total income generated. 
+2. CEAGESP - CEAGESP data is trustworthy and has very little uncertainty. Data collection is done by a contracted company that controls all the products that enters the market daily. 
+
+3. MDIC - This daatbase does not contain any important source of uncertainty, since all product imported or exported are rigorously checked by the governemnt. 
+
+4. State fisheries landings - These data have important sources of uncertainty. As with most landing data, in some states and specific years monitoring was not carried out in all landing sites in the state. In many cases, sampled catch was extrapolated to the entire fleet. However, such landings data are the most complete of the country.   
+
+5. IBGE - This data relies on questionaires from a random household sample in each region of the country. Especially for seafood products, highest consumption rates are from isolated coastal and riverine communities. Therefore, there might be sampling biases related to this database. However, IBGE is recognized internationally for high quality research and for having robust sampling of all areas in the country. Another potential source of bias is the date of the study. The survey was done in 2008, which may not reflect fish consumption today.  
+
+6. Fishing Permits - Although this database brings important information, there is a huge uncertainty regarding the number of fisher in the country. A huge fraud is currently being investigated by non-fishers that are registered as artisanal fishers to receive an insurance for fisheries closureperiods. According to the investigation, more than half of the insurance paid is irregular. In addition, many actual fishers do not have a fishing permit. Thus, this database is highly uncetain. 
+
+###Data gaps
+During the study we identified several important data gaps in our analysis. First, there is no national-level fisheries statistics in the country since 2007, which hindered our ability to accurately respond some of the questions. Second, there is no data on the fisheries production from the artisanal sector, which accounts for more than half of the seafood production in the coutry. Third, there are very few studies on fish consumption in the country, with the most reliable studies dating back more than eigth years. Fourth, there is very little information on the fisheries supply chain, especially from the artisanal sector. For the industrial sector, many of our databeses did not have information on prices, which made it dificult to estimate the total income generated. 
 
 ##Fisheries context
 
+State fisheries landings indicate that the main caught species by the industrial sector (represented by Santa Catarina state) are sardines, herring, croaker and skipjack tuna. Relative participation of each species veries yearly, with most variability in sardine catches. Such Variability is mainly caused by environmental stochasticity linked to El Nino events. Landings from the artisanal sector (represented by Sao Paulo and Parana states) indicate that the main species captured are shimps, crayfish and crabs.  
+
 ##Domestic fish consumption
 
-According to the compiled databases, sardines are the most important fish for consumption in Brazil, especially through the canned market. It is an affordable alternative to other protein sources and is consumed all over the country. Other important resources for fish and seafood consumption in the country are: croakers, tilapia, catfish, cachuma, tunas, sharks, salmon, hake, among others. From these main species consumed, tilapia and cachuma are from national aquaculture production and salmon are imported mainly from Chile. The remaining species are from domestic capture fisheries. However, these results rely on data mostly from imports and the industrial sector, whcih comprises about 30-50% of catches in the country. The remaining production is from the small-scale sector, where there is basically no information on catches. This sector is characterized by having hundreds of commercially exploited species, where some of  the most important species are crabs, shrimps, lobster, snappers, groupers, mullet, weakfish and snook. 
+**Key messages**:
+  * Brazil relies heavly on seafood imports to supply growing demand for seafood in the country
+  * Fish and seafood products are crucial for food security in the poorest regions of the country
+  * Canned sardines are the most consumed fish product in the country
+  * From the main fish species consumed in Brazil, about half are from capture fisheries
 
 
+Domestic consumption of fish and seafood products in Brazil is still incipient compared to other countries around the globe (around 10kg/capita/year). However, because of Brazil's large population, consumption of fish and seafood product sums up to large amounts every year. To supply the domestic market, Brazil imports over 380k tons of seafood products every year. However, with increased aquaculture production (about 770k tons in 2017), domestic supply of fish and seafood products are rising quickly. 
 
+Despite low per capta consumption accross the country, consumption of fish in the poorest regions of the country can be very high. For example, the Amazon region has one of the highest fish consumption in the world, reaching 169kg/capta/year. Only in this state, it is estimated that about 80k tons of fish is consumed for subsistance of riverine communities.  In this study, we found that the poorest regions of the country are those that consume the most fish, which makes fisheries production crucial for food security. The North and Northeast regions are especieally important since they  have the highest fish consumption per capta in the country, while having the lowest per capta income and the largest number of registered fishers in the country. 
+
+According to the compiled databases, sardines are the most important fish for consumption in Brazil, especially through the canned market. It is an affordable alternative to other protein sources and is consumed all over the country. Other important resources for fish and seafood consumption in the country are: croakers, tilapia, catfish, cachuma, tunas, sharks, salmon, hake, among others. From these main species consumed, tilapia and cachuma are from national aquaculture production and salmon is imported mainly from Chile. The remaining species are from domestic capture fisheries. However, these results rely on data mostly from imports, aquaculture and the industrial sector (which comprises about 30-50% of catches in the country). The remaining production is from the small-scale sector, where there is basically no information on catches. Production from the atisanal sector is mainly consumed locally, with huge social importance in the country. This sector is characterized by having hundreds of commercially exploited species, where some of  the most important species are crabs, shrimps, lobster, snappers, groupers, mullet, weakfish and snook.
+
+
+##Fisheries Employment and Income 
+
+**Key messages**:
+  * Fisheries has a significant social importance for Brazil, employing millions accross the entire supply chain
+  * About 95% of the registered fishers are from the artisanal sector
+  * According to our databases, sardine is the most valuable resource in the country
+  * Lobster exports are an imporant economic activity for artisanal fishers 
+
+The total number of fishers in Brazil is very uncertain. According to different data sources, there are between 500k and 1 million fishers in the country, with the vast majority from the artisanal sector. When considering employment along the entire supply chain, fishing activities have enormous social importance for the country. 
+
+According to our databases, sardines are the most valuable species in the country. The canned sardine and tuna market is crucial for the country's economy. Seafood industries that process these and other fish have an aggregated revenue of multiple billion dollars every year. Lobsters are the main exported species in Brazil, a resource captured exclusively by the artisanal fleet.  
 
 ##Conclusion
 
