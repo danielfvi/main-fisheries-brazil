@@ -62,7 +62,7 @@ The databases used were:
 
 5. IBGE - Brazilian Institute of Geography and Statistics. This federal institute is responsible for surveying the country to provide basic information on all social aspects of Brazil. We gathered two pieces of information to inform our analysis: household food consumption (last survey dates from 2009 and 2010) and income by region of Brazil (2017). 
 
-6. Fishing Permits - Number of registered fishers in the country from the extinct Ministry of Fisheries and Aquaculture (MPA). 2003 - 2013.
+6. Fishing Permits - Two sources of data. 1) Total number of registered fishers in the country from the extinct Ministry of Fisheries and Aquaculture (2003 - 2013). 2) Number of regitered fishers per state of Brazil from a study conducted during investigation against fraud in fishers insurance system (Ministério da Transparência, Fiscalização e Controladoria-Geral da União - CGU, 2017).
 
 
 #2. Fisheries Context
